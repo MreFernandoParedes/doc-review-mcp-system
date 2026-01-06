@@ -1,0 +1,620 @@
+# DECRETO SUPREMO Nº 115-2025-PCM
+
+**Decreto Supremo que aprueba el Reglamento de la Ley Nº 31814, Ley que promueve el uso de la inteligencia artificial en favor del desarrollo económico y social del país**
+
+
+### CONSIDERANDO:
+
+Que, el Decreto Legislativo N° 1412, Decreto Legislativo que aprueba la Ley de Gobierno Digital, tiene por objeto establecer el marco de gobernanza del gobierno digital para la adecuada gestión de la identidad digital, servicios digitales, arquitectura digital, interoperabilidad, seguridad digital y datos, así como el régimen jurídico aplicable al uso transversal de tecnologías digitales en la digitalización de procesos y prestación de servicios digitales por parte de las entidades de la Administración Pública en los tres niveles de gobierno;
+
+Que, el numeral 4.2 del artículo 4 del Decreto de Urgencia N° 006-2020, Decreto de Urgencia que crea el Sistema Nacional de Transformación Digital, dispone que el Sistema Nacional de Transformación Digital abarca, de manera no limitativa, las materias de gobierno digital, economía digital, conectividad digital, educación digital, tecnologías digitales, innovación digital, servicios digitales, sociedad digital, ciudadanía e inclusión digital y confianza digital;
+
+Que, según lo dispuesto en el literal h) del artículo 3 del Reglamento del Decreto de Urgencia N° 006-2020, Decreto de Urgencia que crea el Sistema Nacional de Transformación Digital, aprobado por el Decreto Supremo N° 157-2021-PCM, las tecnologías emergentes son aquellas tecnologías digitales capaces de generar soluciones innovadoras tales como la robótica, la analítica, la inteligencia artificial, las tecnologías cognitivas, la nanotecnología y el Internet de las cosas (IoT), entre otras, que conforman la industria 4.0 como la nueva revolución que combina técnicas avanzadas de producción y operaciones con tecnología, generando un impacto en el ecosistema digital, las organizaciones y las personas;
+
+Que, la Ley N° 31814, Ley que promueve el uso de la inteligencia artificial en favor del desarrollo económico y social del país, tiene por objeto promover el uso de la inteligencia artificial en el marco del proceso nacional de transformación digital privilegiando a la persona y el respeto de los derechos humanos con el fin de fomentar el desarrollo económico y social del país, en un entorno seguro que garantice su uso ético, sostenible, transparente, replicable y responsable;
+
+Que, el artículo 4 de la citada Ley N° 31814 señala que la Presidencia del Consejo de Ministros, a través de la Secretaría de Gobierno y Transformación Digital, en su calidad de ente rector del Sistema Nacional de Transformación Digital, es la autoridad técnico-normativa a nivel nacional responsable de dirigir, evaluar y supervisar el uso y la promoción del desarrollo de la inteligencia artificial y las tecnologías emergentes, a fin de alcanzar los objetivos del país en materia de transformación digital y los objetivos de desarrollo sostenible conforme a la normativa vigente;
+
+Que, asimismo, la Única Disposición Complementaria Final de la Ley N° 31814 establece que el Poder Ejecutivo aprueba el reglamento de la citada norma;
+
+Que, a través de la Resolución Ministerial N° 132-2024-PCM se dispuso la publicación del proyecto de Reglamento de la Ley Nº 31814, Ley que promueve el uso de la inteligencia artificial en favor del desarrollo económico y social del país, del Decreto Supremo que lo aprueba y su exposición de motivos; habiéndose recibido las opiniones, comentarios y/o sugerencias de las entidades públicas, sector privado, organizaciones de la sociedad civil y de la ciudadanía en general;
+
+Que, posteriormente, desde el 25 de noviembre al 6 de diciembre de 2024, se realizó consulta pública sobre el proyecto de Reglamento de la Ley N° 31814, a través de la Plataforma Integral de Solicitudes Digitales del Estado Peruano - FACILITA PERÚ, donde se recibieron aportes y comentarios del sector público, del sector privado, la academia y la sociedad civil en general;
+
+Que, en virtud a lo dispuesto en el numeral 33.2 del artículo 33 del Reglamento del Decreto Legislativo N° 1565, Decreto Legislativo que aprueba la Ley General de Mejora de la Calidad Regulatoria, aprobado por Decreto Supremo N° 023-2025-PCM, la presente norma cuenta con dictamen favorable de la Comisión Multisectorial de Calidad Regulatoria que valida el expediente de Análisis de Impacto Regulatorio Ex Ante correspondiente;
+
+Que, en ese sentido, resulta necesario aprobar el Reglamento de la Ley N° 31814, la Ley N° 31814, Ley que promueve el uso de la inteligencia artificial en favor del desarrollo económico y social del país, a fin de establecer las disposiciones aplicables al uso, desarrollo y promoción de la inteligencia artificial en el marco del proceso nacional de transformación digital;
+
+De conformidad con lo dispuesto en el numeral 8) del artículo 118 de la Constitución Política del Perú; la Ley Nº 29158, Ley Orgánica del Poder Ejecutivo; la Ley Nº 31814, Ley que promueve el uso de la inteligencia artificial en favor del desarrollo económico y social del país; y el Texto Integrado del Reglamento de Organización y Funciones de la Presidencia del Consejo de Ministros, aprobado mediante Resolución Ministerial N° 199-2025-PCM;
+
+### DECRETA:
+
+**Artículo 1.- Aprobación de Reglamento**
+
+Aprobar el Reglamento de la Ley Nº 31814, Ley que promueve el uso de la inteligencia artificial en favor del desarrollo económico y social del país, que consta de seis (06) títulos, treinta y seis (36) artículos y seis (06) disposiciones complementarias finales, el cual forma parte integrante del presente Decreto Supremo.
+
+**Artículo 2.- Financiamiento**
+
+La implementación y la sostenibilidad de las acciones involucradas en el presente Decreto Supremo y el Reglamento aprobado mediante el artículo precedente, se financian con cargo a los presupuestos institucionales de los pliegos involucrados sin demandar recursos adicionales al Tesoro Público.
+
+**Artículo 3.- Publicación**
+
+Disponer la publicación del presente Decreto Supremo y el Reglamento aprobado mediante el artículo 1, en la Plataforma Digital Única del Estado Peruano para Orientación al Ciudadano (www.gob.pe) y en las sedes digitales de la Presidencia del Consejo de Ministros (www.gob.pe/pcm), del Ministerio de Educación (www.gob.pe/minedu), del Ministerio de la Producción (www.gob.pe/produce) y del Ministerio de Justicia y Derechos Humanos (www.gob.pe/minjus), el mismo día de su publicación en el Diario Oficial El Peruano.
+
+**Artículo 4.- Refrendo**
+
+El presente Decreto Supremo es refrendado por el Presidente del Consejo de Ministros, el Ministro de Educación, el Ministro de la Producción y el Ministro de Justicia y Derechos Humanos.
+
+### DISPOSICIÓN COMPLEMENTARIA FINAL
+
+**ÚNICA. Vigencia**
+
+El presente Decreto Supremo entra en vigencia a partir de los noventa (90) días hábiles siguientes de su publicación en el diario oficial El Peruano, con excepción de la Primera, Segunda, Cuarta y Quinta Disposiciones Complementarias Finales del Reglamento aprobado mediante el artículo 1, las cuales entran en vigencia al día siguiente de la publicación de la presente norma en el diario oficial El Peruano.
+
+### DISPOSICIÓN COMPLEMENTARIA DEROGATORIA
+
+**ÚNICA. Derogación de la Resolución Ministerial que aprueba el uso obligatorio de Norma Técnica Peruana**
+
+Se deroga la Resolución Ministerial N° 246-2007-PCM que aprueba el uso obligatorio de la Norma Técnica Peruana "NTP-ISO/IEC 17799:2007. Tecnología de la Información. Código de buenas prácticas para la gestión de la seguridad de la información. 2ª Edición".
+
+Dado en la Casa de Gobierno, en Lima, a los ocho días del mes de setiembre del año dos mil veinticinco.
+
+
+---
+
+# REGLAMENTO DE LA LEY N° 31814, LEY QUE PROMUEVE EL USO DE LA INTELIGENCIA ARTIFICIAL EN FAVOR DEL DESARROLLO ECONÓMICO Y SOCIAL DEL PAÍS
+
+## TÍTULO I
+## DISPOSICIONES GENERALES
+
+**Artículo 1. Objeto**
+
+El presente Reglamento tiene por objeto establecer disposiciones reglamentarias de la Ley N° 31814, Ley que promueve el uso de la Inteligencia Artificial en favor del desarrollo económico y social del país, en adelante, la Ley.
+
+**Artículo 2. Finalidad**
+
+El presente Reglamento tiene por finalidad:
+
+a) Fomentar e impulsar el desarrollo y uso de la Inteligencia Artificial por parte de las entidades públicas, organizaciones del sector privado, la sociedad civil, ciudadanía y la academia.
+
+b) Promover el uso seguro, responsable y ético de sistemas basados en Inteligencia Artificial, garantizando el respeto de los derechos humanos en el territorio nacional consagrados en la Constitución Política del Perú y en los tratados internacionales de los que el Perú es parte.
+
+c) Establecer disposiciones para que el desarrollo, implementación y uso de sistemas basados en Inteligencia Artificial se realice de manera segura, ética, sostenible, transparente, replicable, responsable e inclusiva.
+
+**Artículo 3. Ámbito de aplicación**
+
+Las disposiciones del presente Reglamento son de aplicación a:
+
+a) Las entidades de la Administración Pública establecidas en el artículo I del Título Preliminar del Texto Único Ordenado de la Ley Nº 27444, Ley del Procedimiento Administrativo General, aprobado mediante Decreto Supremo Nº 004-2019-JUS, o norma que lo sustituya.
+
+b) Las empresas que realizan actividad empresarial del Estado que se encuentran en el ámbito del Fondo Nacional de Financiamiento de la Actividad Empresarial del Estado (FONAFE), así como, las empresas públicas de los gobiernos regionales y locales.
+
+c) Las organizaciones del sector privado, la sociedad civil, ciudadanos y la academia que integran el Sistema Nacional de Transformación Digital, en el marco del proceso nacional de transformación digital, privilegiando a la persona y el respeto de los derechos humanos, conforme a lo dispuesto en el artículo 1 de la Ley.
+
+**Artículo 4. Excepciones al ámbito de aplicación**
+
+Las disposiciones del presente Reglamento no son aplicables en los siguientes supuestos:
+
+a) El uso de sistemas basado en Inteligencia Artificial para fines personales.
+
+b) El uso de sistemas basado en Inteligencia Artificial para la defensa y seguridad nacional, siempre que cumplan con los siguientes principios: centrado en la protección de derechos fundamentales, no discriminación, seguridad, proporcionalidad y fiabilidad, supervisión y rendición de cuentas, establecidos en el artículo 7 del presente Reglamento.
+
+**Artículo 5. Acrónimos**
+
+En el presente Reglamento se emplean los siguientes acrónimos:
+
+a) CND: Centro Nacional de Datos
+b) CNIDIA: Centro Nacional de Innovación Digital e Inteligencia Artificial
+c) CGTD: Comité de Gobierno y Transformación Digital
+d) CONCYTEC: Consejo Nacional de Ciencia, Tecnología e Innovación
+e) ENIA: Estrategia Nacional de Inteligencia Artificial
+f) IA: Inteligencia Artificial
+g) INACAL: Instituto Nacional de Calidad
+h) PCM: Presidencia del Consejo de Ministros
+i) PNTD: Política Nacional de Transformación Digital
+j) PRODUCE: Ministerio de la Producción
+k) SGTD: Secretaría de Gobierno y Transformación Digital
+l) SNTD: Sistema Nacional de Transformación Digital
+
+**Artículo 6. Definiciones**
+
+Para efectos de la aplicación del presente Reglamento, sin perjuicio de las definiciones establecidas en la Ley, complementariamente, se establecen las siguientes:
+
+a. **Alfabetización Digital:** Es el proceso de adquisición y desarrollo de competencias digitales esenciales para interactuar en entornos digitales permanentemente, necesarias para estudiar, trabajar, tramitar bienes y servicios, socializar y en general, desenvolverse en la vida diaria, que permite ejercer la ciudadanía de manera plena y aprovechar las oportunidades que brinda el entorno.
+
+b. **Desarrollador:** Toda persona natural, persona jurídica o entidad pública que diseñe, programe o entrene un sistema basado en IA.
+
+c. **Emprendimiento innovador:** Micro o pequeña empresa en desarrollo, constituida por una persona natural con negocio o una persona jurídica, cuya propuesta de valor se basa en la innovación en producto, entiéndase por producto al bien o servicio que ofrece el emprendimiento.
+
+d. **Implementador:** Toda persona natural, persona jurídica o entidad pública que integra o despliega un sistema basado en IA dentro de un proceso productivo u operativo.
+
+e. **Sesgo Algorítmico:** Error sistemático que ocurre cuando un sistema basado en IA, toma decisiones injustas, parciales o discriminatorias, debido a datos de entrenamiento, diseño del algoritmo o interacciones humanas sesgadas.
+
+f. **Software:** La totalidad o parte de los programas, procedimientos, reglas y documentación asociada de un sistema de procesamiento de información.
+
+g. **Usuario:** Persona natural que utiliza un sistema basado en IA, una vez que ha sido implementado o distribuido, y es diferente del desarrollador y del implementador, e interactúa de forma activa o pasiva con el sistema para obtener un resultado, beneficiarse de sus funcionalidades o resolver problemas específicos.
+
+Asimismo, respecto a las siguientes definiciones establecidas en la Ley, se debe tener cuenta lo siguiente:
+
+h. **Algoritmo:** Al aplicarse a una representación de datos o información, permite su transformación sistemática para resolver un problema o tomar una decisión.
+
+i. **IA:** Disciplina científica orientada a la investigación y desarrollo de sistemas basados en IA.
+
+j. **Sistema basado en IA:** Sistema basado en máquina que, para objetivos de forma explícita o implícita, infiere, a partir de la entrada que recibe, cómo generar salidas tales como predicciones, contenido, recomendaciones o toma de decisiones que puedan influir en la o los entornos físicos o digitales. Los diferentes sistemas basados en IA varían en sus niveles de autonomía y la capacidad de entendimiento y adaptación después del despliegue.
+
+**Artículo 7. Principios Rectores**
+
+Son principios que rigen el desarrollo, implementación y uso de sistemas basados en IA, complementariamente a los establecidos en el artículo Único del Título Preliminar de la Ley, los siguientes:
+
+a) **No discriminación:** En las fases del desarrollo, implementación y uso de un sistema basado en IA, se implementan medidas para prevenir, mitigar y corregir la generación, el reforzamiento o la perpetuación de resultados discriminatorios o sesgados. En consecuencia, se busca evitar cualquier forma de discriminación conforme lo establece la Constitución Política del Perú, en las normas y tratados o acuerdos nacionales e internacionales, asegurando que los sistemas basados en IA se usen de manera segura, responsable, ética, justa, transparente, equitativa y respetuosa de los derechos humanos.
+
+b) **Privacidad de los datos personales:** Es el respeto de manera irrestricta a la privacidad y la protección de datos personales en el desarrollo, implementación y uso de la IA, estableciendo medidas técnicas, organizativas y legales para preservar la seguridad de los datos personales, promover la transparencia de las condiciones del tratamiento de los datos personales y fortalecer la confianza digital, con el objetivo de generar un impacto positivo en la sociedad, promoviendo el bienestar, la equidad y el desarrollo integral de los ciudadanos, sin comprometer su dignidad ni sus libertades individuales.
+
+c) **Protección de derechos fundamentales:** Se garantiza el respeto y protección de los derechos fundamentales en el desarrollo, implementación y uso de sistemas basados en IA, priorizando el bienestar humano conforme a la Constitución Política del Perú, las normas y tratados o acuerdos nacionales e internacionales.
+
+d) **Respeto del derecho de autor y derechos conexos:** En las fases del desarrollo, implementación y uso de un sistema basado en IA, se deben respetar los derechos de autor, tanto morales como patrimoniales, y de los creadores respecto de sus obras originales de acuerdo con la normativa nacional y los tratados internacionales en la materia.
+
+e) **Seguridad, proporcionalidad y fiabilidad:** Los sistemas basados en IA deben ser fiables y seguros durante todo su desarrollo implementación y uso para que, en condiciones de uso, según su finalidad prevista, funcionen adecuadamente y minimicen los riesgos del uso indebido u otras condiciones adversas vinculados a dichos sistemas. La aplicación de las salvaguardias y medidas de fiabilidad y seguridad debe ser proporcional al nivel de riesgo que el sistema basado en IA pueda generar.
+
+f) **Sensibilización y educación en IA:** Se promueve la alfabetización digital y el desarrollo de habilidades relacionadas con el diseño, desarrollo, implementación y uso de sistemas basado en IA, en todas las etapas del desarrollo de una persona, con énfasis en ciencia, tecnología, ingeniería, matemáticas, estadística, programación, ciencia de datos, ética, derechos humanos, entre otros; así como la concienciación, comprensión y sensibilización sobre el uso y el impacto de los sistemas basados en IA, para que las personas puedan tomar decisiones informadas sobre su uso.
+
+g) **Sostenibilidad:** En las fases del desarrollo, implementación y uso de un sistema basado en IA, se analizan y evalúan de manera integral sus repercusiones humanas, sociales, económicas, culturales y ambientales, asegurando que estén alineadas con los objetivos de las Políticas Nacionales y los Objetivos de Desarrollo Sostenible (ODS) de las Naciones Unidas. Asimismo, se promueve la adopción de prácticas sostenibles que minimicen el consumo de energía y recursos, fomentando soluciones tecnológicas responsables con el ambiente, así como sus componentes, y comprometidas con el desarrollo sostenible.
+
+h) **Supervisión Humana:** Los sistemas basados en IA, deben estar sujetos a una supervisión humana, asegurando que sus decisiones sean éticas, justas y respetuosas de los derechos fundamentales, así como, garantizando la validación de la calidad de los datos utilizados para asegurar su precisión, integridad y representatividad. La intervención humana es necesaria para corregir, modificar o detener el funcionamiento de estos sistemas, con el fin de prevenir abusos, fortalecer la transparencia y rendición de cuentas y salvaguardar el bienestar colectivo, en cumplimiento de los principios jurídicos, éticos y morales vigentes.
+
+i) **Transparencia:** Los sistemas basados en IA, deben ser claros, explicables y accesibles, garantizando que los procesos, algoritmos y decisiones sean comprensibles para usuarios, implementadores, y autoridades. Esto incluye facilitar información sobre su funcionamiento, los datos utilizados, los criterios de decisión y los posibles sesgos, promoviendo la rendición de cuentas y la confianza pública. La transparencia fortalece la equidad, la justicia y el respeto a los derechos humanos, alineando el uso de la IA con el interés colectivo y los valores democráticos.
+
+j) **Rendición de Cuentas:** Los actores involucrados en el desarrollo, implementación y uso de sistemas basados en IA, asumen responsabilidad por sus acciones y decisiones, debiendo garantizar mediante mecanismos que permitan identificar, evaluar y responder por los impactos generados por la IA, ya sean positivos o negativos, en ámbitos como los derechos humanos, la equidad, confianza, la seguridad y el medio ambiente.
+
+Asimismo, respecto a los siguientes principios establecidos en la Ley, se debe tener cuenta lo siguiente:
+
+k) **Desarrollo ético para una IA responsable:** Se promueve un enfoque ético para definir que en el desarrollo, implementación y uso de los sistemas basado en IA se garantice el respeto de los derechos humanos, la dignidad y el bienestar colectivo, conforme a los principios jurídicos, éticos y morales.
+
+l) **Estándares de seguridad basados en riesgos:** Busca una comprensión profunda de los riesgos específicos y sus implicancias en el desarrollo, implementación y uso de los sistemas basados en IA. Se identifican amenazas, vulnerabilidades y posibles consecuencias negativas, así como, la evaluación de la probabilidad de ocurrencia y el impacto asociado a cada riesgo.
+
+## TÍTULO II
+## GOBERNANZA PARA EL DESARROLLO Y USO DE IA
+
+**Artículo 8. Autoridad Nacional**
+
+Además de las acciones previstas en la Ley, son acciones de la PCM, a través de la SGTD, en su rol de Autoridad técnico-normativa a nivel nacional, responsable de dirigir, evaluar y supervisar el uso y la promoción del desarrollo de la IA, y las tecnologías emergentes, que incluye infraestructura basada en software, las siguientes:
+
+a) Fomentar la generación de espacios de intercambio técnico, legal y acciones para el desarrollo y uso seguro, responsable y ético de sistemas basados en IA, que impulsen el desarrollo y bienestar del país.
+
+b) Aprobar lineamientos, estándares, guías, entre otras disposiciones normativas complementarias para el desarrollo, implementación y uso de la IA.
+
+c) Monitorear el uso de los sistemas basados en IA que se consideren de riesgo indebido en el territorio nacional.
+
+d) Realizar seguimiento a las mediciones, estudios e índices internacionales sobre IA.
+
+e) Promover el intercambio de buenas prácticas y experiencias relacionadas con el desarrollo, implementación y uso de la IA, a nivel nacional e internacional.
+
+f) Emitir opinión vinculante sobre el alcance, interpretación e integración de normas en materia de IA.
+
+g) Supervisar el cumplimiento de la Ley y del presente Reglamento; y, en caso de incumplimiento, se pone en conocimiento de las autoridades competentes para que adopten las acciones correspondientes.
+
+h) Informar anualmente a la Comisión de Ciencia, Innovación y Tecnología del Congreso de la República, los avances sobre la implementación de los servicios en materia de IA, de la PNTD, y la ENIA, vigentes. El informe se presenta hasta el último día hábil del mes de marzo de cada año siguiente.
+
+i) Brindar capacitación y asistencia técnica a las entidades de la Administración Pública para el desarrollo, implementación y uso de la IA, en el marco de sus competencias y cuando éstas lo soliciten.
+
+j) Articular con entidades de la Administración Pública, organizaciones del sector privado, la sociedad civil, la academia u otros actores relevantes, para una sociedad digital, las acciones pertinentes para cumplir la Ley y el presente Reglamento.
+
+k) Desempeñar el rol de punto de contacto nacional en las comunicaciones y coordinaciones con otros organismos de similar naturaleza en espacios nacionales e internacionales.
+
+**Artículo 9. Actores para la gobernanza en el desarrollo, implementación y uso de la IA**
+
+Los actores para la gobernanza en el desarrollo, implementación y uso de la IA, son los siguientes:
+
+9.1 La PCM, a través de la SGTD, en su calidad de ente rector del SNTD.
+
+9.2 El Comité de Alto Nivel por un Perú digital, innovador y competitivo, de acuerdo con lo establecido en el Decreto de Urgencia N° 006-2020, el cual sirve como un mecanismo de articulación multisectorial entre el sector público, organizaciones del sector privado, sociedad civil, academia y la ciudadanía, para fomentar que los sistemas basados en IA se desarrollen de manera segura, ética, sostenible, transparente, replicable, responsable e inclusiva en beneficio de la sociedad.
+
+9.3 Los Comités de Gobierno y Transformación Digital (CGTD) de las entidades de la Administración Pública son responsables de liderar, dirigir, evaluar y supervisar los proyectos de sistemas basados en IA estratégicos para la entidad, siguiendo lo dispuesto en el presente Reglamento y las normas vigentes en materia de gobierno y transformación digital, y otras complementarias que emita la SGTD de la PCM.
+
+9.4 El Oficial de Seguridad y Confianza Digital, encargado de promover la seguridad y confiabilidad de los sistemas basados en IA, concerta y brinda soporte en la gestión de riesgos en el desarrollo, implementación y uso de los sistemas basados en IA.
+
+9.5 El Oficial de Gobierno de Datos, quien promueve la calidad y el intercambio de los datos a fin de evitar sesgos y asegurar la precisión y representatividad de los datos utilizados en el entrenamiento, validación y uso de los sistemas basados en IA.
+
+9.6 El Oficial de Datos Personales, quien actúa para asegurar que, en el desarrollo, implementación y uso de la IA, se realice un tratamiento adecuado de datos personales.
+
+9.7 Las organizaciones del sector privado, la sociedad civil, la academia u otros actores relevantes para una sociedad digital, participan activamente mediante sesiones públicas, mesas de trabajo, comisiones, comités y en general, mediante colegiados, u otros mecanismos de articulación físicos y/o digitales que establezcan las entidades de la Administración Pública, en el marco de sus competencias, para impulsar el desarrollo, implementación y uso de sistemas basados en IA, que garanticen el respeto de los derechos humanos, en favor del desarrollo económico y social del país.
+
+9.8 Las organizaciones del sector privado, toman como referencia los roles establecidos en el presente artículo, a fin de determinar las responsabilidades que permitan un desarrollo, implementación y uso de sistemas basados en IA de manera segura, ética, sostenible, transparente, replicable, responsable e inclusiva.
+
+**Artículo 10. De los instrumentos para la promoción, desarrollo, implementación y uso de la IA**
+
+10.1 Son instrumentos para la promoción, desarrollo, implementación y uso de la IA, de manera enunciativa más no limitativa:
+
+a) La Política Nacional de Transformación Digital (PNTD).
+b) La Estrategia Nacional de Inteligencia Artificial (ENIA).
+c) La Estrategia Nacional de Gobierno de Datos (ENGD).
+d) El Centro Nacional de Datos (CND).
+e) El Centro Nacional de Seguridad Digital (CNSD).
+f) El Centro Nacional de Innovación Digital e Inteligencia Artificial (CNIDIA).
+g) El Laboratorio de Gobierno y Transformación Digital.
+h) Otros que proponga y establezca la PCM, a través de la SGTD.
+
+10.2 La SGTD, puede convocar la participación de entidades de la Administración Pública de los distintos niveles de gobierno, expertos en la materia, organizaciones del sector privado, sociedad civil, la academia u otros actores relevantes para una sociedad digital para que, interactúen o usen los instrumentos para el desarrollo, implementación y uso de la IA, a fin de coadyuvar el desarrollo económico y social del país.
+
+**Artículo 11. Del Centro Nacional de Innovación Digital e Inteligencia Artificial**
+
+11.1 La SGTD impulsa las acciones para el desarrollo, implementación y uso de la IA y otras tecnologías emergentes, a través del Centro Nacional de Innovación Digital e Inteligencia Artificial, conforme a lo dispuesto en el numeral 18.2 del artículo 18 del Reglamento del Decreto de Urgencia N° 006-2020, Decreto de Urgencia que crea el Sistema Nacional de Transformación Digital, aprobado por Decreto Supremo N° 157-2021-PCM.
+
+11.2 La SGTD, a través de la Subsecretaría de Tecnologías y Seguridad Digital y la Subsecretaría de Servicios e Innovación Digital, desarrolla las siguientes acciones para gestionar el Centro Nacional de Innovación Digital e Inteligencia Artificial:
+
+a) Poner a disposición de las entidades de la Administración Pública, servicios que permitan diseñar y entrenar sistemas basados en IA de manera segura.
+
+b) Contribuir y brindar soporte en el diseño y desarrollo, en articulación con las entidades de la Administración Pública competentes, de los sistemas basados en IA para mejorar su efectividad y eficiencia institucional.
+
+c) Promover y proponer alianzas con entidades públicas nacionales o extranjeras en materia de IA.
+
+d) Facilitar y acelerar la identificación de proyectos prioritarios para la solución de problemas y desafíos públicos, con el desarrollo de sistemas basados en IA, de forma descentralizada y a nivel nacional, en articulación con las entidades de la Administración Pública, centros de educación técnico-productiva, institutos y escuelas de educación superior tecnológica, artística y universidades públicas y privadas.
+
+e) Promover eventos nacionales e internacionales y realizar publicaciones sobre el uso y adopción de la IA y otras tecnologías emergentes.
+
+f) Promover y desarrollar desafíos de innovación que impulsen el uso ético y responsable de la IA.
+
+g) Articular con el CND acciones para el desarrollo y uso de la IA y la gobernanza de datos.
+
+h) Concertar, cuando corresponda, con el CONCYTEC, las acciones de fomento, promoción, impulso e investigación en IA, así como con el PRODUCE las acciones de desarrollo y uso de la IA en el sector empresarial.
+
+i) Fomentar la participación activa de los Institutos Públicos de Investigación en el desarrollo, investigación e implementación de sistemas basados en IA, con el objetivo de generar soluciones innovadoras que atiendan demandas y necesidades específicas de los diversos sectores del país.
+
+j) Articular con el Ministerio de Defensa acciones para la promoción, investigación y desarrollo de sistemas basados en IA en el ámbito de la seguridad y defensa nacional en el entorno digital.
+
+**Artículo 12. Protección de Grupos Vulnerables en el desarrollo y uso de IA**
+
+Todos los servicios digitales soportados en sistemas basados en IA, deben considerar plenamente las necesidades diferenciadas de mujeres, niñas, niños y adolescentes, adultos mayores, personas con discapacidad y grupos en situación de especial vulnerabilidad, garantizando que estos sean seguros, sostenibles, estables e inclusivos digitalmente.
+
+## TÍTULO III
+## FORMACIÓN DE CAPACIDADES Y DESARROLLO INNOVADOR
+
+**Artículo 13. Formación de conocimientos y habilidades en IA**
+
+13.1 La SGTD, promueve y articula con las entidades de la Administración Pública, organizaciones de la sociedad civil, la academia y el sector privado, la identificación y provisión de cursos, programas, talleres y otras modalidades formativas para crear capacidades en IA, a través de la Plataforma Nacional de Talento Digital.
+
+13.2. La SGTD, articula con el Ministerio de Educación (MINEDU) la promoción del uso responsable, ético, transparente e inclusivo de la IA para desarrollo de las competencias estudiantiles en el marco del Currículo Nacional de la Educación Básica, con el objetivo de preparar al estudiantado para el futuro digital promoviendo la igualdad y cierre de brechas. Asimismo, se promueve la formación del personal docente en IA y tecnologías digitales para su aprovechamiento pedagógico en las instituciones educativas públicas y privadas.
+
+13.3 La SGTD, fomenta y articula con los centros de educación técnico-productiva e institutos y escuelas de educación superior tecnológica y artística, universidad públicas y privadas, la implementación de programas de estudios, orientados al desarrollo de competencias en IA. Asimismo, fomenta la incorporación progresiva de contenidos relacionados con la IA en los programas de estudios vinculados a ingeniería de sistemas, ciberseguridad, ingeniería electrónica, ingeniería de software, ciencias de la computación, tecnologías de la información, matemáticas y demás disciplinas afines, con el objetivo de fortalecer el perfil profesional de los egresados y responder a las demandas de la transformación digital, promoviendo la participación igualitaria de las personas en la economía y sociedad digital.
+
+13.4 El Ministerio de Defensa fomenta la formación de capacidades en su sector orientadas al ámbito de la Seguridad y Defensa Nacional, para lo cual articula con la SGTD, la academia y empresas del sector privado.
+
+**Artículo 14. Campañas de sensibilización y compromiso a la ciudadanía**
+
+La SGTD, articula acciones con las entidades de la Administración Pública, organizaciones de la sociedad civil, la academia y el sector privado a fin de desarrollar sesiones de valor, actividades, programas, campañas de sensibilización y capacitación de la ciudadanía, a través de diversas iniciativas, como la "Alianza Nacional por una Internet Segura", que tengan por finalidad:
+
+a) Generar un espacio o plataforma de difusión y alto grado de concientización en el uso seguro, responsable y ético de los sistemas basados en IA.
+
+b) Poner a disposición contenido que nos permita conocer los beneficios de la IA; así como experiencias internacionales al respecto.
+
+c) Generar espacios de reflexión de la ciudadanía para evitar el uso indebido de los sistemas basados en IA, como la comisión de delitos informáticos, afectación a la reputación, honor, privacidad de datos u otros derechos fundamentales de las personas, así como la violencia contra las mujeres y los integrantes del grupo familiar, conforme está regulado en la Ley N° 30364, Ley para prevenir, sancionar y erradicar la violencia contra las mujeres y los integrantes del grupo familiar.
+
+d) Aprender sobre el uso adecuado de sistemas basados en IA para generar beneficios en su actividad profesional y/o personal.
+
+**Artículo 15. Formación y retención del talento nacional, y atracción del talento extranjero en IA**
+
+15.1 Las universidades, los centros de educación técnico-productiva, los institutos de educación superior y escuelas de educación superior públicos y privados y centros de investigación pueden implementar estrategias para atraer y retener talento nacional e internacional. Estas estrategias incluyen, sin ser limitativas, programas de mentorías, investigación conjunta y docentes visitantes, asegurando la sostenibilidad del conocimiento y la innovación en IA, en favor del desarrollo económico y social del país.
+
+15.2 La SGTD, en articulación, cuando corresponda, con las autoridades competentes del SNTD, promueve la generación de comunidades o redes de especialistas y expertos en el uso de sistemas basados en IA, a nivel nacional e internacional para la transferencia de tecnología y de conocimientos; y, gestiona el apoyo de espacios multilaterales y multiactores, de la cual es parte.
+
+**Artículo 16. Promoción de la IA para la mejora de la competitividad e innovación**
+
+16.1 Los integrantes del SNTD, en el ámbito de sus competencias, pueden promover y fomentar, a través de sus programas, proyectos, actividades o afines, el desarrollo y financiamiento del uso de la IA, para mejorar sus productos y servicios en favor del desarrollo económico y social del país, para lo cual, de ser necesario, articulan con la PCM a través de la SGTD.
+
+16.2 La SGTD, en articulación con el CONCYTEC, con el apoyo de las entidades estatales y del sector privado, promueven la creación de laboratorios en IA, en universidades, institutos y escuelas de educación superior y centros de investigación. Para el caso de institutos y escuelas de educación superior tecnológica, la creación de laboratorios en IA debe sujetarse a los estándares vigentes en el marco de la Ley N° 30512.
+
+16.3 La SGTD, en articulación con el PRODUCE, promueven la creación de laboratorios y áreas de I+D+i en las organizaciones del sector privado para facilitar el desarrollo de tecnologías de IA.
+
+16.4 El CONCYTEC y las universidades fomentan la financiación de programas formativos y proyectos de investigación en IA, y evalúan su eficacia considerando el número de publicaciones en IA en revistas indexadas.
+
+16.5 Las entidades de la Administración Pública impulsan el desarrollo de Sistemas basados en IA de código abierto y otras alternativas para reducir las barreras de entrada al ecosistema tecnológico y de innovación del país y mejorar su eficiencia.
+
+## TÍTULO IV
+## FINANCIAMIENTO, INCENTIVOS Y MEDIDAS PROACTIVAS
+
+**Artículo 17. Entorno de experimentación y prueba controlada para los sistemas basados en IA**
+
+17.1 El entorno de experimentación y prueba controlada para sistemas basados en IA es el conjunto organizado de reglas, tecnología y capacidades que buscan proveer un entorno digital controlado para desarrollar, probar, validar o mejorar sistemas basados en IA de manera segura y aislada, así como flexibilizar y/o eximir regulaciones para dichos sistemas en un determinado espacio geográfico, sector o área para cerrar brechas digitales, promover el desarrollo económico y social.
+
+17.2 Dicho entorno de experimentación y prueba controlada constituye un instrumento para incentivar el desarrollo tecnológico de productos y servicios digitales, permitiendo probar su desarrollo y uso en un entorno flexible, que garantice criterios adecuados de seguridad y evalúe sus efectos antes de su implementación a gran escala.
+
+17.3 La SGTD, articula con las entidades de la Administración Pública, para la implementación y emisión de normas sobre los entornos de experimentación y prueba controlados que pudieran ser competentes, que incluya el proceso de postulación, evaluación y selección de propuestas, temáticas a ser elegibles, flexibilizaciones o exenciones regulatorias en el entorno de experimentación y prueba para los sistemas basados en IA.
+
+17.4 Se consideran temáticas a ser elegibles, de manera no limitativa, los que contemplen:
+
+a) El desarrollo o adaptación de algoritmos y modelos de IA con aplicación en sectores estratégicos.
+b) La creación de herramientas basadas en IA, para optimización de procesos en todo el sector empresarial, independientemente del sector.
+c) La implementación de soluciones basadas en IA, con impacto en la productividad y competitividad.
+d) La implementación de soluciones que coadyuven con la seguridad y defensa nacional.
+
+17.5 Todo desarrollador de IA puede solicitar su participación en el entorno de experimentación y prueba controlada (sandbox) gestionado por la SGTD. La solicitud de participación se enmarca en las temáticas listadas en el artículo 17.4.
+
+**Artículo 18. Impulso a las Micros, Pequeñas y Medianas Empresas (MIPYME) y Emprendimientos Innovadores en proyectos de IA**
+
+18.1 La SGTD, cuando corresponda, en articulación con PRODUCE, promueve e impulsa ferias, eventos, desafíos de innovación u otras acciones estratégicas que fomenten la visibilidad de soluciones innovadoras en IA, desarrolladas por las MIPYME y Emprendimientos Innovadores.
+
+18.2 Se promueve que las MIPYME, Emprendimientos Innovadores y entidades de investigación, participen del entorno de experimentación y prueba controlado (Sandbox), a fin de evaluar y validar soluciones basadas en IA, en condiciones controladas antes de su implementación en entornos reales.
+
+18.3 La SGTD, articula con PRODUCE y el CONCYTEC, a fin de que promuevan mecanismos de financiamiento y apoyo a las MIPYME y Emprendimientos Innovadores en el uso y adopción (en el caso de MIPYMEs) y desarrollo y adaptación (en el caso de Emprendimientos Innovadores) de sistemas basados en IA, tales como el diseño y creación de instrumentos e intervenciones o la adopción y fortalecimientos de los ya existentes para priorizar el financiamiento de iniciativas de uso, desarrollo o adaptación de sistemas basados en IA con impacto estratégico.
+
+**Artículo 19. Uso de computación en la nube para la IA**
+
+La SGTD, podrá habilitar los recursos de computación en la nube pública para el desarrollo, implementación y uso de la IA, en la solución de problemas públicos en base a datos. Para tal fin, se facilita el acceso a dichos recursos a entidades de la Administración Pública, investigadores, docentes, estudiantes de pregrado y de posgrado, entre otros.
+
+**Artículo 20. Estándares y buenas prácticas para sistemas basados en IA**
+
+20.1 La SGTD, promueve que los desarrolladores o implementadores de sistemas basados en IA, incorporen buenas prácticas, técnicas y estándares nacionales e internacionales aceptados y reconocidos por países y/o por organismos internacionales de normalización técnica que, sean referentes en la gestión de datos, algoritmos y otros componentes del sistema basado de IA.
+
+20.2 La SGTD, articula con el INACAL, la aprobación de Normas Técnicas Peruanas que adopten estándares técnicos mediante los cuales opere una efectiva transmisión de conocimientos en IA y que resulten idóneos para las condiciones vigentes en el país, incluyendo aquellos referidos a la gestión y la implementación responsable de sistemas basados en IA.
+
+**Artículo 21. Fomento de comunidades de código abierto en IA**
+
+21.1 La SGTD, en articulación con el CONCYTEC, la academia y organizaciones del sector privado, fomenta la creación y desarrollo de comunidades o redes de desarrolladores de IA, de código abierto mediante desafíos de innovación, programas de mentoría, conferencias, encuentros, entre otros.
+
+21.2 La SGTD, promueve que los desarrolladores publiquen voluntariamente, a través de la Plataforma Nacional de Software Colaborativo, proyectos de código abierto que promuevan un entorno de innovación abierta y colaborativa.
+
+21.3 La SGTD, promueve reconocimientos para los desarrolladores que liberen de manera voluntaria códigos fuente, modelos de IA, o conjunto de datos en forma abierta, que respeten los principios de seguridad, privacidad y uso ético de los datos e información.
+
+## TÍTULO V
+## RIESGOS, TRANSPARENCIA Y PRIVACIDAD
+
+### CAPÍTULO I. CLASIFICACIÓN Y GESTIÓN DE RIESGOS
+
+**Artículo 22. Clasificación de Riesgos**
+
+22.1 La clasificación de riesgos generados por el uso de sistemas basados en IA, son los siguientes:
+
+a) **Uso indebido:** Todo sistema basado en IA, que se use para impactar de manera irreversible, significativa y negativa en los derechos fundamentales o el bienestar de las personas, bajo cualquier circunstancia, por lo que dicho uso deviene en prohibido.
+
+b) **Uso de riesgo alto:** Todo sistema basado en IA, cuyo uso supone un riesgo para la vida humana, la dignidad, la libertad, la seguridad física y los demás derechos fundamentales de las personas; en función tanto del objetivo establecido como de las posibles consecuencias no deseadas; no obstante, puede ser usado bajo el cumplimiento de determinadas condiciones y/o controles.
+
+22.2 Todos los sistemas basados en IA, que no se encuentren comprendidos en las clasificaciones señaladas en los artículos 23 y 24, se consideran de riesgo aceptable, y deben garantizar durante su desarrollo, implementación y uso el cumplimiento del presente Reglamento y la Ley.
+
+**Artículo 23. Uso indebido de la IA**
+
+23.1 Un sistema basado en IA, se considera de uso indebido, y por ende prohibido, cuando es destinado para:
+
+a) Influir de manera engañosa o manipulativa en la toma de decisiones de las personas, en especial cuando: usen técnicas subliminales o deliberadamente engañosas o el aprovechamiento de vulnerabilidades, con el objetivo de afectar la capacidad de decisión de una persona de manera consciente e informada; se aproveche de vulnerabilidades cognitivas, emocionales o socioeconómicas de personas o grupos poblacionales específicos con el fin de modificar su comportamiento de manera sustancial; y, se induzca a error o manipule información mediante un sistemas basado en IA, para afectar la autonomía de decisión de las personas.
+
+b) Generar capacidad letal autónoma, que comprenda la toma de decisiones sin supervisión humana y que pueda generar daño físico o afectar la vida y la integridad de las personas o grupos poblacionales en el ámbito civil.
+
+c) Realizar vigilancia masiva sin base legal o cuando genere o pueda generar un impacto desproporcionado en el ejercicio de derechos fundamentales.
+
+d) Analizar, clasificar o inferir datos sensibles de las personas, sobre la base de sus datos biométricos, para deducir o inferir su origen racial o étnico, opiniones políticas, afiliación sindical, convicciones religiosas o filosóficas, vida sexual u orientación sexual. Asimismo, para evaluar o clasificar a personas naturales o a colectivos, independientemente del tipo de dato de entrada, cuando dicha evaluación o clasificación genere, cause o contribuya a resultados discriminatorios o desproporcionados que vulneren derechos fundamentales.
+
+e) Realizar identificación biométrica en tiempo real para la categorización de personas naturales en espacios públicos. Salvo en los siguientes escenarios: i) Realizar una verificación biométrica que tenga como fin único la autenticación de la identidad digital; y, ii) Realizar investigación preliminar de los siguientes delitos graves: contra la vida, el cuerpo y la salud (tales como homicidio calificado, sicariato, lesiones graves y feminicidio); contra la libertad (incluida la búsqueda de personas desaparecidas para apoyar en la investigación de delitos graves como el secuestro, trata de personas o la explotación sexual); contra el patrimonio (tales como robo agravado y extorsión); contra la administración pública; de lavado de activos; de tráfico ilícito de drogas; de minería ilegal; y, aquellos comprendidos en el Título XIII (Delitos contra la Dignidad Humana) y el Título XIV (Delitos contra la Libertad Sexual) del Código Penal, así como los delitos previstos en la Ley N° 30077, Ley contra el Crimen Organizado.
+
+f) Predecir que una persona física cometa un delito, basándose en la elaboración del perfil de la persona física o en la evaluación de los rasgos y características de su personalidad.
+
+23.2 La SGTD, establece los mecanismos para monitorear el uso de los sistemas basados en IA, que puedan considerarse de uso indebido en el territorio nacional.
+
+23.3 Todo desarrollador o implementador, en caso lo considere necesario, puede solicitar a la SGTD, una consulta para determinar si el sistema basado en IA se encuentra dentro de los supuestos señalados en el numeral 23.1.
+
+23.4 Sin perjuicio de lo señalado en el literal e) del numeral 23.1, los sistemas basados en IA utilizados para apoyar la evaluación humana sobre la implicación de una persona física en una actividad delictiva no se considera indebido, siempre que se basen en hechos objetivos y verificables directamente relacionados con una actividad delictiva ya existente, y cuenten con mecanismos de supervisión humana, transparencia y auditabilidad para garantizar la no discriminación y la protección de los derechos fundamentales.
+
+**Artículo 24. Uso de sistemas basados en IA de riesgo alto**
+
+24.1 El uso de un sistema basado en IA, se considera de riesgo alto cuando:
+
+a) Se usa para gestionar activos críticos nacionales que brindan soporte a servicios esenciales (energía, telecomunicaciones, salud, transporte, agua y banca, entre otros).
+
+b) Realizar evaluación en los procesos de niños, niñas y adolescentes (NNA), en el sector educativo, tales como: i) acceso a un centro de educación, ii) evaluación de resultados de aprendizaje, iii) evaluación del nivel de educación que recibe una persona, iv) identificación de comportamientos prohibidos durante un examen y/o actividad educativa; salvo que el sistema integre una función complementaria y no reemplace la evaluación pedagógica humana.
+
+e) Determinar procesos de selección, evaluación, contratación y cese de trabajadores o postulantes a un puesto de trabajo; así como, establecer condiciones laborales.
+
+f) Determinar el acceso, evaluación, orden de priorización y/o cese de la prestación de programas sociales y/o focalización de hogares.
+
+g) Determinar la evaluación crediticia de personas; salvo si el uso de la IA, es para la detección de fraude financiero.
+
+h) Determinar el acceso a servicios de salud y servicios complementarios que afectan la vida y bienestar de las personas.
+
+i) Orienta el tamizaje, la evaluación, sugerencia de diagnóstico, manejo o pronóstico del estado de salud de personas que pueda tener un impacto significativo en su bienestar físico o mental, orden de priorización del daño en emergencias de las prestaciones de salud, y evaluación de datos personales sensibles de personas naturales incluyendo los registrados en las historias clínicas electrónicas (HCE). Se infiere las emociones de una persona física en los entornos de trabajo y en los centros educativos, excepto cuando el sistema basado en IA esté destinado a ser instalado o introducido en el mercado por motivos médicos o de seguridad.
+
+j) Todo uso que supone un riesgo para la vida humana, la seguridad física, los derechos fundamentales, la libertad y dignidad de las personas, y a su vez, su desempeño implique i) elevada probabilidad de generar estigmatización, discriminación, sesgo cultural, o ii) elevada complejidad para la supervisión humana.
+
+24.2 Todo desarrollador o implementador, en caso se considere necesario, puede solicitar a la SGTD, una consulta para determinar si el sistema basado en IA, se encuentra dentro de los usos considerado de riesgo alto.
+
+### CAPÍTULO II. MEDIDAS PARA GARANTIZAR LA TRANSPARENCIA Y LA PRIVACIDAD
+
+**Artículo 25. Transparencia Algorítmica**
+
+25.1 El desarrollador o implementador de un sistema basado en IA de riesgo alto debe establecer mecanismos para garantizar la transparencia algorítmica, permitiendo informar al usuario, de forma previa, clara y sencilla, sobre la finalidad o uso del sistema basado en IA, sus funcionalidades principales y el tipo de decisiones que puede tomar, con el objetivo de que el usuario comprenda cómo interactúa con él o con el servicio o producto que utiliza el sistema basado en IA como uno de sus componentes, respetando el secreto industrial y comercial.
+
+25.2 Entre los mecanismos se puede incluir, cuando sea relevante para la toma de decisión o interacción con el usuario, el etiquetado visible del sistema basado en IA, que informe a los usuarios con antelación, que el producto, servicio o contenido generado se opera con base en IA; salvo los casos en que la IA apoye procesos administrativos internos sin impacto directo en la toma de decisiones que afecten derechos o servicios a las personas. Asimismo, dicho etiquetado debe ser suficiente para permitir al público comprender de manera general las principales capacidades y limitaciones funcionales del sistema basado en IA.
+
+25.3 En caso de que, el sistema tome decisiones que impacten en derechos humanos, debe garantizarse la explicación de sus resultados a los usuarios afectados, mediante mecanismos que permitan la comprensión de los criterios y factores clave utilizados en la toma de decisiones automatizadas, en un lenguaje accesible para el usuario.
+
+25.4 La SGTD aprueba los lineamientos sobre Transparencia Algorítmica en concertación, cuando corresponda, con las entidades competentes del SNTD.
+
+**Artículo 26. Protección de la privacidad de datos en el desarrollo, implementación y uso de la IA**
+
+26.1 En el desarrollo, implementación y uso de los sistemas basados en IA, se debe cumplir con la normativa vigente sobre privacidad y protección de datos personales, de acuerdo con lo que establezca la Autoridad Nacional de Protección de Datos Personales (ANPDP) del Ministerio de Justicia y Derechos Humanos (MINJUSDH).
+
+26.2 Las responsabilidades por el incumplimiento de las obligaciones y prohibiciones que derivan de la normativa de protección de datos personales se determinan conforme al régimen sancionador previsto en la Ley N° 29733, Ley de Protección de Datos Personales y su Reglamento.
+
+**Artículo 27. Ética en el desarrollo, implementación y uso de la IA**
+
+27.1 Todo desarrollador, implementador y usuario de la IA debe tener un comportamiento probo y ético, para lo cual se consideran las siguientes acciones:
+
+a) Promover la participación de equipos diversos y multidisciplinarios para el desarrollo e implementación de sistemas basados en IA.
+
+b) Garantizar el pleno respeto de los derechos humanos, y evitar que se generen resultados injustos o discriminatorios.
+
+c) Considerar el impacto social y ambiental en el desarrollo de los sistemas basados en IA.
+
+d) Implementar las mejores prácticas, estándares o Normas Técnicas Nacionales o Internacionales para identificar y minimizar los sesgos de los algoritmos o bases de datos utilizados por los sistemas basados en IA.
+
+27.2 La SGTD, en articulación, cuando corresponda, con las entidades competentes del SNTD, aprueba los Lineamientos Éticos para el desarrollo, implementación y uso de la IA.
+
+## TÍTULO VI
+## OBLIGACIONES ESPECÍFICAS Y SUPERVISIÓN PARA EL DESARROLLO, IMPLEMENTACIÓN Y USO DE INTELIGENCIA ARTIFICIAL
+
+### CAPÍTULO I. OBLIGACIONES DE LAS ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA
+
+**Artículo 28. Obligaciones Generales**
+
+Las entidades de la Administración Pública tienen las siguientes obligaciones:
+
+28.1 Aprobar una Política institucional del uso seguro, responsable y ético de los sistemas basados en IA, que contenga como mínimo, los principios establecidos en el presente Reglamento, para asegurar su desarrollo, implementación y uso bajo un enfoque en la protección de los derechos fundamentales y el bienestar social.
+
+28.2 Para el desarrollo de sistemas basados en IA, deben usar la NTP-ISO/IEC 42001:2025 Tecnología de la información. Inteligencia artificial. Sistema de gestión (SGIA).
+
+28.3 Conformar equipos técnicos de trabajo multidisciplinarios, en base a la necesidad y complejidad de la materia o problema público a evaluar, para el desarrollo o uso de un sistema basado en IA.
+
+28.4 Generar, recolectar, consolidar y obtener datos y evidencias de los problemas públicos para desarrollar casos de uso a evaluar que, requieran de un sistema basado en IA.
+
+28.5 Reforzar las capacidades y habilidades digitales del personal de las entidades de la Administración Pública en temas relacionados en sistemas basados en IA, conforme al Plan de Desarrollo de las Personas que elabora la Oficina de Recursos Humanos o quien haga sus veces.
+
+28.6 Cumplir con las disposiciones sobre el uso, adquisición y adecuación del software, los estándares técnicos para la evaluación de software, los estándares técnicos sobre procesos del ciclo de vida del software, las evaluaciones del uso y aplicaciones del software de IA, y otras normas afines aplicable a las entidades de la Administración Pública, conforme con la normatividad vigente.
+
+28.7 Distribuir y poner a disposición datos de alto valor, a través del CND, para los desarrolladores de sistemas basados en IA, atendiendo las normas en materia de gobierno digital, transparencia, datos personales y datos abiertos.
+
+28.8 Publicar el código fuente de los sistemas basados en IA, financiados con fondos públicos, con licencia libre o abierta en la Plataforma Nacional de Software Público Peruano (PNSSP), conforme a la normativa vigente en software público, y de transparencia y acceso a la información pública.
+
+28.9 Promover que su personal y funcionariado cumplan con las normas del Código de Ética de la Función Pública, su Reglamento y las normas de Integridad, en el desarrollo, implementación y uso de sistemas basados en IA, así como las recomendaciones internacionales y principios éticos de la Organización para la Cooperación y el Desarrollo Económico (OCDE) para un correcto desarrollo, seguimiento y regulación de la inteligencia artificial (IA) en favor de la ciudadanía.
+
+28.10 Incluir los proyectos de sistemas basado en IA en su Plan de Gobierno Digital (PGD).
+
+28.11 En los sistemas basados en IA de riesgo alto, implementar mecanismos de supervisión humana en la toma de decisiones que pudiesen implicar un impacto significativo en sectores de salud, educación, justicia, finanzas y acceso a programas y servicios básicos. Se debe garantizar que el personal cuente con las siguientes condiciones como mínimo: i) estar capacitado en la materia a fin de no sesgarse por los resultados del sistema basado en IA y ii) tener la capacidad de detener, corregir o invalidar las decisiones del sistema de IA.
+
+**Artículo 29. Medidas de seguridad digital con relación al desarrollo, implementación y uso de la IA**
+
+Las entidades de la Administración Pública, que desarrollen, implementen y usen un sistema basado en IA, deben adoptar las siguientes medidas:
+
+a) **Gestión de riesgos:** Comprende la evaluación y adopción de medidas para el tratamiento de los riesgos de los sistemas basados en IA. Entre dichas medidas, se encuentran cifrado de datos, detección de anomalías, robustez de los modelos, entre otros.
+
+b) **Privacidad desde el diseño:** Integrar la privacidad desde el diseño del sistema basado en IA, minimizando la cantidad de datos personales recopilados y utilizando técnicas de anonimización.
+
+c) **Auditorías de seguridad:** Realizar auditorías de seguridad digital periódicas para identificar y corregir vulnerabilidades y sesgos en el sistema basado en IA; dichas auditorías se realizan de forma obligatoria antes de la implementación del sistema y durante toda su operación.
+
+d) **Gestión de Incidentes:** Gestionar los incidentes derivados del diseño, desarrollo, uso y funcionamiento de un sistema basado en IA como parte de su Sistema de Gestión de Seguridad de la Información.
+
+**Artículo 30. Evaluación de Impacto de riesgo alto**
+
+30.1 Cuando un sistema basado en IA, se considere de riesgo alto, previo al desarrollo o implementación, se debe realizar un análisis de impacto a fin de identificar y minimizar los riesgos potenciales, garantizando que el sistema evite la afectación a los derechos fundamentales y asegurando que no perpetúen desigualdades o sesgos.
+
+30.2 En caso se detecten riesgos que afecten los derechos fundamentales o genere decisiones automatizadas erróneas, el desarrollador o implementador debe adoptar las medidas necesarias para mitigar los impactos y realizar los ajustes necesarios previos a la implementación final. Estas medidas incluyen ajustes en los modelos, mejora en la calidad de los datos y mecanismos de supervisión humana, los mismos que deben quedar documentados, de ser requerido por una autoridad judicial o administrativa conforme a sus competencias.
+
+30.3 La SGTD, en articulación con las autoridades competentes del Sistema Nacional de Transformación Digital, establece las normas complementarias para el cumplimiento de la Evaluación de Impacto de Riesgo Alto.
+
+### CAPÍTULO II. OBLIGACIONES Y BUENAS PRÁCTICAS DE LAS ORGANIZACIONES DEL SECTOR PRIVADO
+
+**Artículo 31. Obligaciones generales del desarrollador y/o implementador**
+
+El desarrollador o implementador de los sistemas basados en IA, tienen las siguientes obligaciones:
+
+31.1 En los sistemas basados en IA de riesgo alto, mantener un registro actualizado y accesible, con enfoque preventivo, sobre los principios del funcionamiento del sistema, las fuentes de datos utilizadas y la lógica del algoritmo, los impactos sociales y éticos esperados.
+
+31.2 Establecer políticas, protocolos y procedimientos claros, que permitan preservarla seguridad y la privacidad, promover la transparencia y la explicabilidad, garantizar la responsabilidad y la rendición de cuentas, conforme a los principios establecidos en el presente Reglamento y tomando como referencia estándares técnicos internacionales.
+
+31.3 Fomentar la educación y concientización interna de sus colaboradores sobre los riesgos asociados con el uso de la IA y la adopción de forma segura, responsable y ética conforme a la Política institucional aprobada.
+
+31.4 En los sistemas basados en IA de riesgo alto, implementar mecanismos de supervisión humana en la toma de decisiones que pudiesen implicar un impacto significativo en sectores de salud, educación, justicia, finanzas y acceso a programas y servicios básicos. Se debe garantizar que el personal cuente con las siguientes condiciones como mínimo: i) estar capacitado en la materia a fin de no sesgarse por los resultados del sistema basado en IA, y ii) tener la capacidad de detener, corregir o invalidar las decisiones del sistema basado en IA.
+
+**Artículo 32. Evaluación de Impacto de riesgo alto**
+
+32.1 Cuando un sistema basado en IA, se considere de riesgo alto, previo al desarrollo o implementación, de manera voluntaria, se puede realizar un análisis de impacto a fin de identificar y minimizar los riesgos potenciales, garantizando que el sistema evite la afectación a los derechos fundamentales y asegurando que no perpetúen desigualdades o sesgos.
+
+32.2 En caso se detecten riesgos que afecten los derechos humanos o posibilidad de decisiones automatizadas erróneas, el desarrollador o implementador adopta medidas proactivas para mitigar los impactos y realiza los ajustes necesarios previos a la implementación final. Entre estas medidas se encuentran: ajustes en los modelos, mejora en la calidad de los datos y mecanismos de supervisión humana.
+
+32.3 Los desarrolladores e implementadores que realicen una evaluación de impacto documentan sus hallazgos y las medidas correctivas adoptadas. La conservación de esta documentación se realiza por un período mínimo de tres (3) años, contados a partir de su emisión, lo que facilita la trazabilidad del sistema y sirve como evidencia, de ser requerido por una autoridad judicial o administrativa conforme a sus competencias.
+
+32.4 La SGTD promueve reconocimientos para los desarrolladores o implementadores que elaboren su evaluación de impacto de riesgo alto.
+
+32.5 La evaluación de impacto de riesgo alto se puede elaborar tomando como referencia la guía o normas complementarias aprobadas por la SGTD, salvo que ya se disponga de una herramienta, instrumento o estándar implementado.
+
+**Artículo 33. Estándares y mejores prácticas**
+
+33.1. La SGTD promueve el uso de estándares técnicos internacionales o sus adopciones nacionales aprobadas por INACAL, como las siguientes Normas Técnicas: NTP-ISO/IEC 27002:2022 Seguridad de la información, ciberseguridad y protección de la privacidad. Controles de seguridad de la información, ISO/IEC 38507: 2022 Implicaciones de gobernanza en el uso de la IA por las organizaciones, NTP-ISO/IEC 42001:2025 Tecnología de la información. Inteligencia artificial. Sistema de gestión (SGIA), ISO/IEC 23053:2022 Marco para Sistemas de IA que utilizan aprendizaje automático, NTP-ISO/IEC 27005:2022 Seguridad de la información, ciberseguridad y protección de la privacidad. Orientación sobre la gestión de los riesgos de seguridad de la información; y otras normas técnicas pertinentes en su edición vigente o buenas prácticas complementarias, conforme a las necesidades y regulación de su sector, ámbito o dominio.
+
+33.2 La SGTD promueve la observancia de las disposiciones sobre el uso, adquisición y adecuación del software, los estándares técnicos para la evaluación de software, los estándares técnicos sobre procesos del ciclo de vida del software, estándares técnicos sobre gestión de seguridad de la información, las evaluaciones del uso y aplicaciones del software de IA, aplicable a las entidades de la Administración Pública, conforme con la normatividad vigente.
+
+### CAPÍTULO III. SUPERVISIÓN Y MONITOREO
+
+**Artículo 34. Supervisión para el desarrollo y uso de IA**
+
+34.1 La SGTD, en el ejercicio de sus funciones de supervisión, realiza las gestiones conducentes para hacer efectiva la responsabilidad de los funcionarios de las entidades de la Administración Pública ante el incumplimiento en la implementación del presente Reglamento, para lo cual reporta a la Contraloría General de la República (CGR), para las acciones correspondientes.
+
+34.2 En el caso en que la SGTD, tome conocimiento de una presunta vulneración a la propiedad intelectual, protección de datos personales o la afectación de otros derechos fundamentales y/o legislación vigente, comunica el hecho a las autoridades competentes, para las acciones fiscalizadoras y sancionadoras correspondientes.
+
+**Artículo 35. Monitoreo y seguimiento del desarrollo y uso indebido de la IA y riesgo alto**
+
+La SGTD, a través de la Subsecretaría de Tecnologías y Seguridad Digital (SSTSD), que administra el Centro Nacional de Seguridad Digital (CNSD), realiza acciones de monitoreo, con un enfoque preventivo, sobre el desarrollo e implementación de sistemas basados en IA, consideradas de uso indebido y riesgo alto, entre las que se encuentran:
+
+a) Requerir información y remitir recomendaciones o alertas técnicas: Realizadas para evaluar el funcionamiento y los riesgos de los sistemas basados en IA.
+
+b) Solicitar información que permita verificar el cumplimiento del presente Reglamento.
+
+c) Articular con los Equipos de Respuestas ante Incidentes de Seguridad Digital (CSIRT por sus siglas en inglés Computer Security Incident Response Team), con las entidades de la Administración Pública, las entidades privadas, la academia y con los organismos nacionales e internacionales, según corresponda.
+
+**Artículo 36. Mecanismos de alertas y denuncias por parte de la ciudadanía**
+
+36.1 Toda persona, incluyendo niñas, niños y adolescentes a través de quienes ejercen la patria potestad o tutela, puede alertar sobre el uso indebido de los sistemas basados en IA o el incumplimiento de las obligaciones del desarrollador o implementador establecidas en el presente Reglamento y normas complementarias, a través del canal digital sobre Inteligencia Artificial, en la sede digital de la PCM de la Plataforma Digital Única del Estado Peruano para Orientación al Ciudadano (www.gob.pe/iaperu). La SGTD, establece el protocolo de alertas, y cuando se advierta una afectación a derechos fundamentales, traslada la información a las autoridades competentes para las acciones correspondientes.
+
+36.2 Las personas que se consideren afectadas negativamente por sistemas basados en IA pueden comunicar los hechos o denunciar, según sea el caso, a las siguientes entidades de la Administración Pública: Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual (INDECOPI), División de Investigación de Ciberdelincuencia, Autoridad Nacional de Protección de Datos Personales (ANPDP) del Ministerio de Justicia y Derechos Humanos u otras entidades en el ámbito de sus competencias.
+
+## DISPOSICIONES COMPLEMENTARIAS FINALES
+
+**PRIMERA. Cronograma de implementación**
+
+Para las entidades de la Administración Pública, las disposiciones contenidas en el artículo 25 y el Capítulo I del Título VI, se implementan de forma gradual, conforme a los siguientes plazos:
+
+a) Poder Ejecutivo, Poder Legislativo y Poder Judicial en un plazo no mayor de un (1) año contado a partir del día siguiente de la publicación del Decreto Supremo que aprueba el presente Reglamento.
+
+b) Organismos Constitucionales Autónomos en un plazo no mayor de un (1) año contado a partir del día siguiente de la publicación del Decreto Supremo que aprueba el presente Reglamento.
+
+c) El Seguro Social de Salud, los Gobiernos regionales y universidades públicas en un plazo no mayor de dos (2) años contado a partir del día siguiente de la publicación del Decreto Supremo que aprueba el presente Reglamento.
+
+d) Gobiernos locales Tipo A, Tipo B y Tipo C en un plazo no mayor de tres (3) años contado a partir del día siguiente de la publicación del Decreto Supremo que aprueba el presente Reglamento.
+
+e) Las empresas públicas de los gobiernos regionales, locales, o bajo el ámbito del Fondo Nacional de Financiamiento de la Actividad Empresarial del Estado (FONAFE) en un plazo de dos (2) años contado a partir del día siguiente de la publicación del Decreto Supremo que aprueba el presente Reglamento.
+
+f) Las demás entidades que se encuentran establecidas en los numerales 7 y 8 del artículo I del Título Preliminar del Texto Único Ordenado de la Ley Nº 27444, Ley del Procedimiento Administrativo General, aprobado mediante Decreto Supremo Nº 004-2019-JUS, o norma que lo sustituya, en un plazo no mayor de dos años (2) años contados a partir del día siguiente de la publicación del Decreto Supremo que aprueba el presente Reglamento.
+
+g) Para los Gobiernos locales Tipo D, Tipo E, Tipo F y Tipo G la implementación del artículo 25 del Título V y el Capítulo I del Título VI, es facultativa de acuerdo a sus recursos y capacidades.
+
+Para el desarrollador o implementador del sector privado, las disposiciones contenidas en el artículo 25 y el Capítulo II del Título VI, se implementan de forma gradual, conforme a los siguientes plazos:
+
+a) Para usos de IA en los sectores de salud, educación, justicia, seguridad, economía y finanzas: Un (1) año contado a partir del día siguiente de la publicación del Decreto Supremo que aprueba el presente Reglamento.
+
+b) Para usos de IA en los sectores de transporte, comercio y trabajo: Dos (2) años contado a partir del día siguiente de la publicación del Decreto Supremo que aprueba el presente Reglamento.
+
+c) Para usos de IA en los sectores de producción, agricultura, energía y minería: Tres (3) años contado a partir del día siguiente de la publicación del Decreto Supremo que aprueba el presente Reglamento.
+
+d) Para todos los usos no incluidos en los sectores anteriores, implementación a nivel nacional: Cuatro (4) años contado a partir del día siguiente de la publicación del Decreto Supremo que aprueba el presente Reglamento.
+
+Para el desarrollador o implementador del sector privado considerado MYPES o Emprendimientos Innovadores, las disposiciones contenidas en el artículo 25 y el Capítulo II del Título VI, se implementan de forma gradual, conforme a los siguientes plazos:
+
+a) Para pequeñas empresas con ventas anuales superiores a 150 UIT y hasta el monto máximo de 1700 UIT: Dos (2) años contado a partir del día siguiente de la publicación del Decreto Supremo que aprueba el presente Reglamento.
+
+b) Para microempresas con ventas anuales hasta el monto máximo de 150 UIT y otros equivalentes: Tres (3) años contado a partir del día siguiente de la publicación del Decreto Supremo que aprueba el presente Reglamento.
+
+**SEGUNDA. Normas complementarias**
+
+La SGTD, mediante Resolución Secretarial, dicta las normas complementarias establecidas en el presente Reglamento, así como las especificaciones técnicas, estándares, guías, lineamientos y demás disposiciones que resulten necesarias para la implementación del presente Reglamento.
+
+La SGTD aprueba los lineamientos éticos para el desarrollo, implementación y uso de la IA, en un plazo no mayor a ciento ochenta (180) días hábiles, contados a partir del día siguiente de la publicación del Decreto Supremo que aprueba el presente Reglamento.
+
+Las entidades de la Administración Pública pueden elaborar y aprobar lineamientos y protocolos para cumplir el presente Reglamento, de acuerdo con sus competencias, siempre que sean concordantes con lo establecido en el presente Reglamento, así como, con los lineamientos y las disposiciones complementarias vigentes.
+
+**TERCERA. Creación del canal digital sobre IA**
+
+Se crea el canal digital sobre Inteligencia Artificial, en la sede digital de la Presidencia del Consejo de Ministros de la Plataforma Digital Única del Estado Peruano para Orientación al Ciudadano (www.gob.pe/iaperu), como un servicio digital para el monitoreo, análisis y difusión de información y actividades sobre desarrollo, implementación, uso, riesgos, oportunidades entre otros de la IA; así como, la información proporcionada por las entidades de la Administración Pública. El canal digital sobre IA es administrado por la PCM, a través de la SGTD.
+
+**CUARTA. Estrategia Nacional de Inteligencia Artificial (ENIA)**
+
+La SGTD, elabora la propuesta de la Estrategia Nacional de Inteligencia Artificial (ENIA) al año 2030, con participación de las entidades de la Administración Pública, organizaciones del sector privado, la sociedad civil, la academia y otros actores relevantes para una sociedad digital.
+
+La PCM, aprueba la Estrategia Nacional de Inteligencia Artificial (ENIA), en un plazo no mayor de un (01) año, contado a partir del día siguiente de la publicación del Decreto Supremo que aprueba el presente Reglamento.
+
+**QUINTA. Estrategia Nacional de Gobierno de Datos (ENGD)**
+
+La SGTD, elabora la propuesta de la Estrategia Nacional de Gobierno de Datos (ENGD), con la participación las entidades de la Administración Pública, organizaciones del sector privado, la sociedad civil, la academia y otros actores relevantes para una sociedad digital.
+
+La PCM, aprueba la Estrategia Nacional de Gobierno de Datos (ENGD), en un plazo no mayor de un (01) año, contado a partir del día siguiente de la publicación del Decreto Supremo que aprueba el presente Reglamento.
+
+**SEXTA. Uso obligatorio de Normas Técnicas Peruanas**
+
+Las entidades de la Administración Pública deben usar obligatoriamente la Norma Técnica Peruana NTP-ISO/IEC 27002 vigente, NTP-ISO 31000 vigente, para el diseño y la implementación de controles de seguridad de la información, ciberseguridad, protección de la privacidad y gestión de riesgos.
+
+Las entidades de la Administración Pública pueden complementar estas Normas Técnicas Peruanas con otras normas, estándares o mejores prácticas técnicas, que sean relevantes para las necesidades de su sector, ámbito o dominio.

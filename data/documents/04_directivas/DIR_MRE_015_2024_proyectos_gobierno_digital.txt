@@ -1,0 +1,1335 @@
+================================================================================
+DIRECTIVA N° 015-2024 OGI/RE
+MINISTERIO DE RELACIONES EXTERIORES DEL PERÚ
+FORMULACIÓN Y GESTIÓN DE PROYECTOS DE GOBIERNO DIGITAL
+
+Lima, 11 SET. 2024
+================================================================================
+
+
+================================================================================
+
+DIRECTIVA N° 015-2024 OGI/RE
+Órgano Responsable: Oficina General de Apoyo a la Gestión Institucional
+Página 1 de 22
+================================================================================
+
+FORMULACIÓN Y GESTIÓN DE PROYECTOS DE GOBIERNO
+DIGITAL DEL PLAN DE GOBIERNO DIGITAL
+
+1. FINALIDAD
+
+Formular y ejecutar proyectos de gobierno digital, que forman parte del portafolio de
+proyectos del Plan de Gobierno Digital (PGD) del Ministerio de Relaciones
+Exteriores (MRE) y proyectos de gobierno digital a incluirse en el PGD del MRE.
+
+2. ALCANCE
+
+La presente directiva es de aplicación a todas las unidades de organización del MRE
+involucradas en la formulación y gestión de los proyectos de gobierno digital que
+comprendan los ámbitos de tecnologías digitales, interoperabilidad, seguridad digital,
+ciberseguridad, gestión de datos, digitalización de procesos, digitalización de
+procedimientos administrativos, prestación de servicios digitales, inteligencia artificial
+y transformación digital.
+
+3. BASE LEGAL
+
+Normas específicas
+a) Decreto Legislativo N° 1412, Decreto Legislativo que aprueba la Ley de Gobierno
+   Digital.
+b) Decreto Supremo N° 085-2023-PCM, Política Nacional de Transformación Digital.
+c) Decreto Supremo N° 029-2021-PCM, Reglamento de la Ley de Gobierno Digital.
+d) Resolución Ministerial N° 119-2018-PCM, que dispone la creación del comité de
+   gobierno digital en cada entidad de la Administración Pública.
+e) Resolución de Secretaría de Gobierno Digital N° 004-2018-PCM/SEGDI,
+   aprueban "Lineamientos del Líder de Gobierno Digital".
+f) Resolución de Secretaría de Gobierno Digital N° 005-2018-PCM/SEGDI,
+   aprueban Lineamientos para la formulación del Plan de Gobierno Digital.
+
+Normas institucionales
+a) Ley N° 29357, Ley de Organización y Funciones del Ministerio de Relaciones
+   Exteriores.
+b) Decreto Supremo N° 130-2003-RE, Reglamento de la Ley del Servicio Diplomático
+   de la República.
+c) Decreto Supremo N° 135-2010-RE, Reglamento de Organización y Funciones del
+   Ministerio de Relaciones Exteriores.
+d) Decreto Supremo N° 047-2021-RE, que aprueba el Texto Único Ordenado de la
+   Ley N° 28091, Ley del Servicio Diplomático de la República.
+e) Resolución Ministerial N° 196-2019-PCM, que dispone la creación del Comité de
+   Gobierno Digital del MRE.
+f) Resolución Ministerial N° 0197-2021-RE, Aprueban el Reglamento Interno de los
+   Servidores Civiles (RISC) del Ministerio de Relaciones Exteriores.
+g) Resolución de Secretaría General N° 0979-2015-RE, que aprueba la Directiva N°
+   006-2015-OPP-RE sobre Disposiciones para la Formulación de Directivas en el
+   Ministerio de Relaciones Exteriores.
+
+Normas generales
+a) Ley Anual de Presupuesto para el Sector Público, vigente.
+
+
+================================================================================
+PÁGINA 5
+DIRECTIVA N° 015-2024 OGI/RE
+Órgano Responsable: Oficina General de Apoyo a la Gestión Institucional
+Página 2 de 22
+================================================================================
+
+b) Ley N° 27815, Ley del Código de Ética de la Función pública.
+c) Ley N° 29806, Ley que regula la contratación del personal altamente calificado en
+   el Sector Público y dicta otras disposiciones.
+d) Decreto Ley N° 25650, Crean el Fondo de Apoyo Gerencial al Sector Público.
+e) Decreto Legislativo N° 276, Ley de Bases de la Carrera Administrativa y de
+   Remuneraciones del Sector Público.
+f) Decreto Legislativo N° 1057, Decreto Legislativo que regula el régimen especial
+   de contratación administrativa de servicios.
+g) Decreto Supremo N° 005-90-PCM, que aprueba el Reglamento de la Carrera
+   Administrativa.
+h) Decreto Supremo N° 013-93-TCC, aprueba el Texto Único Ordenado de la Ley de
+   Telecomunicaciones.
+i) Decreto Supremo N° 033-2005-PCM, que aprueba el Reglamento de la Ley del
+   Código de Ética de la Función Pública.
+j) Decreto Supremo N° 020-2007-MTC, aprueba el Texto Único Ordenado del
+   Reglamento General de la Ley de Telecomunicaciones
+k) Decreto Supremo N° 075-2008-PCM, que aprueba el Reglamento del Decreto
+   Legislativo N° 1057, que regula el régimen especial de contratación administrativa
+   de servicios.
+l) Resolución de Contraloría N° 320-2006-CG, Normas de Control Interno.
+
+Las normas mencionadas incluyen sus normas modificatorias, reglamentarias,
+complementarias y conexas.
+
+4. DISPOSICIONES GENERALES
+
+4.1. Supervisión de los proyectos de gobierno digital
+     La Oficina de Tecnologías de la Información (OTI), efectúa la supervisión
+     técnica de los avances de la implementación de los proyectos de gobierno
+     digital que conforman el PGD del MRE, en su condición de Secretaría
+     Técnica del Comité de Gobierno y Transformación Digital (Comité) del MRE.
+
+4.2. Del uso de buenas prácticas en la gestión de proyectos de gobierno
+     digital
+     La OTI aplica y promueve buenas prácticas en la gestión de proyectos que
+     propone el Project Management Institute (PMI) a través del Project
+     Management Body of Knowledge (PMBOK), así como, marcos, prácticas y
+     técnicas ágiles, aplicando los valores y principios del manifiesto ágil, para
+     los proyectos con enfoque adaptativo. También, hace uso de herramientas
+     digitales que proporcionan una variedad de funcionalidades que contribuyen
+     a incrementar la productividad, colaboración y facilitan la toma de
+     decisiones.
+
+4.3. De la evaluación de los proyectos de gobierno digital
+     Los proyectos de gobierno digital del MRE que comprendan los ámbitos de
+     tecnologías digitales, interoperabilidad, seguridad digital, ciberseguridad,
+     gestión de datos, digitalización de procesos, digitalización de
+     procedimientos administrativos, prestación de servicios digitales,
+     inteligencia artificial y transformación digital son evaluados por el Comité
+     para su incorporación en el portafolio de proyectos del PGD.
+
+4.4. Disponibilidad presupuestal
+     La unidad de organización que exprese su voluntad de solicitar la incorporación de un proyecto de gobierno digital en el PGD reconoce que
+     cuenta con el presupuesto correspondiente o que debe gestionar con
+     antelación el financiamiento respectivo de su proyecto.
+
+4.5. Del esquema de formulación y gestión de los proyectos de gobierno
+     digital del PGD:
+
+[DIAGRAMA DE FLUJO]
+Formulación y Gestión de Proyectos de Gobierno Digital del Plan de Gobierno Digital
+
+Proceso:
+Analizar viabilidad del requerimiento [+] → Formular proyecto [+] → Aprobar proyecto [+] → 
+[Bifurcación] → Ejecutar proyecto [+] / Supervisar proyecto [+] → Cerrar proyecto
+
+Ilustración 1: Esquema de la formulación y gestión de proyectos de gobierno digital del PGD
+
+4.6. De los involucrados en los proyectos de gobierno digital
+
+     4.6.1 Del Comité de Gobierno y Transformación Digital
+
+           a) Evaluar, aprobar y respaldar los proyectos de gobierno digital que
+              conforman el PGD.
+           b) Asegurar que el proyecto de gobierno digital esté alineado con los
+              objetivos de gobierno digital del MRE, los cuales tienen el
+              propósito de responder a los objetivos estratégicos institucionales,
+              la misión institucional, así como, al entorno, a los requerimientos
+              de información, evolución futura y desafíos de gobierno digital.
+           c) Garantizar el ambiente y condiciones requeridas para el avance
+              del proyecto de gobierno digital, de acuerdo a la planificación
+              efectuada.
+           d) Vigilar el cumplimiento de la implementación de la presente
+              directiva.
+
+     4.6.2 De la Secretaría Técnica (Oficina de Tecnologías de la
+           Información)
+
+           a) Orientar y recomendar buenas prácticas para la formulación y
+              gestión de los proyectos de gobierno digital.
+           b) Efectuar el seguimiento de los objetivos y los proyectos del PGD.
+           c) Reportar el progreso de los proyectos al Comité y otras partes
+              interesadas.
+           d) Elaborar las actas de reunión del Comité.
+
+     4.6.3 De el/la Director/a o Jefe/a de la unidad de organización
+
+           a) Designar al gestor del proyecto.
+
+
+================================================================================
+PÁGINA 7
+DIRECTIVA N° 015-2024 OGI/RE
+Órgano Responsable: Oficina General de Apoyo a la Gestión Institucional
+Página 4 de 22
+================================================================================
+
+           b) Asegurar que el proyecto esté alineado con los objetivos de
+              gobierno digital del MRE, que tienen el propósito de responder a
+              los objetivos estratégicos institucionales, la misión institucional,
+              así como, al entorno, a los requerimientos de información,
+              evolución futura y desafíos de gobierno digital.
+           c) Garantizar el ambiente requerido para el avance del proyecto de
+              acuerdo a lo planificado.
+           d) Notificar a la OTI sobre cambios en la designación del gestor del
+              proyecto.
+
+     4.6.4 Del responsable, gestor/a o encargado/a del proyecto
+
+           a) Alcanzar los objetivos del proyecto de acuerdo con el tiempo,
+              alcance, costo y calidad previsto.
+           b) Establecer, junto a el/la director/a o jefe/a de la unidad de
+              organización, el enfoque de desarrollo y ciclo de vida del proyecto,
+              y, comunicarlo a la OTI.
+           c) Mantener informado a el/la director/a o jefe/a de la unidad de
+              organización sobre el avance y pormenores en la implementación
+              del proyecto.
+           d) Coordinar con el personal designado para las acciones de
+              transformación digital de la OTI, no pudiendo transferir esa
+              responsabilidad a otro funcionario de su unidad de organización o
+              a un tercero.
+           e) En caso de ausencia comunicar con antelación a la OTI, vía
+              memorándum, precisando nombre, tiempo de sustitución y
+              medios de contacto del funcionario que lo suplirá, quien debe
+              estar en la capacidad de reportar y sustentar el progreso del
+              proyecto y futuras actividades relacionadas.
+           f) Remitir oportunamente los instrumentos de gestión del proyecto y
+              sus actualizaciones a la OTI.
+           g) Participar activamente en las reuniones de seguimiento.
+           h) Gestionar los riesgos, problemas y cambios que surjan durante el
+              proyecto.
+           i) En caso de desvinculación laboral o traslado, efectuar la
+              transferencia de información a el/la director/a o jefe/a de la
+              unidad de organización, al funcionario que asumirá el rol y a la
+              OTI, consignando el estado del proyecto a detalle, así como, toda
+              la documentación relacionada.
+
+     4.6.5 Del personal designado para las acciones de Transformación
+           Digital
+
+           a) Almacenar los documentos de gestión, remitidos por las unidades
+              de organización, en el repositorio de seguimiento.
+           b) Mantener comunicación estrecha con los responsables de los
+              proyectos de gobierno digital del PGD.
+           c) Realizar el seguimiento y evaluación de la ejecución de los
+              proyectos de gobierno digital, de acuerdo con lo programado por
+              las unidades de organización en los documentos de gestión
+              establecidos en la presente directiva.
+           d) Elaborar y mantener actualizados los tableros de seguimiento del
+              PGD.
+
+
+================================================================================
+PÁGINA 8
+DIRECTIVA N° 015-2024 OGI/RE
+Órgano Responsable: Oficina General de Apoyo a la Gestión Institucional
+Página 5 de 22
+================================================================================
+
+           e) Reportar mensualmente a la OTI, a la OGI y a la SGG, a través
+              de los tableros de seguimiento, el estado situacional del portafolio
+              de proyectos de gobierno digital del PGD.
+
+5. DISPOSICIONES ESPECÍFICAS
+
+5.1. Viabilidad del requerimiento
+
+     5.1.1 El problema, oportunidad o necesidad que puede abordarse mediante
+           un proyecto de gobierno digital surge de diversas fuentes, siendo éstas
+           la unidad de organización dueña del proceso involucrado, las partes
+           interesadas internas, regulaciones gubernamentales, actualización
+           tecnológica, el Comité, el Líder de Gobierno y Transformación Digital
+           del MRE, sugerencia de la OTI, entre otros.
+
+     5.1.2 En un primer momento, el problema, oportunidad o necesidad se
+           traduce como un requerimiento. El requerimiento es analizado por la
+           unidad de organización dueña del proceso involucrado, con la finalidad
+           que defina su viabilidad. Si el requerimiento es identificado por una
+           parte interesada, ésta lo traslada a la unidad de organización
+           competente, dueña del proceso.
+
+     5.1.3 El análisis de viabilidad considera la evaluación de recursos
+           necesarios, prefactibilidad técnica, costos estimados, disponibilidad
+           presupuestal, plazos de entrega, riesgos relacionados, alineación con
+           los objetivos estratégicos de la institución, criticidad y beneficios
+           esperados.
+
+     5.1.4 Los mantenimientos o cambios menores en los sistemas de
+           información, aplicaciones o servicios digitales forman parte de las
+           actividades operativas de la institución que se centran en mantener o
+           mejorar las funcionalidades existentes, para garantizar su rendimiento
+           continuo. Debido a ello, no constituyen un proyecto de gobierno digital,
+           por lo que debe descartarse como tal durante el análisis de viabilidad
+           de la unidad de organización.
+
+     5.1.5 La adquisición de recursos tecnológicos es una actividad transaccional
+           que se gestiona dentro del marco operativo institucional y no como un
+           proyecto de gobierno digital independiente.
+
+     5.1.6 La unidad de organización consulta a la OTI, la disponibilidad de
+           recursos internos para abordar los requerimientos referidos a la
+           implementación de sistemas de información, servicios digitales,
+           interoperabilidad, digitalización de procesos y digitalización de
+           procedimientos administrativos.
+
+     5.1.7 Frente a la indisponibilidad de recursos internos, la unidad de
+           organización evalúa oportunidades de contratación de servicios, el cual se
+           ejecuta con el presupuesto asignado a la citada unidad de
+           organización.
+
+     5.1.8 El requerimiento viable, junto al resultado del análisis respectivo,
+           configura una propuesta de proyecto de gobierno digital de la unidad
+           de organización.
+
+
+================================================================================
+PÁGINA 9
+DIRECTIVA N° 015-2024 OGI/RE
+Órgano Responsable: Oficina General de Apoyo a la Gestión Institucional
+Página 6 de 22
+================================================================================
+
+5.2. Formulación de los proyectos de gobierno digital
+
+     5.2.1 La unidad de organización proponente solicita una reunión con el
+           personal designado para las acciones de transformación digital de la
+           OTI, a fin de presentar su propuesta de proyecto de gobierno digital,
+           objetivos, beneficios, alcance y riesgos asociados.
+
+     5.2.2 La citada reunión es requisito indispensable para continuar con la
+           formulación del proyecto de gobierno digital, toda vez que en ese
+           momento el personal designado para las acciones de transformación
+           digital analiza la propuesta y confirma si el proyecto de gobierno digital
+           se encuentra dentro del marco de la presente directiva y asigna un
+           número de identificación, caso contrario, no recomienda su
+           formulación.
+
+     5.2.3 La unidad de organización plantea sus proyectos de gobierno digital
+           sobre la base de un caso de negocio, haciendo uso del documento "F-
+           DIR-01 Caso de negocio", el cual puede descargar del sitio interno
+           "Gobierno Digital MRE", junto a su respectivo ejemplo ilustrativo.
+
+     5.2.4 A solicitud de la unidad de organización, el personal designado para
+           las acciones de transformación digital de la OTI brinda orientación en
+           la definición del caso de negocio.
+
+     5.2.5 Al expresar su intención de formular un proyecto de gobierno digital
+           que forme parte del PGD, se asume que las actividades internas,
+           presupuestarias y/o logísticas que afecten la ejecución del proyecto de
+           gobierno digital, se encuentran debidamente encaminadas por la
+           unidad de organización, no representando una limitante o restricción
+           para el proyecto de gobierno digital.
+
+     5.2.6 La dependencia dirige un memorándum a la OTI solicitando
+           formalmente la incorporación de su proyecto de gobierno digital en el
+           PGD, para lo cual adjunta el documento "F-DIR-01 Caso de negocio"
+           debidamente completo, consignando la numeración asignada por el
+           personal designado para las acciones de transformación digital de la
+           OTI. En el referido documento se especifica, entre otros datos, el
+           enfoque de desarrollo del proyecto de gobierno digital.
+
+     5.2.7 Asimismo, teniendo en consideración los conocimientos, la
+           experiencia en el tema y habilidades en gestión de proyectos, el
+           Director/Jefe de la unidad de organización designa al responsable del
+           proyecto de gobierno digital, quien es el funcionario a cargo de la
+           gestión del mismo, e informa al respecto, en el citado memorándum.
+
+     5.2.8 El responsable del proyecto de gobierno digital coordina
+           estrechamente con el personal designado para las acciones de
+           transformación digital de la OTI, no pudiendo transferir esa
+           responsabilidad a otro funcionario de su Oficina o un tercero. En caso
+           de ausencia programada, comunica con antelación a la OTI, vía
+           memorándum, precisando nombre, tiempo de sustitución y medios de
+           contacto del funcionario que lo suplirá, quien debe estar en la
+           capacidad de reportar y sustentar el progreso del proyecto de gobierno
+           digital y futuras actividades relacionadas.
+
+     5.2.9 El personal designado para las acciones de transformación digital de
+           la OTI revisa que el documento esté completo y dentro del marco de
+           la presente directiva, caso contrario, solicita la subsanación respectiva.
+
+
+================================================================================
+PÁGINA 10
+DIRECTIVA N° 015-2024 OGI/RE
+Órgano Responsable: Oficina General de Apoyo a la Gestión Institucional
+Página 7 de 22
+================================================================================
+
+     5.2.10 Los proyectos de gobierno digital con la documentación aceptada por
+            la OTI son registrados en el tablero de seguimiento del PGD con el
+            estado "Solicitud de incorporación" y son presentados en la siguiente
+            sesión del Comité, para su aprobación.
+
+     5.2.11 El Comité, agenda en sus sesiones un espacio para la OTI, a fin de
+            que informe sobre el avance en la implementación del portafolio de
+            proyectos de gobierno digital del PGD, así como, de las solicitudes de
+            incorporación al PGD y las solicitudes de desestimación.
+
+     5.2.12 La solicitud de incorporación a un PGD con vigencia menor o igual a
+            seis meses es redirigida al subsiguiente PGD, salvo la unidad de
+            organización garantice que el ciclo de vida del proyecto de gobierno
+            digital tome, como máximo, el mismo tiempo de vigencia del PGD en
+            curso.
+
+5.3. Enfoque de desarrollo del proyecto de gobierno digital
+
+     5.3.1 Cada proyecto de gobierno digital, por sus características intrínsecas,
+           requiere de un enfoque de desarrollo determinado o, dependiendo de
+           la tipología del proyecto de gobierno digital, un enfoque híbrido. La
+           unidad de organización considera los siguientes factores al momento
+           de decidir el enfoque más adecuado:
+
+[TABLA: CRITERIOS PARA SELECCIÓN DEL ENFOQUE DE DESARROLLO]
+
+CRITERIO          | PREDICTIVO                                  | ADAPTATIVO
+------------------|---------------------------------------------|--------------------------------------------
+REQUISITOS        | Los requisitos que el producto, bien,       | Los requisitos son inciertos o complejos y se
+                  | servicio o resultado que entregar al        | espera que evolucionen a lo largo del
+                  | proyecto de gobierno digital son bien       | proyecto de gobierno digital.
+                  | conocidos y fáciles de definir.             |
+------------------|---------------------------------------------|--------------------------------------------
+ALCANCE           | El alcance es conocido desde el principio y | Los cambios son bienvenidos en cualquier
+                  | bajo condiciones ya determinadas. Los       | momento del proyecto de gobierno digital.
+                  | cambios son mínimos.                        | Esa es la naturaleza del proyecto de
+                  |                                             | gobierno digital, ir incrementando
+                  |                                             | requisitos en el tiempo.
+------------------|---------------------------------------------|--------------------------------------------
+CRONOGRAMA        | El producto, bien, servicio o resultado se  | Necesidad de entregas tempranas, incluso
+                  | entrega en etapas cercanas a la             | si no es un producto terminado.
+                  | finalización del proyecto o fase.           |
+------------------|---------------------------------------------|--------------------------------------------
+PRESUPUESTO       | Funciona mejor en entornos de precio fijo o | Funciona mejor en entornos de "time &
+                  | cerrado. Si hay cambios, se gestiona        | material" o mixtos, es decir, se manejan
+                  | mediante procesos de control de cambios,    | contratos por las horas necesarias para
+                  | los cuales suelen generar incrementos       | implementar el proyecto de gobierno
+                  | presupuestarios.                            | digital.
+------------------|---------------------------------------------|--------------------------------------------
+PRIORIZACIÓN      | Dado que existe una entrega por proyecto    | Las características más valiosas del
+                  | de gobierno digital o fase, ésta abarca     | producto se entregan primero. Las
+                  | todos los requisitos solicitados por el     | siguientes entregas son de carácter iterativo
+                  | usuario.                                    | e incremental, evoluciona en función de la
+                  |                                             | retroalimentación del usuario.
+------------------|---------------------------------------------|--------------------------------------------
+EQUIPO DE         | La coordinación y sincronización de los     | Los equipos son pequeños, dedicados y con
+TRABAJO           | equipos sólo se produce en los momentos     | un alto nivel de coordinación y
+
+
+================================================================================
+PÁGINA 11
+DIRECTIVA N° 015-2024 OGI/RE
+Órgano Responsable: Oficina General de Apoyo a la Gestión Institucional
+Página 8 de 22
+================================================================================
+
+CRITERIO          | PREDICTIVO                                  | ADAPTATIVO
+------------------|---------------------------------------------|--------------------------------------------
+[continuación]    | de integración de las partes. Los equipos   | sincronización. Los equipos son
+                  | son especializados.                         | multidisciplinarios.
+------------------|---------------------------------------------|--------------------------------------------
+PARTICIPACIÓN     | El usuario participa al inicio del proyecto | El usuario participa y se requiere de su
+DEL USUARIO       | de gobierno digital, en etapas clave y en   | disponibilidad durante todo el proyecto de
+                  | los hitos.                                  | gobierno digital.
+
+Tabla 1: Criterios para la selección del enfoque de desarrollo del proyecto.
+
+     5.3.2 La unidad de organización define el enfoque de desarrollo del proyecto
+           de gobierno digital a aplicar: predictivo, adaptativo o híbrido. El
+           enfoque de desarrollo determina los documentos de gestión que debe
+           presentar, como parte de la supervisión técnica que realiza la OTI.
+
+     5.3.3 Para efectos de la presente directiva, los documentos de gestión que
+           se utilizan para los proyectos de gobierno digital con enfoque híbrido
+           son los mismos que los usados para los proyectos de gobierno digital
+           con enfoque predictivo.
+
+5.4. Ciclo de vida del proyecto de gobierno digital
+
+     5.4.1 Para determinar el tipo y número de fases en el ciclo de vida de un
+           proyecto de gobierno digital, es importante seleccionar primero el
+           enfoque de desarrollo y establecer la cadencia de entrega.
+
+     5.4.2 Un ciclo de vida secuencial, es decir, donde una fase termina antes de
+           que comience la siguiente, encaja mejor con el enfoque de desarrollo
+           predictivo. La Ilustración 1 muestra un ejemplo de este ciclo de vida.
+
+[DIAGRAMA: Ejemplo de Ciclo de Vida Predictivo]
+
+Viabilidad → Diseño → Construcción → Prueba → Despliegue → Cierre
+
+Ilustración 2: Ejemplo de ciclo de vida predictivo
+Fuente: PMBOK
+
+     5.4.3 El ciclo de vida de un enfoque de desarrollo adaptivo o ágil tiende a
+           ser iterativo (retroalimentación de los interesados y re-priorización del
+           trabajo pendiente para la entrega de valor en iteraciones cortas) e
+           incremental (cada versión posterior añade funcionalidad a la versión
+           previa, con lo cual se aumenta el valor del producto a medida que se
+
+
+================================================================================
+PÁGINA 12
+DIRECTIVA N° 015-2024 OGI/RE
+Órgano Responsable: Oficina General de Apoyo a la Gestión Institucional
+Página 9 de 22
+================================================================================
+
+           alinea con la necesidad del usuario). La Ilustración 2 muestra un
+           ejemplo de este ciclo de vida.
+
+[DIAGRAMA: Ejemplo de ciclo de vida ágil]
+
+El usuario usa el incremento. El equipo y el usuario aprenden, repriorizan y actualizan
+
+Inicio → [Iteración 1: Planear, Diseñar, Lanzar] → [Iteración 2: Planear, Diseñar, Lanzar] → 
+[Iteración n: Planear, Diseñar, Lanzar] → Cierre
+
+Ilustración 3: Ejemplo de ciclo de vida ágil
+
+     5.4.4 En caso el enfoque de desarrollo y la cadencia de entrega del proyecto
+           de gobierno digital no se ajusten a los ciclos de vida ejemplificados en
+           los puntos precedentes, como base genérica, la unidad de
+           organización puede considerar el siguiente ciclo de vida:
+
+           5.4.4.1. Inicio: En esta fase se elabora el acta de constitución del
+                    proyecto de gobierno digital (enfoque predictivo) o la hoja
+                    de ruta del producto (enfoque adaptativo). Se identifican a
+                    las partes interesadas y sus expectativas, y, se definen los
+                    requisitos iniciales.
+
+           5.4.4.2. Planificación: En esta fase se descompone la información
+                    de alto nivel en documentos más detallados que guíen la
+                    ejecución del proyecto de gobierno digital, siendo los
+                    instrumentos de gestión más usados el Plan de Gestión del
+                    Proyecto de gobierno digital (enfoque predictivo) y sus
+                    planes subsidiarios, así como, el "Backlog" del producto
+                    (enfoque adaptativo).
+
+           5.4.4.3. Desarrollo: En esta fase se ejecuta el trabajo planificado
+                    para producir los entregables del proyecto de gobierno
+                    digital, y, se realiza un seguimiento del progreso del
+                    trabajo.
+
+           5.4.4.4. Prueba: Durante esta fase se realizan pruebas para
+                    verificar que los entregables cumplen con los requisitos y
+                    expectativas del usuario, a fin de obtener la aprobación
+                    respectiva. Dependiendo de la naturaleza del proyecto de
+                    gobierno digital, se utilizan los documentos: Plan de
+                    Pruebas, Solicitud de Pase a Pruebas e Informe de
+                    Pruebas.
+
+           5.4.4.5. Despliegue: En esta fase, se implementan, despliegan,
+                    publican y/o ponen en marcha los entregables del proyecto
+                    de gobierno digital en el entorno productivo/operativo del
+                    usuario; se proporciona capacitación, soporte, monitoreo,
+                    según sea necesario. Dependiendo de la naturaleza del
+                    proyecto de gobierno digital, se utilizan los documentos:
+                    Aceptación del producto y Solicitud de Pase a Producción.
+
+
+================================================================================
+PÁGINA 13
+DIRECTIVA N° 015-2024 OGI/RE
+Órgano Responsable: Oficina General de Apoyo a la Gestión Institucional
+Página 10 de 22
+================================================================================
+
+           5.4.4.6. Cierre: En esta fase se finaliza formalmente el proyecto de
+                    gobierno digital y se cierran todas las actividades
+                    pendientes. Se realiza una evaluación post
+                    implementación para medir el impacto del proyecto de
+                    gobierno digital y la satisfacción del usuario. El Informe de
+                    Cierre es requerido en esta etapa.
+
+     5.4.5 Cabe precisar que la supervisión que efectúa la OTI, se lleva a cabo
+           durante todo el ciclo de vida del proyecto de gobierno digital.
+
+     5.4.6 Durante el ciclo de vida del proyecto de gobierno digital, éste puede
+           cambiar de unidad de organización a cargo, responsable y/o
+           patrocinador, esta transición involucra la actualización o reformulación
+           de los documentos de gestión respectivos, comunicado vía
+           memorándum dirigido a OTI y SGG.
+
+5.5. Riesgos del proyecto de gobierno digital
+
+     5.5.1 Los riesgos iniciales son identificados en etapas tempranas del
+           proyecto de gobierno digital y quedan registrados en los instrumentos
+           "F-DIR-01 Caso de negocio", "F-DIR-02 Acta de constitución del
+           proyecto", "F-DIR-04 Registro de riesgos" y "F-DIR-06 Tablero Agile
+           Inception".
+
+     5.5.2 El responsable del proyecto de gobierno digital gestiona y actualiza en
+           el registro de riesgos todos los riesgos identificados, durante todo el
+           ciclo de vida del proyecto de gobierno digital.
+
+     5.5.3 El personal designado para las acciones de transformación digital de
+           la OTI realiza el seguimiento a las acciones planificadas y desplegadas
+           por la unidad de organización, para dar respuesta a los riesgos
+           detectados.
+
+5.6. Cronograma del proyecto de gobierno digital
+
+     5.6.1 El cronograma del proyecto de gobierno digital es una herramienta
+           esencial para medir y evaluar el avance de un proyecto de gobierno
+           digital con enfoque predictivo o híbrido. Cuando se planifica y ejecuta
+           un proyecto de gobierno digital, el cronograma proporciona una línea
+           de tiempo detallada que muestra cuándo se deben completar las
+           diferentes actividades.
+
+     5.6.2 De acuerdo al PMBOK, la elaboración del cronograma de un proyecto
+           con enfoque predictivo sigue un proceso gradual, como el que se
+           detalla:
+
+           5.6.2.1. Paso 1: Descomponer el alcance del proyecto en
+                    actividades específicas.
+
+           5.6.2.2. Paso 2: Secuenciar las actividades relacionadas.
+
+           5.6.2.3. Paso 3: Estimar el esfuerzo, la duración, las personas y
+                    los recursos físicos necesarios para completar las
+                    actividades.
+
+           5.6.2.4. Paso 4: Asignar personas y recursos a las actividades en
+
+
+================================================================================
+PÁGINA 14
+DIRECTIVA N° 015-2024 OGI/RE
+Órgano Responsable: Oficina General de Apoyo a la Gestión Institucional
+Página 11 de 22
+================================================================================
+
+                    función de la disponibilidad.
+
+           5.6.2.5. Paso 5: Ajustar la secuencia, las estimaciones y los
+                    recursos hasta que se logre un cronograma convenido.
+
+     5.6.3 El personal designado para las acciones de transformación digital de
+           la OTI mide el progreso del proyecto de gobierno digital comparando
+           el avance real con el cronograma planificado.
+
+5.7. Aprobación de los proyectos de gobierno digital
+
+     5.7.1 La OTI pone a consideración del Comité los proyectos que se
+           encuentran con el estado "Solicitud de incorporación". La unidad de
+           organización proponente participa activamente en la sesión del
+           Comité. En caso el Comité lo estime conveniente, la unidad de
+           organización puede sustentar en vivo el proyecto de gobierno digital.
+
+     5.7.2 La aprobación o rechazo de los proyectos de gobierno digital se
+           registran como acuerdos del acta de reunión. Asimismo, el estado de
+           los proyectos de gobierno digital se actualiza como "Aprobado" o
+           "Rechazado", según corresponda.
+
+     5.7.3 Al siguiente día hábil de aprobado el proyecto de gobierno digital, la
+           OTI dirige un memorándum a la unidad de organización para
+           programar una inducción sobre la presentación de los siguientes
+           documentos de gestión, los cuales también pueden descargarse del
+           sitio interno "Gobierno Digital MRE", junto a ejemplos ilustrativos:
+
+           5.7.3.1. Proyectos de gobierno digital con enfoque predictivo o
+                    híbrido:
+
+                    5.7.3.1.1. F-DIR-02 Acta de constitución del proyecto
+                    5.7.3.1.2. F-DIR-03 Cronograma
+                    5.7.3.1.3. F-DIR-04 Registro de riesgos
+
+           5.7.3.2. Proyectos de gobierno digital con enfoque adaptativo:
+
+                    5.7.3.2.1. F-DIR-06 Tablero Agile Inception
+                    5.7.3.2.2. F-DIR-07 User Story Mapping
+                    5.7.3.2.3. F-DIR-08 Hoja de ruta del producto
+                    5.7.3.2.4. F-DIR-04 Registro de riesgos
+
+     5.7.4 Los citados documentos de gestión deben ser remitidos vía
+           memorándum a la OTI, dentro de los siguientes tres (03) días hábiles
+           de haber recibido la comunicación mencionada en el punto
+           precedente.
+
+     5.7.5 La elaboración de los documentos de gestión de los proyectos de
+           gobierno digital con enfoque predictivo o híbrido debe incluirse como
+           actividades del cronograma del proyecto de gobierno digital, conforme
+           se aprecia en el ejemplo ilustrativo del documento "F-DIR-03
+           Cronograma".
+
+     5.7.6 El personal designado para las acciones de transformación digital de
+           la OTI revisa que los documentos estén completos y dentro del marco
+
+
+================================================================================
+PÁGINA 15
+DIRECTIVA N° 015-2024 OGI/RE
+Órgano Responsable: Oficina General de Apoyo a la Gestión Institucional
+Página 12 de 22
+================================================================================
+
+           de la presente directiva, caso contrario, solicita la subsanación
+           respectiva.
+
+     5.7.7 Con la documentación aceptada, el personal designado para las
+           acciones de transformación digital actualiza el estado de los proyectos
+           de gobierno digital, de acuerdo a los siguientes criterios:
+
+           5.7.7.1. Por iniciar: La fecha de inicio planificada del proyecto de
+                    gobierno digital es superior al período de revisión actual.
+
+           5.7.7.2. En curso: El proyecto de gobierno digital avanza
+                    conforme la unidad de organización expresó en los
+                    documentos de gestión remitidos.
+
+     5.7.8 En caso la dependencia incumpla con el envío de los documentos de
+           gestión o éstos se encuentren incompletos, el estado del proyecto de
+           gobierno digital se actualiza a "Documentos de inicio pendientes",
+           hasta la subsanación respectiva.
+
+     5.7.9 El documento "F-DIR-03 Cronograma" es registrado por el personal
+           designado para las acciones de transformación digital en el software
+           de administración de proyectos de gobierno digital que disponga la
+           OTI.
+
+     5.7.10 El documento "F-DIR-04 Registro de riesgos" es registrado por el
+            personal designado para las acciones de transformación digital en una
+            base de datos centralizada de todo el portafolio de proyectos de
+            gobierno digital del PGD vigente.
+
+     5.7.11 El responsable del proyecto de gobierno digital y la unidad organizativa
+            planifican el esfuerzo necesario para que el proyecto de gobierno
+            digital alcance los objetivos que motivaron su formulación, en función
+            del enfoque de desarrollo y entregables requeridos. Los proyectos de
+            gobierno digital con enfoque predictivo suelen elaborar un Plan de
+            Gestión del Proyecto, mientras que los proyectos de gobierno digital
+            con enfoque ágil crean un "Backlog" en pizarras colaborativas; ambos
+            se refinan a lo largo del ciclo de vida del proyecto de gobierno digital.
+
+     5.7.12 Artefactos referenciales de los citados instrumentos de gestión, junto
+            a un ejemplo ilustrativo, se encuentran disponibles en el sitio interno
+            "Gobierno Digital MRE".
+
+     5.7.13 El responsable del proyecto de gobierno digital comparte con el
+            personal designado para las acciones de transformación digital los
+            tableros y/o pizarras colaborativas que se destinen para un proyecto
+            de gobierno digital con enfoque adaptativo, durante todo el ciclo de
+            vida del referido proyecto.
+
+5.8. Ejecución de los proyectos de gobierno digital
+
+     5.8.1 La unidad de organización es responsable de la ejecución de su
+           proyecto de gobierno digital, de gestionar los recursos y riesgos
+           asociados, y, de dar el seguimiento correspondiente a fin de
+           comprobar el avance de los trabajos planificados, la generación de los
+           entregables y alcanzar los objetivos establecidos.
+
+
+================================================================================
+PÁGINA 16
+DIRECTIVA N° 015-2024 OGI/RE
+Órgano Responsable: Oficina General de Apoyo a la Gestión Institucional
+Página 13 de 22
+================================================================================
+
+     5.8.2 En caso de proyectos de gobierno digital ejecutados por terceros, se
+           recomienda que, como parte del servicio, la unidad de organización
+           considere la figura del jefe del proyecto certificado PMP (Project
+           Management Professional) o con especialización o maestría en
+           gerencia de proyecto, quien coordina estrechamente con el
+           responsable del proyecto de gobierno digital designado por la
+           dependencia a cargo.
+
+     5.8.3 La unidad de organización comunica oportunamente a la OTI el estado
+           del proyecto de gobierno digital y todo cambio en el curso del mismo,
+           el cual puede generar actualizaciones en los instrumentos de gestión.
+
+     5.8.4 De requerirlo, la OTI solicita a la unidad de organización una reunión
+           a fin de que presenten el sustento que acompaña al estado reportado,
+           así como, los cambios o actualizaciones efectuadas al proyecto de
+           gobierno digital y/o instrumentos de gestión.
+
+     5.8.5 El personal designado para las acciones de transformación digital de
+           la OTI revisa que las actualizaciones a los instrumentos de gestión
+           estén completas y dentro del marco de la presente directiva, caso
+           contrario, solicita la subsanación respectiva. Asimismo, verifica que el
+           estado reportado vaya en línea con las actualizaciones efectuadas.
+
+     5.8.6 Una vez aceptadas, las nuevas versiones de los instrumentos de
+           gestión son actualizadas en el repositorio de seguimiento, en el
+           software de administración de proyectos de gobierno digital que
+           disponga la OTI y en la base de datos centralizada de riesgos del PGD,
+           según corresponda.
+
+     5.8.7 En caso la unidad de organización incumpla con el envío de los
+           instrumentos de gestión subsanados, el estado del proyecto de
+           gobierno digital se actualiza a "Subsanación de instrumentos
+           pendiente", hasta la subsanación respectiva.
+
+     5.8.8 El responsable del proyecto de gobierno digital con enfoque ágil o
+           adaptativo pone a disposición de las partes interesadas un tablero que
+           transmita información relevante de ese proyecto.
+
+5.9. Seguimiento de los proyectos de gobierno digital
+
+     5.9.1 SGG comunica a todas las dependencias que cuenten con proyectos
+           de gobierno digital en el PGD, el cronograma de las siguientes
+           reuniones:
+
+           5.9.1.1. Seguimiento mensual y fecha de corte del seguimiento
+
+           5.9.1.2. Sesiones del Comité
+
+     5.9.2 El gestor del proyecto de gobierno digital es el responsable de informar
+           oportuna y diligentemente el progreso de su proyecto, no pudiendo
+           transferir esa responsabilidad a otro funcionario de su Oficina o un
+           tercero. En caso de ausencia programada, comunica con antelación a
+           la OTI, vía memorándum, precisando nombre, tiempo de sustitución y
+           medios de contacto del funcionario que lo suplirá, quien debe estar en
+           la capacidad de reportar y sustentar los avances del proyecto de
+           gobierno digital, así como, futuras actividades relacionadas.
+
+
+================================================================================
+PÁGINA 17
+DIRECTIVA N° 015-2024 OGI/RE
+Órgano Responsable: Oficina General de Apoyo a la Gestión Institucional
+Página 14 de 22
+================================================================================
+
+     5.9.3 El gestor del proyecto de gobierno digital y el personal designado para
+           las acciones de transformación digital de la OTI acuerdan sostener una
+           o varias reuniones de coordinación previa a la reunión de seguimiento
+           mensual, con la finalidad de identificar posibles desviaciones en la
+           evolución del proyecto de gobierno digital, así como, el estado real del
+           mismo.
+
+     5.9.4 El personal designado para las acciones de transformación digital
+           actualiza la fecha de corte en el software de administración de
+           proyectos de gobierno digital, para el cálculo del progreso del proyecto
+           y el valor acumulado. El resultado obtenido representa el avance
+           programado del proyecto de gobierno digital con enfoque predictivo o
+           híbrido.
+
+     5.9.5 En base a la unidad o rango de tiempo empleado en la hoja de ruta del
+           proyecto de gobierno digital con enfoque ágil o adaptativo, el personal
+           designado para las acciones de transformación digital estima el
+           progreso y valor acumulado, el cual representa el avance programado
+           del referido proyecto.
+
+     5.9.6 La medida principal de progreso de un proyecto de gobierno digital con
+           enfoque ágil o adaptativo es el software funcionando, por lo que el
+           personal designado para las acciones de transformación digital puede
+           solicitar al usuario final del software la retroalimentación respectiva.
+
+     5.9.7 La asignación del estado de un proyecto de gobierno digital es
+           determinada por el personal designado para las acciones de
+           transformación digital de la OTI, en base a los instrumentos de gestión
+           remitidos por la unidad de organización y producto de las reuniones de
+           coordinación.
+
+     5.9.8 Para identificar el estado de un proyecto de gobierno digital en relación
+           con su avance de implementación, se utilizan las siguientes etiquetas:
+
+ETIQUETAS:
+
+     5.9.8.1. Por iniciar: La fecha de inicio planificada del proyecto de
+              gobierno digital es superior al período de seguimiento en
+              curso.
+
+     5.9.8.2. En curso: El proyecto de gobierno digital avanza conforme
+              lo planificado o presenta un ligero retraso (desviación <
+              10%).
+
+     5.9.8.3. Detenido: El proyecto de gobierno digital ha interrumpido
+              su avance debido a elementos o factores que impiden el
+              desarrollo de las actividades programadas.
+
+     5.9.8.4. Desestimado: Proyecto de gobierno digital cancelado.
+
+     5.9.8.5. Reprogramado: El proyecto de gobierno digital reiniciará
+              en otro momento indefinido. No se cuenta con un nuevo
+              cronograma.
+
+     5.9.8.6. Con retraso: Si bien hay progreso en la implementación
+              del proyecto, el cronograma presenta desviación alta,
+              superior o igual al 20%.
+
+
+================================================================================
+PÁGINA 18
+DIRECTIVA N° 015-2024 OGI/RE
+Órgano Responsable: Oficina General de Apoyo a la Gestión Institucional
+Página 15 de 22
+================================================================================
+
+     5.9.8.7. Con riesgo: Proyecto de gobierno digital con, al menos,
+              20% de riesgos materializados y alta probabilidad de
+              detenerse.
+
+     5.9.8.8. Concluido: Proyecto de gobierno digital que alcanzó los
+              objetivos planificados.
+
+     5.9.8.9. Sin reporte: La dependencia no informó sobre el avance
+              del proyecto de gobierno digital.
+
+     5.9.8.10. Solicitud de desestimación: Desestimación pendiente de
+               aprobación por el Comité.
+
+     5.9.8.11. Solicitud de incorporación: Proyecto de gobierno digital
+               pendiente de aprobación del Comité.
+
+     5.9.8.12. Subsanación de instrumentos pendiente: El proyecto
+               de gobierno digital tiene instrumentos de gestión con
+               observaciones pendientes de subsanar.
+
+5.9.9 El estado del proyecto de gobierno digital también se visualiza
+      gráficamente mediante semaforización, para los siguientes criterios:
+
+CRITERIOS:
+
+     5.9.9.1. General: Visión global de la implementación del proyecto
+              de gobierno digital.
+
+     5.9.9.2. Alcance: Delimita qué se incluye y qué no se incluye en el
+              proyecto de gobierno digital, usualmente referidos a
+              entregables, requisitos, resultados, criterios de aceptación
+              y restricciones.
+
+     5.9.9.3. Tiempo: Duración de las actividades para cumplir con los
+              plazos establecidos y se logren los objetivos del proyecto
+              de gobierno digital.
+
+     5.9.9.4. Recursos: Personas, equipos, materiales, instalaciones,
+              tecnología y cualquier otro recurso necesario para
+              alcanzar los objetivos del proyecto de gobierno digital.
+
+     5.9.9.5. Riesgos: Eventos o situaciones inciertas que, de ocurrir,
+              podrían tener un impacto positivo o negativo en los
+              objetivos del proyecto de gobierno digital.
+
+     5.9.9.6. Costos: Costos asociados a la implementación del
+              proyecto de gobierno digital.
+
+5.9.10 La semaforización contempla los siguientes colores distintivos:
+
+DISTINTIVOS:
+
+     5.9.10.1. Verde: Avanza conforme a lo previsto o se identifica una
+               variación inferior al 10% de lo planificado.
+
+     5.9.10.2. Amarillo: Presenta una ligera variación, entre el 10% y
+               20% de lo planificado.
+
+
+================================================================================
+PÁGINA 19
+DIRECTIVA N° 015-2024 OGI/RE
+Órgano Responsable: Oficina General de Apoyo a la Gestión Institucional
+Página 16 de 22
+================================================================================
+
+     5.9.10.3. Rojo: Variación superior al 20%, respecto a lo planificado.
+
+5.9.11 La Tabla 2 muestra la interpretación de la semaforización de cada
+       criterio que complementa el estado del avance en la implementación
+       del proyecto de gobierno digital.
+
+[TABLA 2: MATRIZ DE SEMAFORIZACIÓN DE AVANCE POR CRITERIO]
+
+Criterio  | Verde (Según lo planeado)                  | Amarillo (En riesgo moderado)            | Rojo (En riesgo significativo)
+----------|---------------------------------------------|------------------------------------------|------------------------------------------
+General   | La implementación del proyecto de gobierno  | La implementación del proyecto de        | La implementación del proyecto de
+          | digital avanza conforme a lo previsto o se  | gobierno digital presenta una ligera     | gobierno digital ha variado más del
+          | identifica que ha variado menos del 10% de  | variación, entre el 10% y 20% de lo      | 20% de lo planificado.
+          | lo planificado.                             | planificado.                             |
+----------|---------------------------------------------|------------------------------------------|------------------------------------------
+Alcance   | El alcance del proyecto de gobierno digital | El alcance del proyecto de gobierno      | El alcance del proyecto de gobierno
+          | (suma de entregables, requisitos,           | digital (suma de entregables,            | digital (suma de entregables,
+          | resultados, criterios de aceptación y       | requisitos, resultados, criterios de     | requisitos, resultados, criterios de
+          | restricciones) avanza conforme a lo         | aceptación y restricciones) presenta     | aceptación y restricciones) ha
+          | previsto o se identifica que ha variado     | una ligera variación, entre el 10% y     | variado más del 20% de lo
+          | menos del 10% de lo planificado.            | 20% de lo planificado.                   | planificado.
+----------|---------------------------------------------|------------------------------------------|------------------------------------------
+Tiempo    | Las actividades y plazos establecidos       | El avance de las actividades y plazos    | El avance de las actividades y plazos
+          | avanzan conforme a lo previsto o se         | establecidos presenta una ligera         | establecidos ha variado más del 20%
+          | identifica que han variado menos del 10%    | variación, entre el 10% y 20% de lo      | de lo planificado.
+          | de lo planificado.                          | planificado.                             |
+----------|---------------------------------------------|------------------------------------------|------------------------------------------
+Recursos  | Se avanza con disponibilidad de los         | Entre el 10% y 20% de los recursos no    | Más del 20% de los recursos no
+          | recursos asignados al proyecto de           | están disponibles en el momento          | están disponibles en el momento
+          | gobierno digital o menos del 10% de los     | requerido.                               | requerido.
+          | recursos no están disponibles en el         |                                          |
+          | momento requerido.                          |                                          |
+----------|---------------------------------------------|------------------------------------------|------------------------------------------
+Riesgos   | Menos del 10% de los riesgos han afectado   | Entre el 10% y 20% de los riesgos han    | Más del 20% de los riesgos han
+          | al proyecto de gobierno digital.            | afectado al proyecto de gobierno         | afectado al proyecto de gobierno
+          |                                             | digital.                                 | digital.
+----------|---------------------------------------------|------------------------------------------|------------------------------------------
+Costos    | El presupuesto avanza conforme a lo         | El presupuesto presenta una ligera       | El presupuesto ha variado más del
+          | previsto o se identifica que ha variado     | variación, entre el 10% y 20% de lo      | 20% de lo planificado.
+          | menos del 10% de lo planificado.            | planificado.                             |
+
+Tabla 2: Matriz de semaforización de avance por criterio
+
+     5.9.12 Únicamente los proyectos con estado "En curso", "Detenido", "Con
+            retraso", "Con riesgo" y "Concluido" cuentan con semaforización. A los
+            proyectos de gobierno digital con estado "Detenido" se les asigna el
+            color rojo para todos los criterios.
+
+     5.9.13 La OTI, como Secretaría Técnica del Comité, dirige un memorándum
+            a la unidad de organización cuyo proyecto de gobierno digital figure
+            con el estado "Sin reporte", con la finalidad de solicitar las medidas
+
+
+================================================================================
+PÁGINA 20
+DIRECTIVA N° 015-2024 OGI/RE
+Órgano Responsable: Oficina General de Apoyo a la Gestión Institucional
+Página 17 de 22
+================================================================================
+
+            respectivas.
+
+     5.9.14 Los proyectos de gobierno digital que durante dos períodos mensuales
+            consecutivos tengan el estado "Sin reporte", inician el tercer período
+            con el estado "Detenido". Esta acción es comunicada, mediante
+            memorándum, a la Jefatura General o Dirección General a cargo del
+            proyecto de gobierno digital, a la SGG, y, es presentado para
+            evaluación en la subsiguiente reunión del Comité, en la cual el titular
+            de la unidad de organización deberá brindar sus descargos y
+            propuesta de acción.
+
+     5.9.15 La OTI, como Secretaría Técnica del Comité, utiliza los documentos
+            de gestión como instrumentos para constatar el progreso del proyecto
+            de gobierno digital.
+
+     5.9.16 El responsable del proyecto de gobierno digital registra mensualmente
+            el avance real en los instrumentos de gestión "F-DIR-09 Seguimiento
+            mensual" o "F-DIR-10 Seguimiento Ágil", según corresponda, y,
+            actualiza el documento "F-DIR-04 Registro de riesgos", conforme haya
+            gestionado los riesgos del proyecto de gobierno digital. El citado
+            responsable carga los instrumentos en el repositorio de seguimiento
+            habilitado por el personal designado para las acciones de
+            transformación digital y notifica la disponibilidad de éstos.
+
+     5.9.17 El personal designado para las acciones de transformación digital de
+            la OTI revisa que los instrumentos de gestión estén completos y dentro
+            del marco de la presente directiva, caso contrario, solicita la
+            subsanación respectiva. Asimismo, verifica que la información
+            consignada vaya en línea con el resultado de las reuniones de
+            coordinación previamente efectuadas.
+
+     5.9.18 Una vez aceptados, la información de los instrumentos de gestión se
+            actualiza en el tablero de seguimiento del PGD, en el repositorio
+            histórico de seguimiento, en el software de administración de
+            proyectos de gobierno digital que disponga la OTI y en la base de
+            datos centralizada de riesgos del PGD, según corresponda.
+
+     5.9.19 En caso la dependencia incumpla con el envío de los instrumentos de
+            gestión subsanados, el estado del proyecto se actualiza a
+            "Subsanación de instrumentos pendiente", hasta la subsanación
+            respectiva.
+
+5.10. Desestimación de los proyectos
+
+      5.10.1 Luego de una reevaluación exhaustiva, la unidad organizativa puede
+             solicitar al Comité la desestimación de su proyecto de gobierno digital,
+             debido a un cambio de prioridades, limitaciones de recursos,
+             restricciones regulatorias, factores externos imprevistos o porque ya
+             no existe más la necesidad que motivó su formulación.
+
+      5.10.2 La dependencia dirige un memorándum a la OTI y SGG sustentando
+             la solicitud de desestimación. El estado del proyecto de gobierno
+             digital se actualiza a "Solicitud de desestimación".
+
+      5.10.3 La aprobación o rechazo de la solicitud de desestimación de un
+             proyecto de gobierno digital debe quedar registrada como acuerdo del
+             acta de reunión. En caso de aprobación, el estado del proyecto de
+
+
+================================================================================
+PÁGINA 21
+DIRECTIVA N° 015-2024 OGI/RE
+Órgano Responsable: Oficina General de Apoyo a la Gestión Institucional
+Página 18 de 22
+================================================================================
+
+             gobierno digital se actualiza a "Desestimado"; en caso de rechazo,
+             "Reprogramado". En cualquiera de los casos, la OTI solicita a la
+             dependencia la remisión de los documentos de gestión
+             correspondientes.
+
+5.11. Cierre de los proyectos
+
+      5.11.1 Todo proyecto de gobierno digital que forme parte del PGD debe
+             contar con su informe de cierre, a la conclusión o cancelación
+             (desestimación) del mismo.
+
+      5.11.2 El responsable del proyecto de gobierno digital descarga el documento
+             "F-DIR-11 Informe de cierre del proyecto" del sitio interno "Gobierno
+             Digital MRE", el cual está disponible junto a su respectivo ejemplo
+             ilustrativo.
+
+      5.11.3 El gestor del proyecto de gobierno digital contacta al personal
+             designado para las acciones de transformación digital de la OTI para
+             recibir orientación en el registro del documento, así como, para
+             obtener la numeración correspondiente.
+
+      5.11.4 El documento "F-DIR-11 Informe de cierre del proyecto" es remitido a
+             la OTI con copia a SGG, vía memorándum, con plazo máximo de 7
+             días hábiles luego de haberse implementado el proyecto de gobierno
+             digital o, en su defecto, a la aprobación de desestimación por parte del
+             Comité.
+
+      5.11.5 El personal designado para las acciones de transformación digital de
+             la OTI revisa el contenido del informe de cierre, por lo que en caso el
+             documento no cumpla con los criterios mínimos de revisión, será
+             devuelto a la dependencia para la subsanación respectiva.
+
+      5.11.6 Los criterios mínimos que emplea el personal designado para las
+             acciones de transformación digital de la OTI para la revisión del
+             informe de cierre son los siguientes:
+
+             5.11.6.1. Refleja la evaluación general del desempeño del proyecto
+                       de gobierno digital, en comparación con la línea base.
+
+             5.11.6.2. Se corresponde con la información presentada en los
+                       documentos de gestión.
+
+             5.11.6.3. Precisa si los entregables lograron los beneficios y valor
+                       previstos.
+
+      5.11.7 El personal designado para las acciones de transformación digital
+             coordina con la dependencia para programar una reunión donde la
+             unidad organizativa realice una demostración del producto, servicio o
+             resultado que generó el proyecto de gobierno digital, donde se
+             evidencien los beneficios que motivaron su formulación.
+
+      5.11.8 La OTI dirige un memorándum de respuesta a la dependencia con el
+             resultado de la revisión e indicando si se acepta o no el informe de
+             cierre.
+
+
+================================================================================
+PÁGINA 22
+DIRECTIVA N° 015-2024 OGI/RE
+Órgano Responsable: Oficina General de Apoyo a la Gestión Institucional
+Página 19 de 22
+================================================================================
+
+6. DISPOSICION COMPLEMENTARIA
+
+Las disposiciones no contempladas en la presente directiva son resueltas por la
+OTI, en el marco de sus competencias, como Secretaría Técnica del Comité.
+
+7. RESPONSABILIDAD
+
+Son responsables del cumplimiento de las normas contenidas en la presente
+directiva, los órganos, unidades de organización del MRE y el personal
+independientemente de su régimen laboral, modalidad y tipo de contratación,
+incluyendo a los cesgristas y practicantes.
+
+ANEXO
+
+Definiciones.
+
+
+================================================================================
+PÁGINA 23 - ANEXO
+DIRECTIVA N° 015-2024 OGI/RE
+Órgano Responsable: Oficina General de Apoyo a la Gestión Institucional
+Página 20 de 22
+================================================================================
+
+ANEXO
+
+DEFINICIONES
+
+Se definen los siguientes términos con el fin de proporcionar contexto para la presente
+directiva. Algunos de los cuales fueron tomados, adaptados o se basan en el PMBOK
+(Project Management Body of Knowledge) del PMI (Project Management Institute):
+
+Agile: También conocido como ágil, es una mentalidad que impulsa un enfoque de
+desarrollo de software de carácter iterativo e incremental, que aplica los valores y
+principios del Manifiesto Ágil. Produce y entrega valor a través de un "producto que
+funciona". Cada entrega contiene incrementos del producto, donde desde la primera
+entrega hay valor.
+
+Backlog: También conocido como Product Backlog o Backlog del producto, es una lista
+priorizada de las funcionalidades deseadas del producto. Proporciona una comprensión
+centralizada y compartida de lo que hay que construir y el orden en el que hay que
+hacerlo. Se compone de elementos de backlog del producto, o PBI.
+
+Cadencia de entrega: Frecuencia de entregas en el proyecto. Los proyectos pueden
+tener una única entrega, múltiples entregas o entregas periódicas.
+
+Caso de negocio: Un caso de negocio es una propuesta de valor para un proyecto
+propuesto. Proporciona la justificación del proyecto, los beneficios esperados y el
+análisis costo – beneficio respectivo.
+
+Ciclo de vida del proyecto: Serie de fases que atraviesa un proyecto desde su inicio
+hasta su conclusión.
+
+Cronograma: Modelo para ejecutar las actividades del proyecto que incluye duraciones,
+dependencias y demás información de planificación. La planificación del cronograma
+puede utilizar enfoques predictivos o adaptativos. Los enfoques predictivos siguen un
+proceso gradual, mientras que los enfoques adaptativos lo hacen a través de
+iteraciones.
+
+Enfoque de desarrollo: Método usado para crear y desarrollar el producto, servicio o
+resultado durante el ciclo de vida del proyecto, tal como un método predictivo, adaptativo
+o híbrido.
+
+Enfoque adaptativo: También conocido como enfoque ágil o agile. Este enfoque es útil
+cuando los requisitos están sujetos a un alto nivel de incertidumbre, volatilidad y es
+probable que cambien a lo largo del proyecto. El producto evoluciona en función de la
+retroalimentación de los interesados. Los enfoques adaptivos utilizan enfoques iterativos
+e incrementales.
+
+Enfoque híbrido: Es la combinación de enfoques predictivos y adaptativos, es decir,
+que se usan algunos elementos de un enfoque predictivo y otros del enfoque adaptativo.
+Este enfoque es útil cuando los entregables pueden ser modularizados o cuando hay
+entregables que pueden ser desarrollados por diferentes equipos de proyecto.
+
+
+================================================================================
+PÁGINA 24
+DIRECTIVA N° 015-2024 OGI/RE
+Órgano Responsable: Oficina General de Apoyo a la Gestión Institucional
+Página 21 de 22
+================================================================================
+
+Equipo del proyecto: Conjunto de individuos que realizan el trabajo del proyecto con
+el fin de alcanzar sus objetivos.
+
+Enfoque predictivo: También conocido como enfoque en cascada. Este enfoque es útil
+cuando el alcance, cronograma, costo, necesidades de recursos y riesgos pueden
+quedar bien definidos en las fases tempranas del proyecto y son relativamente estables.
+
+Entregable: Cualquier producto, resultado o capacidad única y verificable para ejecutar
+un servicio que se debe producir para completar un proceso, una fase o un proyecto.
+
+Fase del proyecto: Conjunto de actividades del proyecto relacionadas lógicamente que
+culmina con la finalización de uno o más entregables.
+
+Gestión de proyectos: Aplicación de conocimiento, habilidades, herramientas y
+técnicas a actividades del proyecto para cumplir con los requisitos del mismo. La gestión
+de proyectos se refiere a orientar el trabajo del proyecto para entregar los resultados
+previstos. Los equipos del proyecto pueden lograr los resultados utilizando los enfoques
+predictivo, híbrido o ágil.
+
+Gestor del proyecto: También conocido como responsable o líder del proyecto.
+Persona nombrada por la unidad de organización encargada de liderar al equipo del
+proyecto que es responsable de alcanzar los objetivos del mismo. Los gestores del
+proyecto realizan una variedad de funciones, tales como facilitar el trabajo del equipo
+del proyecto para lograr los resultados y gestionar los procesos para entregar los
+resultados previstos.
+
+Iteración: Es un ciclo de tiempo (timebox) que se va repitiendo. Tras cada iteración, el
+producto o servicio gana valor.
+
+Interesados: Personas, grupos u organizaciones que pueden afectar, verse afectados
+o percibirse a sí mismos como afectados por una decisión, actividad o resultado de un
+portafolio, programa o proyecto. Los interesados también influyen directa o
+indirectamente en un proyecto, su desempeño o resultado, ya sea de manera positiva o
+negativa.
+
+Metodología ágil: Conjunto de convenciones (prácticas, pautas y/o normas) que un
+equipo se compromete a seguir, de forma que se ajusten a los valores y principios ágiles.
+Cada equipo tendrá su propia metodología, que será diferente en pequeños o grandes
+aspectos de la metodología de cualquier otro equipo. Así, un equipo tendrá que adaptar
+el uso de un marco para que encaje adecuadamente en su contexto.
+
+PBI: La mayoría de los PBI o Product Backlog Item son características, elementos de
+funcionalidad que tendrán un valor tangible para el usuario. A menudo se escriben como
+historias de usuario. Otros PBI incluyen defectos que necesitan reparación, mejoras
+técnicas, trabajo de adquisición de conocimientos y cualquier otro trabajo que el Product
+Owner considere valioso.
+
+Proyecto de gobierno digital: Esfuerzo temporal que se lleva a cabo para crear un
+producto, servicio o resultado único. La naturaleza temporal de los proyectos de
+gobierno digital indica un principio y un final para el trabajo del proyecto de gobierno
+digital o una fase del trabajo del proyecto de gobierno digital. Los proyectos de gobierno
+digital pueden ser independientes o formar parte de un programa o portafolio. Un
+proyecto de gobierno digital nace a partir de un problema, una oportunidad o una
+
+
+================================================================================
+PÁGINA 25
+DIRECTIVA N° 015-2024 OGI/RE
+Órgano Responsable: Oficina General de Apoyo a la Gestión Institucional
+Página 22 de 22
+================================================================================
+
+necesidad a cubrir, con lo cual se genera una idea. Si la idea es viable, debe ser
+transformada en un objetivo. Un objetivo se define como una meta hacia la cual dirigir
+el trabajo, un fin que se desea alcanzar, un resultado a obtener, un producto a generar
+o un servicio a prestar.
+
+Producto: Artefacto producido, cuantificable y que puede ser en sí mismo un elemento
+terminado o un componente de un elemento.
+
+Programa: Proyectos, programas secundarios y actividades de programas relacionados
+cuya gestión se realiza de manera coordinada para obtener beneficios que no se
+obtendrían si se gestionaran en forma individual.
+
+Portafolio: Proyectos, programas, portafolios secundarios y operaciones gestionadas
+como un grupo, con el ánimo de lograr los objetivos estratégicos.
+
+Radiador de información: También conocido como tablero de información, es una
+herramienta de comunicación visual utilizada en entornos ágiles y de desarrollo de
+software para mostrar información relevante a todos los miembros del equipo y partes
+interesadas. La información clave a ser visible está referida al progreso del proyecto,
+destacar algún problema o impedimento que necesite atención, hitos alcanzados,
+rendimiento del equipo, etc., utilizando gráficos, diagramas, indicadores de estado y
+elementos visuales para facilitar una rápida comprensión. Por ejemplo, tableros Kanban,
+tableros Scrum, gráficos de burndown, gráficos de velocidad, entre otros.
+
+Resultado: Un resultado o consecuencia final de un proceso o proyecto. Los resultados
+pueden incluir salidas y artefactos, pero también una intención más amplia al centrarse en
+los beneficios y el valor para los que se emprendió el proyecto.
+
+Riesgo: Evento o condición incierta que, si se produce, tiene un efecto positivo o
+negativo en uno o más de los objetivos del proyecto. Los riesgos identificados pueden
+o no materializarse en un proyecto. Los riesgos pueden ser positivos (oportunidades) o
+negativos (amenazas)
+
+Timebox: Intervalo de tiempo previamente acordado durante el cual una persona o un
+equipo trabaja de forma constante para completar algún objetivo.
+
+Valor: Cualidad, importancia o utilidad de algo. Capacidad de usar características o
+funciones específicas de un producto.
+
+
+================================================================================
+FIN DEL DOCUMENTO
+================================================================================
+
+Total de páginas extraídas: 23 páginas (Páginas 3-25 del documento original)
+Contenido: Directiva completa sobre Formulación y Gestión de Proyectos de Gobierno Digital
+Fecha del documento: 11 de septiembre de 2024
+Número de directiva: 015-2024 OGI/RE
+Ministerio de Relaciones Exteriores del Perú
+
+Contenido incluido:
+- Resolución de Secretaría General (Página 3)
+- Directiva completa (Páginas 4-22): Finalidad, Alcance, Base Legal, Disposiciones Generales y Específicas
+- Procedimientos para: Viabilidad, Formulación, Aprobación, Ejecución, Seguimiento, Desestimación y Cierre
+- Tablas de criterios y matrices de semaforización
+- Diagramas de flujo (descritos en texto)
+- Anexo con Definiciones completas (Páginas 23-25)
+
+================================================================================

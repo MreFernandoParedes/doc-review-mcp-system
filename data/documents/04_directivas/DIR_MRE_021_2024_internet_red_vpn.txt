@@ -1,0 +1,364 @@
+DISPOSICIONES PARA EL SERVICIO DE RED,
+INTERNET INSTITUCIONAL Y RED VIRTUAL PRIVADA
+
+1. FINALIDAD
+
+La presente directiva establece los lineamientos para la asignación y el uso de los servicios de red, internet institucional y red virtual privada (VPN); a fin de asegurar su funcionamiento y el cumplimiento de los objetivos institucionales; protegiendo los activos digitales y garantizando la confidencialidad, integridad y disponibilidad de la información almacenada o transmitida en la infraestructura digital del Ministerio de Relaciones Exteriores, en adelante el MRE.
+
+2. ALCANCE
+
+La presente directiva es de aplicación de la Oficina General de Apoyo a la Gestión Institucional, en adelante OGI; de la Oficina de Tecnologías de la Información, en adelante OTI; de la Oficina General de Recursos Humanos, en adelante ORH; así como de todas las unidades de organización del MRE que requieran el servicio de red, internet institucional y red virtual privada (VPN) para el personal que esté a su cargo, independientemente de su régimen laboral, modalidad y tipo de contratación, incluyendo a los secigristas y practicantes; a quienes en adelante se les denomina Usuario.
+
+3. BASE LEGAL
+
+Normas específicas
+a) Ley N° 27806, Ley de Transparencia y Acceso a la Información Pública.
+b) Decreto Legislativo N° 1412, Decreto Legislativo que aprueba la Ley de Gobierno Digital.
+c) Resolución Directoral N° 022-2022-INACAL/DN, que aprobó entre otras la NTP-ISO/IEC 27001:2022 Seguridad de la Información, Ciberseguridad y Protección de la Privacidad. Sistemas de Gestión de Seguridad de la Información. Requisitos 3ra. Edición.
+d) Decreto Supremo Nº 029-2021-PCM, Reglamento de la Ley de Gobierno Digital.
+e) Decreto Supremo N° 007-2024-JUS, Reglamento de la Ley de Transparencia y Acceso a la Información Pública.
+
+Normas institucionales
+a) Ley N° 29357, Ley de Organización y Funciones del Ministerio de Relaciones Exteriores.
+b) Decreto Supremo N° 135-2010-RE, Aprueban el Reglamento de Organización y Funciones del Ministerio de Relaciones Exteriores.
+c) Resolución Ministerial N° 0196-2019-RE, Creación del Comité de Gobierno Digital del Ministerio de Relaciones Exteriores.
+d) Resolución Ministerial N° 0197-2021-RE, Aprueban el Reglamento Interno de los Servidores Civiles (RISC) del Ministerio de Relaciones Exteriores.
+e) Resolución de Secretaría General N° 0979-2015-RE, que aprueba la Directiva Nº 006-2015-OPP/RE sobre Disposiciones para la Formulación de Directivas en el Ministerio de Relaciones Exteriores.
+
+Normas generales
+a) Ley N° 27815, Ley del Código de Ética de la Función Pública.
+b) Ley N° 28716, Ley de Control Interno de las entidades del Estado.
+c) Ley Anual de Presupuesto para el Sector Público vigente.
+d) Ley N° 29733, Ley de protección de datos personales.
+e) Decreto Supremo N° 003-2013-JUS, que aprueba el Reglamento de la Ley N° 29733, Ley de protección de datos personales.
+f) Resolución de Contraloría Nº 320-2006/CG – "Normas de Control Interno".
+
+Las normas mencionadas incluyen sus normas modificatorias, reglamentarias, complementarias y conexas.
+
+4. DISPOSICIONES GENERALES
+
+4.1 La OTI puede asignar servicios de red, internet institucional y red virtual privada (VPN), cuando el Usuario trabaja en el MRE, en el marco de las siguientes normativas:
+a) Ley Nº 28091, Ley del Servicio Diplomático de la República.
+b) Decreto Legislativo Nº 276, Ley de Bases de la Carrera Administrativa y de Remuneraciones del Sector Público.
+c) Decreto Legislativo Nº 1057, Decreto Legislativo que regula el régimen especial de contratación administrativa de servicios.
+d) Ley N° 29806, Ley que Regula la Contratación de Personal Altamente Calificado en el Sector Público y Dicta Disposiciones.
+e) Decreto Ley N° 25650, Lineamientos para la Administración del Fondo de Apoyo Gerencial al Sector Público – FAG.
+f) Resolución suprema o ministerial, designando como funcionario/servidor para brindar servicios al ministerio.
+
+4.2 La OTI también puede asignar servicios de red e internet institucional, cuando el Usuario:
+a) Brinda servicios al MRE mediante orden de servicios.
+b) Es contratado localmente en los Órganos del Servicio Exterior.
+c) Es secigrista.
+d) Es practicante o alumnos/as de la Academia Diplomática del Perú.
+
+4.3 Del esquema de la asignación y uso del Servicio de Red, Internet Institucional y VPN.
+
+[Esquema de flujo:]
+Unidad de Organización del Usuario, OGI/OTI y de ser el caso SGG y LEG → Solicita el Servicio de Red, Internet Institucional y Red Virtual Privada (VPN) → OTI: Crea cuenta de Red, Internet Institucional y Red Virtual Privada (VPN) → OTI y Usuario: Crea y cambia contraseña de Red, Internet Institucional y Red Virtual Privada (VPN) → Usuario, OGI/OTI y ORH: Uso del Servicio de Red, Internet Institucional y Red Virtual Privada (VPN) → ORH y OTI: Deshabilita cuenta de Red, Internet Institucional y Red Virtual Privada (VPN)
+
+4.4 Las unidades de organización deben utilizar las definiciones contenidas en el Anexo 1 – Términos y Definiciones.
+
+5 DISPOSICIONES ESPECÍFICAS
+
+5.1 De la solicitud del Servicio de Red, Internet Institucional y VPN
+
+De la solicitud del Servicio de Red e Internet Institucional
+5.1.1 La unidad de organización a la cual pertenece el usuario debe solicitar con tres (3) días hábiles de anticipación los siguientes servicios:
+a) Servicio de red y, opcionalmente, internet institucional.
+b) Adición de perfiles de acceso a internet.
+c) Acceso a categorías bloqueadas en internet, actualizado periódicamente por OTI y publicado en la sección OGI de la intranet institucional.
+d) Ampliación hasta dieciséis (16) minutos del tiempo de bloqueo de la pantalla inactiva, del equipo de cómputo del Usuario.
+
+5.1.2 El director o jefe de la unidad de organización a la cual pertenece el Usuario realiza la solicitud mediante memorándum dirigido a la OTI, adjuntando los siguientes documentos:
+a) Solicitud de Acceso a Servicios, elaborada por OTI y publicada en la sección OGI de la intranet institucional, detallando:
+• El Perfil de Acceso a Internet, según lo actualizado periódicamente por OTI y publicado en la sección OGI de la intranet institucional.
+• El perfil requerido del Usuario, sino se detalla, por defecto la OTI asigna al usuario el perfil denominado 'Estándar'.
+• En cuentas de red genéricas, el Usuario responsable de la cuenta y el período de caducidad de esta.
+b) Carta de Compromiso, suscrito por el Usuario; según el formulario actualizado por OTI y publicado en la sección OGI de la Intranet institucional.
+c) En el caso de personas contratadas con órdenes de servicio:
+• Copia del contrato.
+• Fecha de notificación de la orden de servicio.
+
+5.1.3 De manera excepcional, la OGI con copia a OTI puede autorizar de manera temporal el uso del servicio de red e internet institucional para usuarios invitados, previa solicitud recibida por memorándum o correo electrónico, por motivos de reuniones, eventos y trabajos para fines institucionales, para ello se puede asignar un Perfil de Acceso a Internet velando por la seguridad informática.
+
+5.1.4 La OTI, en el marco de sus competencias, puede establecer redes alámbricas o inalámbricas, según capacidad técnica, para garantizar los servicios informáticos de la institución, utilizados por equipamiento institucional. El director o jefe de la Unidad de Organización puede solicitar acceso a una red inalámbrica disponible para ser utilizado por equipamiento de uso personal, con autorización de la OGI, asignando un Perfil de Acceso a Internet velando por la seguridad informática.
+
+De la solicitud del Servicio de VPN
+5.1.5 La unidad de organización a la cual pertenece el usuario puede solicitar el servicio de VPN, con 3 días hábiles de anticipación, para:
+a) Acceso a sistemas web internos, como el Sistema de Gestión de las Comunicaciones (SGC).
+b) Acceso(s) particular(es) remoto a escritorio de cómputo en la Sede Central, para usar una aplicación localmente instalada, como por ejemplo el SIAF, SIGA, carpeta compartida, aplicación cliente servidor, entre otros.
+c) Los accesos VPN solicitados deben darse en un contexto de necesidad laboral, debidamente sustentado, considerando los posibles riesgos de seguridad digital que involucra al no aplicar los debidos cuidados de las credenciales que se ha sido asignado.
+
+5.1.6 Para ello, el director o jefe de la unidad de organización a la cual pertenece el usuario debe enviar un memorándum a la OGI, con copia a la OTI, adjuntando los siguientes documentos:
+a) Solicitud de Acceso a la VPN, según el formulario actualizado periódicamente por OTI y publicado en la sección OGI de la intranet institucional, detallando:
+i. Aplicación localmente instalada para utilizar vía VPN, por ejemplo: SIAF.
+ii. Procedimiento crítico del ministerio involucrado, por ejemplo: elaboración de planillas de pago del personal, acceso al SIAF.
+iii. Propietario de la computadora donde utiliza la VPN, precisando si la computadora es del Usuario o del ministerio.
+iv. Datos y teléfono del Usuario, para coordinar la evaluación técnica.
+b) Carta de Compromiso suscrito por el Usuario; documento actualizado por OTI en la sección OGI de la Intranet institucional.
+c) Precisar si el usuario, cumple con alguno de los literales del numeral "4.1".
+
+5.1.7 La OTI evalúa técnicamente la solicitud y comunica sus conclusiones a OGI, considerando:
+a) Disponibilidad de recursos informáticos para otorgar el acceso a la VPN.
+b) Características técnicas de la computadora desde donde el usuario accede a la VPN, como: tipo de procesador, memoria RAM, capacidad de disco duro libre, programas instalados, licencia original antivirus, sistema operativo original y actualizado, entre otros.
+c) El Oficial de Seguridad y Confianza Digital y/o el personal de seguridad digital evalúa los potenciales riesgos a la seguridad de la información.
+d) La OTI aplica los controles según las medidas establecidas por el Oficial de Seguridad y Confianza Digital, manteniendo una postura de seguridad digital ante cualquier evento sospechoso y/o malicioso que atente con los servicios digitales del MRE y toma las acciones necesarias ante un posible incidente de seguridad digital.
+e) La conexión VPN puede utilizarse como máximo para 1 dispositivo informático a la vez.
+
+5.1.8 La OGI evalúa la procedencia/improcedencia de la solicitud, de proceder el requerimiento comunica la autorización a la OTI por medio de memorándum o proveído, caso contrario comunica la improcedencia a la unidad de organización. La OGI se reserva el derecho de procedencia/improcedencia del acceso con el fin de preservar la seguridad de la información institucional y del Estado, así como la disponibilidad, capacidad operativa y presupuestal.
+
+5.1.9 La OTI en el marco de sus competencias puede establecer redes virtuales privadas complementarias según capacidad técnica para garantizar los servicios informáticos de la institución, sin comprometer al Sistema de Gestión de las Comunicaciones (SGC) y la seguridad informática del MRE.
+
+5.2 De la creación de la cuenta de Red, Internet institucional y VPN
+
+5.2.1 La OTI crea la cuenta de red según los siguientes tipos de Usuarios:
+a) Tipo A (Usuario laborando en el MRE, según el numeral 4.1 o el literal "b)" del numeral 4.2)
+i. Letra inicial del primer nombre, seguido del apellido paterno y la primera letra del apellido materno. Ejemplo: "jperezg".
+ii. Para casos de homonimia, adicionalmente al texto anterior se agrega la segunda letra del apellido materno, ejemplo: "jperezgo"
+iii. El título descriptivo de la cuenta de red está compuesto por los nombres, seguido del apellido paterno y apellido materno del usuario.
+
+b) Tipo B (Personas contratadas con órdenes de servicio)
+i. El tipo de usuario "B" utiliza la misma nomenclatura que la cuenta de red del usuario tipo "A", seguido de los caracteres "-os", así como, el número y año de la orden de servicio. Ejemplo: "malvarezr-os00012024", "malvarezro-os00012024".
+ii. El título descriptivo de la cuenta de red está compuesto por los nombres, seguido del apellido paterno y apellido materno del usuario.
+
+c) Tipo C (Secigrista) y tipo D (Practicante)
+i. Los tipos de usuario "C" (Secigrista) y "D" (Practicante), usan la misma nomenclatura que la cuenta de red del usuario tipo "A", seguido de los caracteres "-sec" y "-pract", respectivamente. Ejemplo tipo C: "dtorresg-sec", "dtorresga-sec"; tipo D: "palvarezb-pract", "palvarezbe-pract".
+ii. El título descriptivo de la cuenta de red está compuesto por los nombres, seguido del apellido paterno y apellido materno del usuario.
+
+d) Tipo E (Cuenta de red genérica)
+La cuenta genérica es definida por la unidad de organización solicitante. La OTI se reserva el derecho de creación de la cuenta genérica, bajo los criterios de disponibilidad de licenciamiento, duplicidad y reserva de nombre por fines de seguridad informática.
+
+e) Tipo F (Otros casos)
+De forma excepcional se puede definir otro tipo de cuenta, la cual debe ser debidamente justificada por el director o jefe de la Unidad de Organización. Ante esto, la OTI en coordinación con la OGI define el tratamiento, siguiendo como patrón lo señalado anteriormente y, de ser necesario con apoyo de LEG. La OGI pone estos casos a consideración de la SGG para autorización.
+
+5.3 De la creación de la contraseña de Red, Internet Institucional y VPN
+
+De la creación de la contraseña de Red e Internet Institucional
+5.3.1 La OTI genera y comunica al Usuario la contraseña inicial y el método más seguro posible de autenticación, con la cual ingresar al servicio de red e internet institucional y a diversos servicios informáticos provistos por la OTI.
+
+5.3.2 El Usuario ingresa a la red y cambia la contraseña, debiendo:
+a) Contener una longitud mínima de once (11) caracteres.
+b) Utilizar mínimo tres (3) de los siguientes tipos de caracteres:
+• Alfanuméricos.
+• Mayúsculas.
+• Minúsculas.
+• Caracteres especiales.
+c) No incluir sus nombres o apellidos.
+
+5.3.3 El Usuario puede modificar la contraseña en cualquier momento, aunque tiene un periodo de caducidad de tres (3) meses a partir del último cambio realizado.
+
+5.3.4 La OTI a través del soporte técnico avisa con quince (15) días de anticipación el vencimiento de dicha contraseña.
+
+5.3.5 El Usuario debe crear la nueva contraseña, debiendo ser diferente a las tres (3) últimas contraseñas utilizadas.
+
+5.3.6 El Usuario debe mantener su contraseña de red exclusivamente para su uso personal y no compartirlo; así como asumir la responsabilidad por los accesos de red e internet asignados.
+
+De la creación de la contraseña de VPN
+5.3.7 De ser necesario, la OTI genera la contraseña VPN al Usuario y el método más seguro posible de autenticación, permitiendo su ingreso al servicio de VPN y diversos servicios asociados; en base a las soluciones de seguridad de VPN disponibles, manteniendo siempre los principios de confidencialidad e integridad de la información institucional.
+
+5.3.8 El Usuario debe mantener su contraseña de VPN exclusivamente personal y no compartirla; asimismo asume la responsabilidad por los accesos a la VPN.
+
+5.4 Del uso del Servicio de Red, Internet Institucional y VPN
+
+5.4.1 El Usuario es responsable de:
+a) Utilizar el servicio de red, internet institucional y VPN, con fines estrictamente laborales y con un criterio racional, para acceder a la información que facilite el cumplimiento de sus funciones.
+b) La información obtenida y enviada a través del servicio de red, internet y VPN autorizado.
+
+5.4.2 El Usuario está prohibido de:
+a) Compartir su usuario y la contraseña de acceso a la red, internet institucional, VPN o cualquier sistema informático institucional con otro usuario.
+b) Descargar archivos de Internet de fuentes no confiables.
+c) Acceder a archivos adjuntos de correo electrónico de direcciones desconocidas.
+d) Utilizar medios extraíbles de fuentes ajenas al MRE, sin primero examinar los archivos con un software antivirus y antimalware aprobado por el MRE.
+e) Descargar material protegido por leyes de derechos de autor o poner dicho material a disposición de otros para ser copiado.
+f) Usar el servicio de red, internet y VPN para: difundir, visualizar o almacenar anuncios de interés personal, ajenos a fines laborales y/o en contra de la seguridad de la información del MRE y/o del Estado.
+
+5.4.3 La OTI es responsable de:
+a) Establecer el bloqueo de pantalla en el equipo de cómputo del Usuario asociado al dominio del MRE, luego de transcurridos 8 minutos de inactividad, lo que puede ser ampliado hasta 16 minutos, si la unidad de organización a la cual pertenece el Usuario lo solicita de manera justificada.
+b) Desactivar la conexión a la VPN del Usuario luego de transcurridos 30 minutos de inactividad.
+c) Establecer autenticación multifactor cuando sea posible.
+d) Aplicar filtros de navegación.
+e) Luego de realizado tres (3) intentos fallidos de ingreso de la contraseña, bloquear transitoriamente la cuenta del Usuario por treinta (30) minutos.
+f) Implementar otros mecanismos para asegurar la red institucional.
+
+5.4.4 La OTI Informa los incumplimientos a la presente directiva a la unidad de organización del Usuario con copia a la OGI, quien remite la documentación correspondiente a ORH o LOG, según corresponda, para la aplicación de las acciones correspondientes.
+
+5.5 De la baja de la cuenta de Red, Internet Institucional y VPN
+
+5.5.1 La ORH, proporciona mensualmente a la OTI los movimientos del personal del MRE por razón de cese o por efecto de las acciones de desplazamiento hacia los Oficinas Desconcentradas o a los Órganos del Servicio Exterior. De la misma manera, las Unidades de Organización y Órganos del Servicio Exterior tienen la obligación de comunicar oportunamente los ceses de su personal.
+
+5.5.2 La OTI da de baja la cuenta de Red, Internet Institucional y VPN, en los siguientes casos:
+a) En el caso del personal diplomático, se encuentre en situación de disponibilidad o retiro.
+b) En el caso del personal contratado bajo el régimen de la carrera pública, al término de la carrera administrativa por las causales establecidas en el Decreto Legislativo Nº 276.
+c) En el caso del personal sujeto al régimen del Contrato Administrativo de Servicios, Fondo de Apoyo Gerencial y Personal Altamente Calificado, al término del plazo del contrato.
+d) Para funcionarios y servidores designados por resolución suprema o ministerial al término de su designación.
+e) En el caso de personas contratadas con órdenes de servicio, al término del contrato.
+f) En el caso de los practicantes, al término del plazo del convenio. Para Alumnos de la Academia Diplomática previa comunicación con memorándum del director o jefe de la unidad de organización quien solicitó el acceso, de la ORH o la OGI.
+g) En el caso de los secigristas, al término del programa, el cual es establecido mediante Resolución Ministerial del Ministerio de Justicia y Derechos Humanos.
+h) En el caso de una cuenta de red e internet genérica, en la fecha de caducidad estipulada en la solicitud.
+i) En el caso de personal destacado en el Ministerio, mediante comunicación por memorándum de la Unidad de Organización solicitante del alta del servicio a la OGI.
+j) En cualquier otro caso no contemplado, al cumplir un año desde su creación. Además, al no detectar conectividad en un periodo de 60 días calendarios.
+
+En todos los casos, luego de treinta (30) días de cumplida la vigencia de la cuenta de Red, Internet Institucional y VPN, la OTI elimina la cuenta, siendo un proceso irreversible.
+
+5.5.3 De manera excepcional y con la evidencia técnica de la vulneración de la seguridad de la información proporcionada por el Oficial de Seguridad y Confianza Digital o quien haga de sus veces, OTI deshabilita la cuenta de red, internet o VPN.
+
+5.5.4 Para la extensión temporal y excepcional de la vigencia de una cuenta de Red, Internet Institucional y/o VPN, la unidad de organización del usuario remite una solicitud a la SGG, quien evalúa y, de proceder el requerimiento, comunica formalmente a la OGI con copia a OTI y al solicitante, la autorización de extensión y nuevo plazo de vigencia.
+
+5.6 Del soporte técnico
+
+Los Usuarios solicitan el soporte técnico a la OTI, mediante el:
+a) Correo Electrónico: soportetecnico@rree.gob.pe
+b) Teléfono: (01) 204-2566
+c) Anexo: 2566
+
+La asignación del personal técnico para la asistencia está condicionado a la disponibilidad de técnicos.
+
+6 DISPOSICIÓN COMPLEMENTARIA
+
+6.1. De la Seguridad de la Información
+La OTI implementa las políticas de seguridad de la información y propone mejoras técnicas, alineadas a los objetivos y controles de seguridad de la información indicados en el Anexo 2 y establecidos en la NTP-ISO/IEC 27001:2022 Seguridad de la Información, Ciberseguridad y Protección de la Privacidad. Sistemas de Gestión de Seguridad de la Información. Requisitos.
+
+6.2. Del Informe de acciones a la SGG
+La OGI remite a la Secretaría General informes trimestrales de las actividades de autorización realizadas e incumplimientos detectados.
+
+6.3. De Otras situaciones no previstas
+Excepcionalmente la SGG puede autorizar la atención de solicitudes para otras situaciones no contempladas en la presente Directiva, previa evaluación técnica favorable de la OGI y de las unidades de organización competentes; así como, del debido sustento de la unidad de organización solicitante.
+
+7 RESPONSABILIDADES
+
+Son responsables del cumplimiento de los lineamientos establecidos en la presente Directiva, todas las unidades de organización del MRE y todo el personal independientemente de su régimen laboral, modalidad y tipo de contratación, incluyendo a los secigristas y practicantes.
+
+ANEXOS
+Anexo 1: Términos y Definiciones.
+Anexo 2: Objetivos de Control y Controles de Seguridad de la Información.
+
+
+ANEXO 1
+
+TÉRMINOS Y DEFINICIONES
+
+1. Autenticación
+Actividad para asegurar la identificación del Usuario.
+
+2. Autenticación multifactor (MFA)
+La autenticación multifactor (MFA) agrega una capa de protección al proceso de inicio de sesión. Cuando se accede a una cuenta o aplicación, los usuarios deben pasar por una verificación de identidad adicional; por ejemplo, tienen que escanear su huella digital o especificar un código que reciben en su teléfono.
+
+3. Cuenta de red
+También denominado cuenta de usuario, representa a la información de las credenciales y/o factor de autenticación que sirve como mecanismo de identificación y autenticación digital del Usuario, para acceder a los servicios y/o sistemas de información de la institución.
+
+4. Confidencialidad de la información:
+Característica de la información inaccesible a personas, entidades o procesos no autorizados.
+
+5. Disponibilidad de la información:
+Característica de la información de ser accesible y utilizable ha pedido por una entidad autorizada.
+
+6. Dyn DNS
+Sistema dinámico de nombres de dominio, usado para reenviar servicios de internet a redes domésticas.
+
+7. Factores de Autenticación
+a) Dato conocido por el Usuario, ejemplo: contraseñas, pines, etcétera.
+b) Objeto poseído por el Usuario, ejemplo: tokens, tarjetas, llaves, u otros.
+c) Dato biométrico del Usuario, ejemplo: como huella digital, iris ocular, voz u otros.
+
+8. Download de software
+Descarga de software desde algún servidor o equipo conectado a Internet.
+
+9. Hacking
+Búsqueda constante de conocimientos en sistemas informáticos, su funcionamiento, sus mecanismos de seguridad y vulnerabilidades; así como la manera de aprovechar dichos conocimientos para protegerse de dichas actividades y sus usos inadecuados.
+
+10. Integridad de la Información
+Característica de la información de ser exacta y completa.
+
+11. Internet Institucional
+Medios físicos e informáticos de conectividad para el acceso a internet provisto por la institución.
+
+12. Nube
+Sistemas, equipos y servicios informáticos en línea.
+
+13. Peer to peer o P2P
+Red de computadoras con funciones de servidores y/o clientes, sin la necesidad de servidores centrales; utilizada para intercambiar información directa entre usuarios y asociadas con contenidos de virus y malware.
+
+14. Phishing
+Conjunto de técnicas para engañar y manipular a usuarios, así como direccionarlo a realizar acciones indebidas.
+
+15. Red Virtual Privada (VPN)
+Corresponde a la red privada virtual (Virtual Private Network), por sus siglas en inglés, es una tecnología de redes de computadoras, utilizadas para conectar una o más computadoras a una red privada, utilizando redes no seguras como la Internet.
+
+16. Servicio de Red
+Conjunto de hardware y software, para ofrecer soluciones en tecnologías de la información y comunicaciones de la institución a los Usuarios.
+
+17. Seguridad de la información
+Es la preservación de la confidencialidad, integridad y disponibilidad de la información.
+
+18. Spam URL
+Categoría de Internet utilizada por algunos fabricantes de equipos de seguridad, para listar URL o web maliciosa.
+
+19. Web Maliciosas
+Servicio web brindado por Internet, contiendo virus o malware.
+
+
+ANEXO 2
+
+OBJETIVOS DE CONTROL Y CONTROLES DE SEGURIDAD DE LA INFORMACIÓN
+
+Los objetivos de control y controles establecidos en el Anexo A de la NTP-ISO/IEC 27001:2022 Seguridad de la Información, Ciberseguridad y Protección de la Privacidad. Sistemas de Gestión de Seguridad de la Información. Requisitos; están relacionadas a las disposiciones de la presente directiva, como se muestran a continuación:
+
+Dominio A8: Controles Tecnológicos
+1. Control A.6.7: Trabajo a distancia
+Se deberían implementar medidas de seguridad cuando el personal trabaja de forma remota para proteger la información accedido, procesado o almacenado fuera de las instalaciones de la organización.
+Numerales de Directiva: 5.1.1, 5.1.5, 5.1.6, 5.1.9
+
+Dominio A8: Controles Tecnológicos
+2. Control A.5.10: Uso aceptable de la información y otros activos asociados
+Reglas para el uso aceptable y procedimientos para el manejo de la información y otros activos asociados debería ser identificada, documentada e implementada
+Numeral de Directiva: 5
+
+Dominio A5: Controles Organizacionales
+3. Control A.5.16: Gestión de la identidad
+El ciclo de vida completo de identidades debería gestionarse.
+Numerales de Directiva: 5.2.1, 5.5.2, 5.5.3
+
+4. Control A.5.18: Derechos de Acceso
+Los derechos de acceso a información y otros activos asociados deberían ser aprovisionados, revisados, modificados y removidos en concordancia con la política de tópico específico y las reglas para control de acceso de la organización.
+Numerales de Directiva: 5.2.1, 5.5.2, 5.5.3
+
+5. Control A.5.17: Información de autenticación
+La asignación y gestión de la información de autentificación debería ser controlada por un proceso de gestión, incluyendo el asesoramiento al personal sobre el manejo adecuado de la información de autenticación.
+Numerales de Directiva: 5.3.1, 5.3.2, 5.3.3, 5.3.4, 5.3.5, 5.3.7, 5.3.8
+
+6. Control A.5.18: Derechos de Acceso
+Los derechos de acceso a información y otros activos asociados deberían ser aprovisionados, revisados, modificados y removidos en concordancia con la política de tópico específico y las reglas para control de acceso de la organización.
+Numerales de Directiva: 5.1.1, 5.1.2, 5.1.3, 5.1.4, 5.1.5, 5.1.6, 5.5.2
+
+Dominio A5: Controles Organizacionales
+7. Control A. 5.17: Información de autenticación.
+La asignación y gestión de la información de autentificación debería ser controlada por un proceso de gestión, incluyendo el asesoramiento al personal sobre el manejo adecuado de la información de autenticación.
+Numerales de Directiva: 5.3.3, 5.3.5, 5.3.6, 5.3.8
+
+8. Control A. 5.17: Información de autenticación.
+La asignación y gestión de la información de autentificación debería ser controlada por un proceso de gestión, incluyendo el asesoramiento al personal sobre el manejo adecuado de la información de autenticación.
+Numerales de Directiva: 5.3.1, 5.3.2, 5.3.3, 5.3.4, 5.3.5, 5.3.7
+
+Dominio A7: Controles Físicos
+9. Control A.7.9: Seguridad de los activos fuera de las instalaciones
+Los activos fuera del sitio deberían protegerse.
+Numerales de Directiva: 5.1.1, 5.1.2, 5.1.5, 5.1.6
+
+10. Control A.7.7: Escritorio y pantalla despejados
+Deberían definirse y aplicarse adecuadamente reglas de escritorio limpio de papeles y medios de almacenamiento extraíbles y reglas de pantalla limpia en las instalaciones de procesamiento de información.
+Numeral de Directiva: 4.2.3
+
+Dominio A8: Controles Tecnológicos
+11. Control A.8.1: Dispositivos de punto final de usuario
+La información almacenada, procesada o accesible a través de dispositivos terminales de usuario debería protegerse.
+Numeral de Directiva: 5.4.3
+
+12. Control A.8.21: Seguridad de servicios de red.
+Los mecanismos de seguridad, los niveles de servicio y los requisitos de servicio de red deberían identificarse, implementarse y monitorearse.
+Numerales de Directiva: 5.1.3, 5.1.4
+
+13. Control A.8.22: Segregación de redes.
+Los grupos de servicio de información, usuarios y sistemas de información deberían estar segregados en las redes de la organización
+Control A.8.23: Filtro Web
+El acceso a sitios web externos debería administrarse para reducir la exposición a contenido malicioso
+Numerales de Directiva: 5.1.3, 5.1.4, 5.1.9

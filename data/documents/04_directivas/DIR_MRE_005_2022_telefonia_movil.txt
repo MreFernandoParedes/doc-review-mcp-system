@@ -1,0 +1,720 @@
+═══════════════════════════════════════════════════════════════════════════════
+DIRECTIVA OGI N° 005-2022 OGI/RE
+DISPOSICIONES DEL SERVICIO DE TELEFONÍA MÓVIL CELULAR
+Ministerio de Relaciones Exteriores del Perú
+═══════════════════════════════════════════════════════════════════════════════
+
+
+
+
+================================================================================
+PÁGINA 3 - SECCIÓN 1: FINALIDAD
+================================================================================
+
+La presente directiva tiene por finalidad establecer los lineamientos para la 
+asignación del servicio de telefonía móvil celular, en adelante servicio; así 
+como la entrega del equipo de telefonía celular, en adelante equipo, al 
+personal del Ministerio de Relaciones Exteriores, en adelante MRE; a fin de 
+asegurar su funcionamiento y permitir el cumplimiento de sus funciones.
+
+
+================================================================================
+PÁGINA 3 - SECCIÓN 2: ALCANCE
+================================================================================
+
+La presente directiva es de cumplimiento de la Oficina General de Apoyo a la 
+Gestión Institucional en adelante OGI, de la Oficina General de Administración 
+en adelante OGA, de la Oficina de Tecnologías de la Información, en adelante 
+OTI, de la Oficina de Control Patrimonial, en adelante PAT; y del personal con 
+necesidad de asignación de servicio y/o equipo para el cumplimiento de sus 
+funciones en el MRE, en adelante Usuario.
+
+
+================================================================================
+PÁGINA 3-4 - SECCIÓN 3: BASE LEGAL
+================================================================================
+
+NORMAS ESPECÍFICAS:
+
+a) Decreto Legislativo N° 1412, Decreto Legislativo que aprueba la Ley de 
+   Gobierno Digital.
+
+b) Decreto Supremo N° 029-2021-PCM, Reglamento de la Ley de Gobierno Digital.
+
+c) Resolución Ministerial N° 004-2016-PCM, aprueba el uso obligatorio de la 
+   Norma Técnica Peruana "NTP ISO/IEC 27001:2014 Tecnología de la Información. 
+   Técnicas de Seguridad. Sistema de Gestión de Seguridad de la Información. 
+   Requisitos. 2a. Edición", en todas las entidades integrantes del Sistema 
+   Nacional de Informática.
+
+
+NORMAS INSTITUCIONALES:
+
+a) Texto Único Ordenado de la Ley N° 28091, Ley del Servicio Diplomático de 
+   la República, Decreto Supremo N° 047-2021-RE.
+
+b) Ley N° 29357, Ley de Organización y Funciones del Ministerio de Relaciones 
+   Exteriores.
+
+c) Decreto Supremo N° 130-2003-RE, Reglamento de la Ley del Servicio 
+   Diplomático de la República.
+
+d) Decreto Supremo N° 135-2010-RE, Reglamento de Organización y Funciones del 
+   Ministerio de Relaciones Exteriores.
+
+e) Resolución Ministerial N° 0197-2021-RE, Aprueban el Reglamento Interno de 
+   los Servidores Civiles (RISC) del Ministerio de Relaciones Exteriores.
+
+f) Resolución de Secretaría General N° 0979-2015-RE, que aprueba la Directiva 
+   N° 006-2015-OPP-RE sobre Disposiciones para la Formulación de Directivas en 
+   el Ministerio de Relaciones Exteriores.
+
+
+NORMAS GENERALES:
+
+a) Ley Anual de Presupuesto para el Sector Público, vigente.
+
+b) Ley N° 27815, Ley del Código de Ética de la Función pública.
+
+c) Ley N° 29806, Ley que regula la contratación del personal altamente 
+   calificado en el Sector Público y dicta otras disposiciones.
+
+d) Decreto Ley N° 25650, Crean el Fondo de Apoyo Gerencial al Sector Público.
+
+e) Decreto Legislativo N° 276, Ley de Bases de la Carrera Administrativa y de 
+   Remuneraciones del Sector Público.
+
+f) Decreto Legislativo N° 1057, Decreto Legislativo que regula el régimen 
+   especial de contratación administrativa de servicios.
+
+g) Decreto Supremo N° 005-90-PCM, que aprueba el Reglamento de la Carrera 
+   Administrativa.
+
+h) Decreto Supremo N° 013-93-TCC, aprueba el Texto Único Ordenado de la Ley de 
+   Telecomunicaciones.
+
+i) Decreto Supremo N° 033-2005-PCM, que aprueba el Reglamento de la Ley del 
+   Código de Ética de la Función Pública.
+
+j) Decreto Supremo N° 075-2008-PCM, que aprueba el Reglamento del Decreto 
+   Legislativo N° 1057, que regula el régimen especial de contratación 
+   administrativa de servicios.
+
+k) Resolución de Contraloría N° 320-2006-CG, Normas de Control Interno.
+
+l) Decreto Supremo N° 020-2007-MTC, aprueba el Texto Único Ordenado del 
+   Reglamento General de la Ley de Telecomunicaciones.
+
+Las normas mencionadas incluyen sus normas modificatorias, reglamentarias, 
+complementarias y conexas.
+
+
+================================================================================
+PÁGINA 4 - SECCIÓN 4: DISPOSICIONES GENERALES
+================================================================================
+
+4.1 La OTI puede asignar, reasignar y/o entregar equipos y/o servicios, cuando 
+    el Usuario trabaja en el MRE, bajo una de las siguientes normativas:
+    
+    a) Ley N° 28091, Ley del Servicio Diplomático de la República
+    
+    b) Decreto Legislativo N° 276, Ley de Bases de la Carrera Administrativa y 
+       de Remuneraciones del Sector Público.
+    
+    c) Decreto Legislativo N° 1057, Decreto Legislativo que regula el régimen 
+       especial de contratación administrativa de servicios.
+    
+    d) Ley N° 29806 Ley que regula la Contratación de Personal Altamente 
+       Calificado en el Sector Público y Dicta Disposiciones.
+    
+    e) Decreto Ley N° 25650 Lineamientos para la Administración del Fondo de 
+       Apoyo Gerencial al Sector Público, FAG.
+    
+    f) Resolución suprema o ministerial, designando al funcionario/servidor para 
+       brindar servicios al ministerio.
+
+
+================================================================================
+PÁGINA 5 - SECCIÓN 4.2: ESQUEMA DEL SERVICIO DE TELEFONÍA MÓVIL CELULAR
+================================================================================
+
+FLUJO DEL PROCESO:
+
+    OTI y OGI/SGG-Usuario → Usuario → Usuario y OTI
+
+    5.1 Asigna, configura     5.2 Usa equipo y      5.3 Devuelve equipo
+    y entrega el equipo       servicio              
+    y servicio                                      
+
+    6.1 De las               6.2 Desperfecto         6.3 Robo, hurto o
+    Prohibiciones del        averías del equipo      pérdida del equipo
+    Servicio                                         
+
+    Usuario y OTI            Usuario y OTI           Usuario y OTI
+
+
+================================================================================
+PÁGINAS 5-7 - SECCIÓN 5: DISPOSICIONES ESPECÍFICAS
+================================================================================
+
+5.1. DE LA ASIGNACIÓN A LA ENTREGA DEL EQUIPO Y SERVICIO
+
+5.1.1 De la asignación del equipo y servicio
+
+La OTI es la encargada de realizar las siguientes actividades:
+
+a) Gestiona el equipo de telefonía a través del proveedor de telefonía móvil 
+   celular, en adelante el Operador.
+
+b) Asigna el equipo y servicio al personal detallado en el Anexo 1 – "Relación 
+   de asignación de equipos y servicios de telefonía móvil celular en el MRE".
+
+c) Asignar los servicios de larga distancia internacional y roaming 
+   internacional, para uso exclusivo del Ministra/o de Relaciones Exteriores, 
+   Viceministro/a y del Secretario/a General.
+
+
+5.1.2 De la reasignación del equipo y/o servicio
+
+La reasignación del equipo y/o servicio, procede cuando:
+
+a) Mediante memorándum debidamente sustentado, la Dirección General u Oficina 
+   General solicita a la OGI para un Usuario integrante de su unidad de 
+   organización:
+   
+   i. La reasignación temporal del servicio y/o equipo no utilizado y 
+      programado a su unidad de organización en el Anexo 1 - "Relación de 
+      asignación de equipos y servicios de telefonía móvil celular en el MRE"
+   
+   ii. Autorización excepcional para el uso del servicio de larga distancia 
+       internacional y roaming internacional, para el desempeño de las 
+       funciones asignadas.
+   
+   De ser procedente la solicitud, la OGI comunica de manera escrita a la OTI 
+   la autorización de reasignación.
+
+b) Para casos excepcionales no previstos en el literal anterior, a solicitud 
+   del Usuario, la SGG puede autorizar de manera escrita a la OGI y/o OTI la 
+   reasignación del servicio y equipo no utilizado, para ello la SGG debe 
+   considerar los siguientes aspectos con respecto al Usuario:
+   
+   i. Estar excluido del Anexo 1 – "Relación de asignación de equipos y 
+      servicios de telefonía móvil celular en el MRE".
+   
+   ii. Tener vínculo laboral con el MRE.
+   
+   iii. Existir servicio y/o equipo sin uso.
+   
+   De ser procedente la solicitud, la SGG instruye de manera escrita a la OGI 
+   y/o OTI la autorización de reasignación.
+
+c) Excepcionalmente, el/la Ministra/o de Relaciones Exteriores, por la 
+   naturaleza de sus funciones y según las disposiciones de la Ley de 
+   presupuesto del sector público del año fiscal vigente, puede tener más de un 
+   servicio y equipo adicional, para casos de contingencias.
+
+
+5.1.3 De la configuración del servicio
+
+La OTI configura el servicio en función al cargo del Usuario, las condiciones 
+del contrato del servicio y tecnologías disponibles, así como a las 
+disposiciones presupuestarias vigentes, con las siguientes características:
+
+a) Servicio de voz, con una cantidad de minutos asignados, con cobertura a 
+   nivel nacional.
+
+b) Servicio de larga distancia internacional
+
+c) Roaming internacional
+
+d) Plan de datos para el servicio de acceso a internet
+
+e) Mensajes de texto (SMS)
+
+La configuración del equipo es responsabilidad de la OTI, de acuerdo con el 
+cargo del Usuario a quien se le asigne el equipo.
+
+
+5.1.4 De la entrega de equipos
+
+a) El Usuario firma en forma física o a través de servicios digitales el 
+   formato del Anexo 2 - "Acta de Asignación de Equipo y/o servicios de 
+   Telefonía Móvil o Celular", aceptando las condiciones del equipo y/o 
+   servicio.
+
+b) La OTI entrega al Usuario del servicio un equipo y los accesorios 
+   correspondientes; proporcionados por el Operador en calidad de alquiler o de 
+   propiedad del MRE; asimismo debe orientar al Usuario en el correcto uso del 
+   equipo y servicio.
+
+
+5.2. DEL USO DEL EQUIPO Y SERVICIO
+
+5.2.1. El Usuario debe:
+
+a) Utilizar adecuadamente el equipo y el servicio (incluido el roaming 
+   internacional y larga distancia internacional), como herramientas para 
+   facilitar las coordinaciones y el desempeño de sus funciones laborales para 
+   el MRE.
+
+b) De requerirlo, realizar llamadas internacionales marcando el prefijo de 
+   larga distancia internacional correspondiente al Operador.
+
+c) Cuidar el equipo, mantenerlo encendido y operativo en el marco de sus 
+   funciones.
+
+d) Utilizar en forma exclusiva e intransferible el equipo y el servicio.
+
+e) Abstenerse de instalar aplicaciones o cuentas de correo no autorizadas por 
+   la OTI.
+
+f) Ser responsable del equipo asignado, así como de la información contenida en 
+   el mismo.
+
+
+5.2.2. De manera excepcional, el Usuario puede solicitar autorización a la OGI, 
+para el uso de su equipo y/o servicio de uso personal, en reemplazo al 
+suministrado por el MRE, esto se formaliza con la firma del Anexo 3 - 
+Declaración Jurada de Uso de Equipo y/o Servicio de Telefonía Móvil Celular por 
+parte del Usuario, quien debe tener en cuenta lo siguiente:
+
+a) Servicio y equipo personal: La OTI registra el número de tarjeta del equipo 
+   en el Directorio de Telefonía Móvil del MRE. El Usuario es responsable de 
+   garantizar el servicio en su equipo con su propio peculio, para realizar las 
+   funciones propias de su cargo, incluso en las comisiones de servicios 
+   nacionales e internacionales, no otorgándose reembolso alguno.
+
+b) Equipo personal con el servicio brindado por el MRE: La OTI proporciona el 
+   servicio de voz nacional, con larga distancia internacional y roaming; así 
+   como datos y mensajes de texto. La OTI no instala las aplicaciones 
+   autorizadas en este equipo y tampoco asume la responsabilidad de la 
+   información en el mismo.
+
+5.2.3. Consumido el plan del servicio asignado, el Usuario puede seguir 
+utilizando el equipo bajo la modalidad de prepago, previo uso de tarjetas 
+prepago con cargo a su peculio.
+
+
+5.3. DE LA DEVOLUCIÓN DEL EQUIPO
+
+5.3.1. El Usuario, antes del último día de la prestación de sus servicios en el 
+MRE, debe:
+
+a) Realizar el respaldo respectivo de su información, siendo el Usuario el 
+   único responsable de dicha data.
+
+b) Devolver el equipo y los accesorios recibidos, remitiendo a la OTI el Anexo 
+   4 - "Acta de devolución de equipo y/o servicio de telefonía móvil celular", 
+   en formato físico o a través de servicios digitales, debiendo consignar la 
+   recepción del equipo por parte de la OTI.
+
+5.3.2. La OTI elimina la información contenida en el equipo devuelto, no siendo 
+responsable por su pérdida.
+
+5.3.3. La OTI gestiona con el Operador el nuevo número de equipo, para su 
+asignación a otro Usuario, actualizando el directorio telefónico del MRE.
+
+5.3.4. Cuando el Usuario no devuelve el equipo y/o los accesorios asignados, 
+asume su reposición a precios unitarios, según lo establecido por el 
+propietario: Operador o el MRE (PAT.)
+
+5.3.5. La OTI informa a la ORH y a la OGA el importe total resultante por el 
+equipo y/o accesorios no devueltos, debiendo dichas oficinas, aplicar las 
+medidas respectivas para el cobro.
+
+
+================================================================================
+PÁGINAS 7-8 - SECCIÓN 6: DISPOSICIONES COMPLEMENTARIAS
+================================================================================
+
+6.1. DE LAS PROHIBICIONES DEL SERVICIO
+
+El Usuario está prohibido de:
+
+a) Usar otros códigos no autorizados por la OTI para llamadas a larga distancia 
+   internacional.
+
+b) Emplear mensajes de texto para servicios de valor agregado como horóscopos, 
+   promociones, concursos u otros sin relación con sus funciones.
+
+c) Cargar el servicio el equipo a compras por Internet u otros similares.
+
+d) Utilizar el servicio para fines distintos a los laborales, así como 
+   transferir el equipo o servicio.
+
+En caso de incumplimiento de lo señalado, será el usuario final quien asumirá 
+la responsabilidad de estos.
+
+
+6.2. DEL DESPERFECTO O AVERÍAS DEL EQUIPO
+
+La OTI gestiona este tipo de incidencias considerando:
+
+a) El desperfecto o avería del equipo alquilado está cubierta por la garantía 
+   contra defectos de fabricación; esto no incluye desperfectos o averías 
+   generadas por golpes, ingreso de líquidos, mal uso; así como cualquier 
+   afectación imputable al Usuario o manipulación del equipo por terceros (en 
+   adelante avería negligente).
+
+b) Cuando el Usuario realiza una avería negligente a un equipo alquilado, la 
+   OTI recibe del servicio técnico del Operador un informe técnico, detallando 
+   el diagnóstico de la avería, el costo de la reparación o de la reposición 
+   del equipo. OTI comunica el informe al Usuario, quien realiza el depósito 
+   del costo señalado en la cuenta bancaria del Operador, para realizar la 
+   reparación o reposición del equipo.
+
+c) Cuando el Usuario realiza una avería negligente a un equipo propiedad del 
+   MRE, el Usuario debe realizar la reposición de un nuevo equipo similar o 
+   superior en sus características, así como solicitar a PAT la baja del equipo 
+   averiado, y la incorporación física y contable del nuevo equipo en el 
+   registro patrimonial del MRE.
+
+
+6.3. DEL ROBO, HURTO, PÉRDIDA O DAÑO MATERIAL DEL EQUIPO
+
+a) Inmediatamente ocurrido el incidente, el Usuario debe comunicar el hecho a 
+   la OTI para el bloqueo del equipo y/o el servicio.
+
+b) Cuando el equipo es robado, hurtado, perdido o dañado por actos vandálicos, 
+   en el plazo de cinco (5) días hábiles contados de conocido el hecho, el 
+   Usuario debe realizar la denuncia policial, detallando marca y modelo del 
+   equipo.
+
+c) Si el equipo del incidente es alquilado, el Usuario debe comunicar el hecho 
+   a la OTI y de ser un robo o hurto, presenta copia simple de la denuncia 
+   policial a la OTI. Luego, la OTI notifica al Usuario el costo de reposición 
+   o penalidad del equipo y/o los accesorios necesarios para realizar el pago 
+   determinados por el Operador. El Usuario debe realizar el pago y remitir el 
+   comprobante a la OTI, a fin de gestionar la reposición del nuevo equipo.
+
+d) Si el equipo del incidente es propiedad del MRE, la unidad de organización 
+   del Usuario debe enviar un memorándum a PAT, comunicando la ocurrencia, si 
+   es por:
+   
+   i. robo o hurto: debe solicitar la activación del seguro por dicho incidente 
+      y adjuntar una copia simple de la denuncia policial.
+   
+   ii. pérdida: para efectos de dar de baja el equipo perdido o extraviado, 
+       debe adjuntar una copia simple de la denuncia policial; luego el Usuario 
+       debe realizar la reposición de un nuevo equipo (de primer uso), similar 
+       o superior en sus características, así como solicitar a PAT su 
+       incorporación física y contable en el registro patrimonial del MRE, 
+       adjuntando una copia simple del comprobante o guía de remisión, donde 
+       figure: marca, modelo, número de serie y el valor del nuevo equipo.
+   
+   iii. daño material: en el caso de daño total o parcial al equipo a causa de 
+        un fenómeno de la naturaleza o por actos vandálicos, debe solicitar la 
+        activación del seguro por dicho incidente; para el caso de actos 
+        vandálicos, debe adjuntar a la solicitud una copia simple de la 
+        denuncia policial.
+
+
+6.4. DE LA SEGURIDAD DE LA INFORMACIÓN
+
+La OTI implementa las políticas de seguridad de la información y propone 
+mejoras técnicas, alineadas a los objetivos y controles de seguridad de la 
+información indicados en el Anexo 5 - "Objetivos de Control y Controles de 
+seguridad de la información" y en la NTP ISO/IEC 27001:2014, "Tecnología de la 
+Información, Técnicas de seguridad. Sistema de Gestión de seguridad de la 
+información. Requisitos".
+
+
+6.5. DEL INFORME DE ACCIONES A SECRETARÍA GENERAL
+
+Trimestralmente la OGI, remite a la Secretaría General un informe de las 
+actividades de autorización realizadas.
+
+
+================================================================================
+PÁGINA 9 - SECCIÓN 7: RESPONSABILIDADES
+================================================================================
+
+Son responsables del cumplimiento de las normas contenidas en la presente 
+directiva, OGI, ORH, OGA, PAT y OTI, así como los Usuarios del servicio y 
+equipo.
+
+
+================================================================================
+PÁGINA 9 - ANEXOS
+================================================================================
+
+ANEXO 1 - Relación de asignación de equipos y servicios de telefonía móvil 
+          celular en el MRE.
+
+ANEXO 2 - Acta de Asignación de Equipo y/o servicio de Telefonía Móvil Celular.
+
+ANEXO 3 - Declaración Jurada de Uso de Equipo y/o Servicios Personales de 
+          Telefonía Móvil Celular.
+
+ANEXO 4 - Acta de Devolución de Equipo y/o Servicio de Telefonía Móvil Celular.
+
+ANEXO 5 - Objetivos de Control y Controles de Seguridad de la Información.
+
+
+===============================================================================
+PÁGINAS 10-16 - ANEXO 1
+RELACIÓN DE ASIGNACIÓN DE EQUIPOS Y SERVICIOS DE TELEFONÍA MÓVIL CELULAR EN EL MRE
+===============================================================================
+
+[TABLA CON 242 ASIGNACIONES DE PERSONAL]
+
+La tabla contiene la relación completa del personal autorizado para recibir 
+equipos y servicios de telefonía móvil celular en el MRE, organizadapor 
+unidades de organización:
+
+- Despacho Ministerial (ítems 1-33)
+- Secretaría General (ítems 34-45)
+- Dirección General de Estudios y Estrategias de Política Exterior (ítems 46-49)
+- Dirección General de América (ítems 50-75)
+- Dirección General de Soberanía, Límites y Asuntos Antárticos (ítems 76-82)
+- Dirección General de Europa (ítems 83-89)
+- Dirección General de Asia y Oceanía (ítems 90-95)
+- Dirección General de África Medio Oriente y Países del Golfo (ítems 96-101)
+- Dirección General para Asuntos Multilaterales y Globales (ítems 102-123)
+- Dirección General para Asuntos Económicos (ítems 124-136)
+- Dirección General de Promoción Económica (ítems 133-136)
+- Dirección General de Comunidades Peruanas en el Exterior y Asuntos Consulares 
+  (ítems 137-146)
+- Dirección General para Asuntos Culturales (ítems 147-151)
+- Dirección General de Tratados (ítems 153-155)
+- Dirección General de Protocolo y Ceremonial del Estado (ítems 156-170)
+- Oficina General de Planeamiento y Presupuesto (ítems 171-174)
+- Oficina General de Asuntos Legales (ítems 175-178)
+- Oficina General de Administración (ítems 179-206)
+- Oficina General de Apoyo a la Gestión Institucional (ítems 207-240)
+- Oficina General de Comunicación (ítems 232-240)
+- Otras asignaciones (ítems 241-242)
+
+
+================================================================================
+PÁGINA 17 - ANEXO 2
+ACTA DE ASIGNACIÓN DE EQUIPO Y/O SERVICIO DE TELEFONÍA MÓVIL CELULAR
+================================================================================
+
+Acta de Asignación OTI N° ................
+
+En la ciudad de Lima, a los ............ días del mes de ................... del 
+año ..........., el (la) Señor/a................................, con DNI 
+....................., recibe de la OTI en calidad de préstamo, en cumplimiento 
+de lo establecido en Directiva N° 005-2022 OGI/RE "Disposiciones del servicio 
+de telefonía móvil celular", el siguiente equipo de telefonía celular:
+
+[TABLA DE EQUIPOS Y ACCESORIOS]
+
++-----+------------------------------------+----------------------------------+
+| Ítem| Descripción                        | Detalle                          |
++-----+------------------------------------+----------------------------------+
+| EQUIPO Y ACCESORIOS ENTREGADOS:                                             |
++-----+------------------------------------+----------------------------------+
+| 1   | Propiedad                          | ( ) Alquilado                    |
+|     |                                    | ( ) Propiedad del MRE            |
+|     |                                    | Cód. Patrim.:                    |
++-----+------------------------------------+----------------------------------+
+| 2   | Tarjeta SIM con Línea Móvil        |                                  |
++-----+------------------------------------+----------------------------------+
+| 3   | Teléfono Móvil (Marca y Modelo)    |                                  |
++-----+------------------------------------+----------------------------------+
+| 4   | IMEI                               |                                  |
++-----+------------------------------------+----------------------------------+
+| 5   | Cargador con cable USB             |                                  |
++-----+------------------------------------+----------------------------------+
+| 6   | Audífonos                          |                                  |
++-----+------------------------------------+----------------------------------+
+| 7   | Otros componentes:                 |                                  |
++-----+------------------------------------+----------------------------------+
+| SERVICIO ASIGNADO:                                                          |
++-----+------------------------------------+----------------------------------+
+| 8   | Plan llamadas a nivel nacional     |                                  |
++-----+------------------------------------+----------------------------------+
+| 9   | Plan de datos para el servicio de  |                                  |
+|     | acceso a internet                  |                                  |
++-----+------------------------------------+----------------------------------+
+| 10  | Mensajes de Texto                  |                                  |
++-----+------------------------------------+----------------------------------+
+| 11  | Plan Larga Distancia Internacional |                                  |
++-----+------------------------------------+----------------------------------+
+| 12  | Servicio de Roaming Internacional  |                                  |
++-----+------------------------------------+----------------------------------+
+
+El usuario es responsable de cumplir todo lo dispuesto en la Directiva OGI N° 
+005-2022 OGI/RE "Disposiciones del servicio de telefonía móvil celular".
+
+[SECCIÓN DE FIRMAS]
+
++---------------------+---------------------+---------------------+
+| RECIBIDO POR:       | ENTREGADO POR:      | ASIGNADO POR:       |
++---------------------+---------------------+---------------------+
+| Firma               | Firma               | Firma               |
++---------------------+---------------------+---------------------+
+| Nombres y Apellidos | Nombres y Apellidos | Nombres y Apellidos |
++---------------------+---------------------+---------------------+
+| DNI                 | DNI                 | DNI                 |
++---------------------+---------------------+---------------------+
+| Cargo que desempeña | Cargo que desempeña | Cargo que desempeña |
++---------------------+---------------------+---------------------+
+| Dependencia         | Dependencia         | Dependencia         |
++---------------------+---------------------+---------------------+
+
+
+================================================================================
+PÁGINA 18 - ANEXO 3
+DECLARACIÓN JURADA DE USO DE EQUIPO Y/O SERVICIOS PERSONALES DE TELEFONÍA 
+MÓVIL CELULAR
+================================================================================
+
+Yo,......................................, identificado con DNI N°.............., 
+en el marco de la Directiva N° 005-2022 OGI/RE ,"Disposiciones del servicio de 
+telefonía móvil celular", declaro utilizar para el cumplimiento de mis 
+funciones, lo siguiente:
+
++---------------------------------------------+---------------+
+| Descripción                                 | Marque con X  |
++---------------------------------------------+---------------+
+| Mi Línea y Equipo Móvil Celular Personal    |               |
++---------------------------------------------+---------------+
+| Mi Equipo Móvil Celular Personal            |               |
++---------------------------------------------+---------------+
+
+En tal sentido, me comprometo a cumplir con todo lo dispuesto en la Directiva 
+N° 005-2022 OGI/RE "Disposiciones del servicio de telefonía móvil celular".
+
+
++--------------------------------+
+| Firma                          |
++--------------------------------+
+| Nombres y Apellidos            |
++--------------------------------+
+| DNI                            |
++--------------------------------+
+
+
+================================================================================
+PÁGINA 19 - ANEXO 4
+ACTA DE DEVOLUCIÓN DE EQUIPO Y/O SERVICIO DE TELEFONÍA MÓVIL CELULAR
+================================================================================
+
+En la ciudad de Lima, a los ............ días del mes de ................... del 
+año ......, .........., el señor/a.................................................., 
+identificado/a con DNI N°...................., cumple con devolver a la OTI, en 
+cumplimiento de lo establecido en la Directiva N° 005-2022 OGI/RE 
+"Disposiciones del servicio de telefonía móvil celular", el siguiente equipo y/o 
+servicio de telefonía celular, asignado mediante el Acta de Asignación OTI N° 
+.................
+
+[TABLA DE CARACTERÍSTICAS DEL EQUIPO]
+
++-----+------------------------------------+----------------------------------+
+| Ítem| Descripción                        | Detalle                          |
++-----+------------------------------------+----------------------------------+
+| CARACTERÍSTICAS DEL EQUIPO Y ACCESORIOS ENTREGADOS:                        |
++-----+------------------------------------+----------------------------------+
+| 1   | Propiedad                          | ( ) Alquilado                    |
+|     |                                    | ( ) Propiedad del MRE            |
+|     |                                    | Cód. Patrim.:                    |
++-----+------------------------------------+----------------------------------+
+| 2   | Tarjeta SIM con Línea Móvil        |                                  |
++-----+------------------------------------+----------------------------------+
+| 3   | Teléfono Móvil(Marca y Modelo)     |                                  |
++-----+------------------------------------+----------------------------------+
+| 4   | IMEI N°                            |                                  |
++-----+------------------------------------+----------------------------------+
+| 5   | Cargador con cable USB             |                                  |
++-----+------------------------------------+----------------------------------+
+| 6   | Audífonos                          |                                  |
++-----+------------------------------------+----------------------------------+
+| 7   | Otros componentes                  |                                  |
++-----+------------------------------------+----------------------------------+
+
+Observaciones técnicas del estado del equipo:
+
+
+[SECCIÓN DE FIRMAS]
+
++---------------------+---------------------+
+| RECIBIDO POR:       | ENTREGADO POR:      |
++---------------------+---------------------+
+| Firma               | Firma               |
++---------------------+---------------------+
+| Nombres y Apellidos | Nombres y Apellidos |
++---------------------+---------------------+
+| DNI                 | DNI                 |
++---------------------+---------------------+
+| Cargo que desempeña | Cargo que desempeña |
++---------------------+---------------------+
+| Dependencia         | Dependencia         |
++---------------------+---------------------+
+
+
+================================================================================
+PÁGINA 20 - ANEXO 5
+OBJETIVOS DE CONTROL Y CONTROLES DE SEGURIDAD DE LA INFORMACIÓN
+================================================================================
+
+Los objetivos de control y controles establecidos en la Anexo A de la NTP-ISO/IEC 
+27001:2014 "Tecnología de la Información. Técnicas de seguridad. Sistema de 
+Gestión de seguridad de la información. Requisitos".
+
+[TABLA DE OBJETIVOS Y CONTROLES]
+
++---+--------------------------------------------------------+----------+
+|   | Objetivos y Controles                                  | Numeral  |
+|   | de la NTP-ISO/IEC 27001:2014                           | de       |
+|   |                                                        | Directiva|
++---+--------------------------------------------------------+----------+
+| Objetivo de Control: A.6.2 Dispositivos móviles y teletrabajo            |
++---+--------------------------------------------------------+----------+
+| 1 | Control A.6.2.1: Política de dispositivos móviles.     | 5        |
+|   | Una política y medidas de seguridad de soporte deben   |          |
+|   | ser adoptadas para manejar los riesgos introducidos    |          |
+|   | por el uso de dispositivos móviles.                    |          |
++---+--------------------------------------------------------+----------+
+| 2 | Control A.6.2.2: Teletrabajo.                          | 5        |
+|   | Una política y medidas de seguridad de apoyo deben ser |          |
+|   | implementadas para proteger información a la que se    |          |
+|   | accede, se procesa o almacena en sitios de teletrabajo.|          |
++---+--------------------------------------------------------+----------+
+| Objetivo de Control: A.8.1 Responsabilidad por los activos.             |
++---+--------------------------------------------------------+----------+
+| 3 | Control A.8.1.: Uso aceptable de los activos.          | 5.2.1    |
+|   | Las reglas para el uso aceptable de la información y   | 6.1      |
+|   | activos asociados con la información y con las         | 6.2      |
+|   | instalaciones de procesamiento de la información deben | 6.3      |
+|   | ser identificadas, documentadas e implementadas.       |          |
++---+--------------------------------------------------------+----------+
+| 4 | Control A.8.1.4: Retorno de activos.                   | 5.3.1    |
+|   | Todos los empleados y usuarios de partes externas      | 5.3.4    |
+|   | deben retornar todos los activos de la organización en | 5.3.5    |
+|   | su posesión a la conclusión de su empleo, contrato o   |          |
+|   | acuerdo.                                               |          |
++---+--------------------------------------------------------+----------+
+| Objetivo de Control: A.11.2 Equipos.                                    |
++---+--------------------------------------------------------+----------+
+| 5 | Control A.11.2.6: Seguridad de equipos y activos fuera | 4.1      |
+|   | de las instalaciones.                                  | 5.1.1    |
+|   | La seguridad debe ser aplicada a los activos que están | 5.1.2    |
+|   | fuera de su lugar tomando en cuenta los distintos      | 5.2.1    |
+|   | riesgos de trabajar fuera de las instalaciones de la  | 6.2      |
+|   | organización.                                          | 6.3      |
++---+--------------------------------------------------------+----------+
+| 6 | Control A.11.2.7: Disposición o reutilización segura   | 5.3.2    |
+|   | de equipos.                                            |          |
+|   | Todos los elementos del equipo que contengan medios de |          |
+|   | almacenamiento deber ser verificados para asegurar que |          |
+|   | cualquier dato sensible y software con licencia se haya|          |
+|   | eliminado o se haya sobre escrito de manera segura     |          |
+|   | antes de su disposición o reutilización.               |          |
++---+--------------------------------------------------------+----------+
+
+
+═══════════════════════════════════════════════════════════════════════════════
+FIN DEL DOCUMENTO EXTRAÍDO
+═══════════════════════════════════════════════════════════════════════════════
+
+Notas finales:
+- Este documento de 20 páginas contiene sellos circulares oficiales en cada 
+  página que han sido ignorados en la extracción de texto.
+- Las tablas han sido representadas en formato de texto plano simple.
+- La extracción preserva la estructura y contenido del documento original.
+- Páginas procesadas: 3 a 20 (18 páginas en total desde el punto de inicio)
+
+Fecha de extracción: 17 de diciembre de 2025

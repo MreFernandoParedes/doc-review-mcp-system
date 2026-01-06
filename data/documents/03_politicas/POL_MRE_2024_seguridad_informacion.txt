@@ -1,0 +1,269 @@
+POLÍTICA Y OBJETIVOS DE SEGURIDAD DE LA INFORMACIÓN
+
+Tabla de Control de Cambios
+
+Versión 01 - Versión inicial del documento
+
+INDICE
+
+1  OBJETIVO
+2  ALCANCE
+3  BASE NORMATIVA
+4  ALINEAMIENTO ESTRATÉGICO
+5  POLÍTICA DE SEGURIDAD DE LA INFORMACIÓN
+6  OBJETIVOS DE SEGURIDAD DE LA INFORMACIÓN
+
+1  OBJETIVO
+
+Establecer la política y los objetivos de seguridad de la información, como compromiso de la alta dirección del MRE con respecto a la gestión de la seguridad de la información, protección de datos personales y ciberseguridad, a la par con la normativa de gobierno digital, transformación digital y seguridad digital emitida por el Estado Peruano.
+
+2  ALCANCE
+
+Todos los niveles organizacionales del Ministerio de Relaciones Exteriores en virtud del cumplimiento de la normativa de gobierno y transformación digital y lo establecido en el Plan Estratégico Institucional 2020 - 2026, OEI 7 - Modernizar la gestión del Ministerio de Relaciones Exteriores y del Servicio Diplomático de la República, AEI.07.08 - Promover el gobierno digital a través del uso estratégico de las tecnologías digitales y datos para así avanzar en la transformación digital de la institución.
+
+3  BASE NORMATIVA
+
+- Ley N° 27444, Ley del Procedimiento Administrativo General.
+- Ley N° 29357, Ley de Organización y Funciones del Ministerio de Relaciones Exteriores.
+- Decreto Legislativo N° 1412, Decreto Legislativo que aprueba la Ley del Gobierno Digital.
+- Decreto Supremo N° 135- 2010-RE, que aprueba el Reglamento de Organización y Funciones del Ministerio de Relaciones Exteriores.
+- Decreto Supremo N° 029-2021-PCM, que aprueba el Reglamento del Decreto Legislativo N° 1412.
+- Resolución Ministerial N° 0383-2024-RE, que aprueba el Plan Estratégico Institucional 2020 - 2027, ampliado del Ministerio de Relaciones Exteriores.
+- Resolución de Secretaría de Gobierno y Transformación Digital N° 003-2023-PCM/SGTD - Establecimiento de Implementación y Mantenimiento del Sistema de Seguridad de la Información en las Entidades Públicas.
+- NTP ISO/IEC 27001:2022 Seguridad de la información, ciberseguridad y protección de la privacidad - Sistemas de gestión de la seguridad de la información - Requisitos.
+- NTP ISO/IEC 27002:2022 Seguridad de la información, ciberseguridad y protección de la privacidad - Controles de seguridad de la información.
+- NTP ISO 31000:2018 Gestión del Riesgo. Directrices.
+
+4  ALINEAMIENTO ESTRATÉGICO
+
+La Política de Seguridad de la Información se sostiene a partir del cumplimiento del Decreto Legislativo N° 1412, Decreto Legislativo que aprueba la Ley del Gobierno Digital; y su Reglamento, aprobado por Decreto Supremo N° 029-2021-PCM, y lo establecido en el Objetivo y Acción Estratégica Institucional siguientes:
+
+Objetivo Estratégico: OEI.07
+Modernizar la gestión del Ministerio de Relaciones Exteriores y del Servicio Diplomático de la República.
+
+Acción Estratégica: AEI.07.08
+Promover el gobierno digital a través del uso estratégico de las tecnologías digitales y datos para sí avanzar en la transformación digital de la institución.
+
+Fuente: Plan de Gobierno Digital 2023 - 2025, aprobado por R.M N.º 0069-2023/RE
+
+5  POLÍTICA DE SEGURIDAD DE LA INFORMACIÓN
+
+El Ministerio de Relaciones Exteriores promueve, protege y defiende los intereses del Estado peruano en el sistema internacional y los de sus ciudadanos para la consolidación de su desarrollo sostenible e inclusivo; considerando la protección de la información gestionada en sus diferentes ámbitos institucionales, proporcionando un marco para establecer y revisar sus objetivos de la seguridad de la información; por ello se compromete a:
+
+- Satisfacer los requisitos y la mejora continua del Sistema de Gestión de Seguridad de la información aplicables.
+- Proporcionar los recursos necesarios para el logro de los objetivos de seguridad de la información.
+- Generar conciencia sobre la importancia y necesidad de la seguridad de la información en todos los servidores de la institución.
+- Cumplir las normativas vigentes aplicables.
+
+6  OBJETIVOS DE SEGURIDAD DE LA INFORMACIÓN
+
+a) Garantizar la confidencialidad, integridad y disponibilidad de la información de la entidad pública.
+b) Fortalecer la cultura de seguridad de la información en los servidores, funcionarios y colaboradores de la entidad pública.
+c) Fomentar una cultura de seguridad de la información y transformación digital en la entidad y promoverla hacia la ciudadanía y otras partes interesadas.
+d) Asegurar el cumplimiento normativo en materia de seguridad y confianza digital.
+e) Gestionar de manera eficaz los riesgos, eventos e incidentes de seguridad de la información.
+f) Establecer controles de seguridad de la información que protejan la información institucional, de amenazas internas y externas.
+
+
+DECLARACIÓN DE POLÍTICA DE SEGURIDAD DE LA INFORMACIÓN
+
+El Ministerio de Relaciones Exteriores promueve, protege y defiende los intereses del Estado peruano en el sistema internacional y los de sus ciudadanos para la consolidación de su desarrollo sostenible e inclusivo; considerando la protección de la información gestionada en sus diferentes ámbitos institucionales, proporcionando un marco para establecer y revisar sus objetivos de la seguridad de la información; por ello se compromete a:
+
+- Satisfacer los requisitos y la mejora continua del Sistema de Gestión de Seguridad de la información aplicables.
+- Proporcionar los recursos necesarios para el logro de los objetivos de seguridad de la información.
+- Generar conciencia sobre la importancia y necesidad de la seguridad de la información en todos los servidores de la institución.
+- Cumplir las normativas vigentes aplicables.
+
+Para lo cual se tienen los siguientes objetivos de seguridad de la información:
+
+- Garantizar la confidencialidad, integridad y disponibilidad de la información de la entidad pública.
+- Fortalecer la cultura de seguridad de la información en los servidores, funcionarios y colaboradores de la entidad pública.
+- Fomentar una cultura de seguridad de la información y transformación digital en la entidad y promoverla hacia la ciudadanía y otras partes interesadas.
+- Asegurar el cumplimiento normativo en materia de seguridad y confianza digital.
+- Gestionar de manera eficaz los riesgos, eventos e incidentes de seguridad de la información.
+- Establecer controles de seguridad de la información que protejan la información institucional, de amenazas internas y externas.
+
+
+ROLES Y RESPONSABILIDADES PARA LA SEGURIDAD DE LA INFORMACIÓN
+
+Tabla de Control de Cambios
+
+Versión 01 - Versión inicial del documento
+
+INDICE
+
+1  OBJETIVO
+2  ALCANCE
+3  BASE NORMATIVA
+4  RESPONSABILIDADES EN LA SEGURIDAD DE LA INFORMACION
+   4.1  Canciller
+   4.2  Comité de Gobierno y Transformación Digital
+   4.3  Oficial de Seguridad y Confianza Digital
+   4.4  Oficial de Datos Personales
+   4.5  Auditor Interno
+   4.6  Propietarios de los riesgos
+   4.7  Propietarios de los activos de información
+   4.8  Usuarios de los activos de información
+   4.9  Responsables de los controles
+   4.10 Responsable de ORH
+   4.11 Responsable de Tecnologías de la Información
+5  CONSIDERACIONES
+
+1  OBJETIVO
+
+Establecer una organización de la seguridad de la información que sea la base para asignar roles y responsabilidades en la seguridad de la información al personal del Ministerio de Relaciones Exteriores de manera que se asegure el buen desempeño de los procesos del Sistema de Gestión de Seguridad de la Información (SGSI) y la eficacia de los controles.
+
+2  ALCANCE
+
+Los roles y responsabilidades para la seguridad de la información son aplicables a todos los niveles organizacionales del Ministerio de Relaciones Exteriores.
+
+3  BASE NORMATIVA
+
+- Ley N° 27444, Ley del Procedimiento Administrativo General.
+- Ley N° 29357, Ley de Organización y Funciones del Ministerio de Relaciones Exteriores.
+- Decreto Legislativo N° 1412, Decreto Legislativo que aprueba la Ley del Gobierno Digital.
+- Decreto Supremo N° 135- 2010-RE, Reglamento de Organización y Funciones del Ministerio de Relaciones Exteriores.
+- Decreto Supremo N° 029-2021-PCM, que aprueba el Reglamento del Decreto Legislativo N° 1412.
+- NTP ISO/IEC 27001:2022 Seguridad de la información, ciberseguridad y protección de la privacidad - Sistemas de gestión de la seguridad de la información - Requisitos.
+- NTP ISO/IEC 27002:2022 Seguridad de la información, ciberseguridad y protección de la privacidad - Controles de seguridad de la información.
+- NTP ISO 31000:2018 Gestión del Riesgo. Directrices.
+- Resolución de Secretaría de Gobierno y Transformación Digital N° 002-2023-PCM/SGTD - Aprueban la Directiva que Establece el Perfil y Responsabilidades del Oficial de Seguridad y Confianza Digital.
+- Resolución de Secretaría de Gobierno y Transformación Digital N° 003-2023-PCM/SGTD - Establecimiento de Implementación y Mantenimiento del Sistema de Seguridad de la Información en las Entidades Públicas.
+
+Las normas mencionadas incluyen sus normas modificatorias, reglamentarias, complementarias y conexas.
+
+4  RESPONSABILIDADES EN LA SEGURIDAD DE LA INFORMACION
+
+4.1 Canciller
+
+El Canciller ejerce las siguientes responsabilidades que pueden ser delegadas al Secretario General:
+
+- Liderar el SGSI de la Institución.
+- Aprobar las políticas de alto nivel de la Seguridad de la Información y sus futuras modificaciones.
+- Asegurar el buen funcionamiento del SGSI en los procesos del alcance y los procesos que lo soportan.
+- Revisar periódicamente la eficacia del SGSI.
+- Liderar en los Comités de Gobierno y Transformación Digital, cuando sea necesario.
+- Propiciar la gobernabilidad del SGSI pidiendo la rendición de cuentas a través del proceso de revisión por la dirección.
+- Conducir las estrategias y soluciones específicas necesarias para implementar las políticas de seguridad de la información, proporcionando los recursos necesarios para operar y mantener el SGSI.
+- Asignar y comunicar los roles, responsabilidades y autoridades en seguridad de la información.
+- Solucionar conflictos de interés tanto en la gestión como en la operación de la seguridad de la información.
+- Revisar, aprobar y difundir la información documentada del SGSI y de la Seguridad de la Información.
+- Proveer los recursos necesarios para la implementación, operación y mejora del SGSI.
+
+4.2 Comité de Gobierno y Transformación Digital
+
+En cuanto a la seguridad de la información sus responsabilidades son las siguientes:
+
+- Impulsar la gobernanza y uso estratégico de los datos, incluyendo su protección en la Institución.
+- Dirigir, mantener y supervisar el SGSI de la entidad.
+- Proponer políticas y directrices Institucionales en materia de seguridad de la información a la Alta Dirección.
+- Realizar el seguimiento de las actividades de gestión y los planes de acción del SGSI.
+- Verificar el cumplimiento e implementación de los procesos de gestión y controles de seguridad de la información en todos los estratos organizacionales de la entidad.
+- Gestionar con la Alta Dirección los recursos para la implementación, mantenimiento y mejora del SGSI, así como lo estipulado en los lineamientos, políticas y procesos del SGSI.
+- Impulsar una cultura de seguridad de la información en la entidad.
+
+4.3 Oficial de Seguridad y Confianza Digital
+
+- Formular, articular, supervisar y coordinar la implementación, mantenimiento y mejora del SGSI atendiendo las normas en materia de seguridad de la información, gestión de riesgos de seguridad de la información, gestión de incidentes de seguridad de la información, seguridad digital, confianza digital y gobierno digital.
+- Coordinar y reportar al Comité de Gobierno y Transformación Digital la implementación, mantenimiento, y la aplicación de las normas relacionadas a seguridad de la información, confianza digital, transformación digital y gobierno digital.
+- Coordinar con el Comité de Gobierno y Transformación Digital el despliegue de acciones reactivas y proactivas, e iniciativas para la transformación digital basada en seguridad de la información de la entidad.
+- Coordinar con el Oficial de Gobierno de Datos y el Oficial de Datos Personales en todas las cuestiones relativas al uso ético de las tecnologías digitales, datos; y la protección de datos personales en la entidad, respectivamente.
+- Coordinar con las unidades de organización del MRE las acciones orientadas a implementar y/o mantener el SGSI, de acuerdo con lo establecido por la alta dirección y las normas en materia de seguridad de la información, gestión de riesgos de seguridad de la información, gestión de incidentes de seguridad de la información, seguridad digital y confianza digital.
+- Coordinar con el personal de la entidad toda iniciativa de mejora relacionada con la seguridad de la información.
+- Asesorar a los propietarios de los riesgos, a realizar los análisis y evaluaciones de los riesgos en base a la metodología de gestión de riesgos.
+- Formular y proponer políticas, procedimientos y planes en materia de seguridad de la información, gestión de riesgos de seguridad de la información, gestión de incidentes de seguridad de la información, seguridad y confianza digital.
+- Promover la conformación y adecuada operación del equipo de respuestas ante incidentes de seguridad de la información.
+- Proponer medidas para la gestión de riesgos e incidentes de seguridad de la información, seguridad digital y ciberseguridad.
+- Crear y mantener un registro de los eventos e incidentes de seguridad de la información identificados.
+- Comunicar al Comité Nacional de Seguridad Digital (CNSD) los incidentes de seguridad digital críticos que afecten a los procesos misionales o servicios que brinda la entidad, y de ser el caso, coordinar y/o participar en su atención con el CNSD.
+- Gestionar los activos de información, con los propietarios asignados.
+- Asistir en su calidad de miembro del Comité de Gobierno y Transformación Digital, en la correcta orientación, dirección, evaluación, monitoreo, control, y mejora continua, en temas relacionados a la seguridad de la información en la entidad
+- Asesorar a la entidad en la definición e implementación de acciones, técnicas, estrategias, coordinación y respuesta ante incidentes de seguridad de la información.
+- Planificar y coordinar la ejecución de pruebas de evaluación de vulnerabilidades de los aplicativos informáticos, sistemas, infraestructura, datos y redes que soportan los servicios digitales, procesos misionales o relevantes de la entidad.
+- Elaborar informes de los riesgos e incidentes de seguridad de la información críticos para la entidad pública e informarlos a la Secretaría General.
+- Informar a la Secretaría General acerca de los riesgos de seguridad de la información, incidentes de seguridad de la información críticos, avances y dificultades en la implementación u operación del SGSI, resultados de las auditorías de seguridad de la información internas y/o externas realizadas anualmente a la entidad, y sobre la aplicación efectiva de las normas en materia de seguridad de la información, gestión de riesgos de seguridad de la información, gestión de incidentes de seguridad de la información, seguridad digital y confianza digital.
+- Coordinar con el CNSD acciones de sensibilización y capacitación para los funcionarios y servidores civiles del MRE sobre seguridad de la información, gestión de riesgos de seguridad de la información, gestión de incidentes de seguridad de la información, seguridad digital y confianza digital.
+- Coordinar con el Oficial de Gobierno de Datos y el Oficial de Datos Personales en todas las cuestiones relativas a la implementación de controles de seguridad de la información relacionados con las materias de gestión de datos y protección de datos personales en la entidad, respectivamente.
+- Coordinar con el Comité de Gobierno y Transformación Digital, lo concerniente a iniciativas y proyectos en materia de seguridad y confianza digital.
+- Coordinar con los dueños de procesos, propietarios de riesgos y responsables de las unidades de organización del MRE su apoyo en la gestión de riesgos e implementación de los controles de seguridad de la información identificados en sus ámbitos de competencia, así como en la gestión de incidentes de seguridad de la información.
+- Asegurar y supervisar la adopción y uso de estándares, normas técnicas y mejores prácticas de seguridad de la información ampliamente reconocidos por parte de la unidad de organización de tecnologías de la información cuando ésta adquiera, tercerice o desarrolle software o implemente otro tipo de soluciones tecnológicas.
+- Coordinar con la OTI, cuando corresponda, en los temas relativos a sus responsabilidades.
+- Otras responsabilidades afines que le sean asignadas por el titular de la entidad o la Secretaría General.
+
+4.4 Oficial de Datos Personales
+
+- Velar por el cumplimiento de las normas en materia de protección de datos personales del MRE.
+- Informar o asesorar a la entidad sobre las disposiciones de protección de datos personales.
+- Promover la cultura de protección de datos personales dentro de la entidad.
+- Asegurar la atención de las solicitudes al ejercicio de derechos a la protección de datos personales.
+- Reportar a la autoridad competente los incidentes de seguridad que constituyan la vulneración de datos personales.
+
+4.5 Auditor Interno
+
+- Elaborar un programa de auditoría interna del SGSI.
+- Elaborar el Plan de Auditoría Interna del SGSI.
+- Ejecutar la auditoría interna del SGSI de acuerdo con el programa y al plan de auditoría respectivos.
+- Presentar los resultados de la auditoría interna del SGSI al Comité de Gobierno y Transformación Digital y a la Alta Dirección Directorio.
+- Asesorar y monitorear la ejecución de acciones correctivas y de mejora para la atención de los hallazgos de la auditoría interna.
+
+4.6 Propietarios de los riesgos
+
+- Gestionar los riesgos de seguridad de la información a su cargo y comunicar los resultados al Comité de Gobierno y Transformación Digital.
+- Fomentar la identificación de nuevos riesgos que afecten a los objetivos de la seguridad de la información.
+- Planificar el tratamiento de los riesgos de seguridad de la información, y reportar los avances al Comité de Gobierno y Transformación Digital.
+- Solicitar al Comité de Gobierno y Transformación Digital los recursos necesarios para el tratamiento de los riesgos.
+- Aceptar los riesgos residuales tras el tratamiento de los riesgos identificados.
+
+4.7 Propietarios de los activos de información
+
+- Clasificar la información de acuerdo con el grado de sensibilidad y criticidad de esta, documentar y mantener actualizada la clasificación efectuada, y de definir qué usuarios deben tener permisos de acceso a la información de acuerdo con sus funciones y competencias.
+- Atender la implementación de controles, a fin de proteger los activos de información de los que es propietario
+- Asegurar la protección de los activos de información asignado.
+- Autorizar los accesos a los activos de información, tomando en cuenta los requisitos de la entidad, así como las leyes y normas emitidas por las entidades reguladoras.
+- Cumplir con los requisitos de seguridad, asegurando el uso adecuado y eficaz de los activos de información, manteniendo la confidencialidad, integridad y disponibilidad.
+- Reportar incidentes y vulnerabilidades de seguridad de la información identificada durante el proceso de administración de los activos.
+
+4.8 Usuarios de los activos de información
+
+- Utilizar los activos de acuerdo con las necesidades de negocio y políticas de seguridad de la información.
+- Acceder a los activos previa autorización del propietario del activo.
+- Cumplir con los requisitos de seguridad establecidos por el propietario del activo de información.
+- Participar de las actividades de capacitación y concientización de seguridad de la información, así como en la implementación del SGSI.
+
+4.9 Responsables de los controles
+
+- Diseñar los controles de modo que resulten idóneos para el tratamiento de los riesgos.
+- Asegurar la efectividad de los controles a ser implementados.
+- Rendir cuenta de la efectividad del control a los propietarios de los riesgos asociados a los propietarios de los activos.
+- Asegurar la implementación, operación y monitoreo de los controles.
+- Mejorar la efectividad del control en base a los resultados del monitoreo.
+
+4.10 Responsable de ORH
+
+- Gestionar las necesidades del recurso humano dentro de la organización.
+- Impulsar la gestión de la comunicación interna en temas referidos a la seguridad de la información.
+- Planificar y llevar a cabo las actividades de capacitación y concientización en seguridad de la información.
+- Cumplir con las disposiciones de seguridad de la información emitidas a través de las políticas del SGSI.
+- Gestionar un proceso seguro de reclutamiento de personal considerando los filtros de experiencia, habilidades, conocimientos y de seguridad pertinentes.
+- Velar por el cumplimiento de los acuerdos de confidencialidad y cláusulas de seguridad de la información y privacidad suscritos en los contratos de personal en todas sus modalidades.
+- Participar activamente en el Comité de Gobierno y Transformación Digital.
+
+4.11 Responsable de Tecnologías de la Información:
+
+- Proteger la infraestructura tecnológica que soporta los sistemas del MRE.
+- Informar oportunamente al Oficial de Seguridad y Confianza Digital todo incidente de seguridad digital crítico que afecte a los procesos misionales y servicios que brinda la entidad.
+- Gestionar los incidentes de seguridad de la información que sean reportados por el personal del MRE.
+- Articular con el Oficial de Seguridad y Confianza Digital la implementación de los controles de seguridad de la información y coordina con el Equipo de Respuestas ante Incidentes de Seguridad Digital la gestión de incidentes de seguridad digital.
+- Gestionar e implementar los controles tecnológicos identificados en la gestión de riesgos de seguridad de la información.
+- Fomentar el buen uso de los recursos tecnológicos de la entidad.
+- Cumplir con la implementación de las medidas de seguridad normadas en las políticas de seguridad de la información, ciberseguridad y protección de datos personales.
+- Participar activamente en el Comité Gobierno y Transformación Digital.
+
+5  CONSIDERACIONES
+
+- Los roles y responsabilidades más exhaustivos se deben establecer en la elaboración de los procesos del SGSI, políticas específicas o procedimientos que soportan los controles de seguridad de la información.
+- Las tareas en la seguridad de la información pueden ser delegadas siempre y cuando estén las facultades de realizarlas, pero es necesario indicar que las responsabilidades no se delegan.
+- Los niveles de autorización a los activos de información son detallados en la descripción de los procesos, políticas, procedimientos y otros documentos de seguridad de la información.
+- Para cumplir con los roles y responsabilidades asignadas, las personas deben ser conscientes y competentes para cumplirlas.
+- La coordinación y supervisión de los aspectos de la seguridad de la información respecto a terceros deben ser identificadas y documentadas.
+- Los roles y responsabilidades en la seguridad de la información en lo posible deben estar segregados, para evitar un mal funcionamiento de la seguridad de la información.

@@ -1,0 +1,391 @@
+DISPOSICIONES DEL SERVICIO DE CORREO ELECTRÓNICO Y PLATAFORMA COLABORATIVA
+
+1. FINALIDAD
+La presente directiva establece las disposiciones para la asignación y uso del servicio de correo electrónico institucional y la plataforma colaborativa virtual; a fin de proteger los activos digitales garantizado la confidencialidad, integridad y disponibilidad de la información almacenada o transmitida en la infraestructura digital del Ministerio de Relaciones Exteriores, en adelante el MRE.
+
+2. ALCANCE
+La presente directiva es de aplicación de la Oficina General de Apoyo a la Gestión Institucional, en adelante OGI; de la Oficina de Tecnologías de la Información, en adelante OTI; de la Oficina General de Recursos Humanos, en adelante ORH; de la Oficina de Logística, en adelante LOG; de la Oficina General de Asuntos Legales, en adelante LEG; de la Secretaría General, en adelante SGG; así como de todas las unidades de organización del MRE solicitantes del servicio de correo electrónico y de la plataforma colaborativa para el personal a su cargo, independientemente de su régimen laboral, modalidad y tipo de contratación en el MRE, incluyendo a los secigristas y practicantes; a quienes en adelante se les denomina Usuarios.
+
+3. BASE LEGAL
+Normas específicas
+a) Ley N° 27806, Ley de Transparencia y Acceso a la Información Pública.
+b) Ley N° 28493, Ley que regula el uso del correo electrónico comercial no solicitado (SPAM).
+c) Ley N° 30096, Ley de Delitos Informáticos.
+d) Decreto Legislativo N° 1412, Decreto Legislativo que aprueba la Ley de Gobierno Digital.
+e) Decreto Supremo N° 029-2021-PCM, Reglamento de la Ley de Gobierno Digital.
+f) Decreto Supremo N° 007-2024-JUS, Reglamento de la Ley de Transparencia y Acceso a la Información Pública.
+g) Resolución Directoral N° 022-2022-INACAL/DN, que aprobó entre otras, la NTP-ISO/IEC 27001:2022 Seguridad de la Información, Ciberseguridad y Protección de la Privacidad. Sistemas de Gestión de la Seguridad de la Información. Requisitos 3ra. Edición.
+h) Resolución Jefatural N° 207-2002-INEI, Aprueban Directiva N° 010-2002-INEI/DTNP, Normas Técnicas para la asignación de nombres de Dominio de las entidades de la Administración Pública.
+i) Resolución Jefatural N° 088-2003-INEI, Aprueban Directiva N° 005-2003-INEI/DTNP, Normas para el uso del servicio de correo electrónico en las entidades de la Administración Pública.
+j) Resolución de Secretaría de Gobierno Digital N° 001-2018-PCM/SEGDI, Aprueban Lineamiento para uso de servicios en la nube para entidades de la Administración Pública del Estado Peruano.
+
+Normas institucionales
+a) Ley N° 29357, Ley de Organización y Funciones del Ministerio de Relaciones Exteriores.
+b) Decreto Supremo N° 135-2010-RE, Aprueban el Reglamento de Organización y Funciones del Ministerio de Relaciones Exteriores.
+c) Resolución Ministerial N° 0196-2019-RE, Creación del Comité de Gobierno Digital del Ministerio de Relaciones Exteriores.
+d) Resolución Ministerial N° 0197-2021-RE, Aprueban el Reglamento Interno de los Servidores Civiles (RISC) del Ministerio de Relaciones Exteriores.
+e) Resolución de Secretaría General N° 0979-2015-RE, que aprueba la Directiva N° 006-2015-OPP/RE sobre Disposiciones para la Formulación de Directivas en el Ministerio de Relaciones Exteriores.
+
+Normas generales
+a) Ley N° 27815, Ley del Código de Ética de la Función Pública.
+b) Ley N° 28716, Ley de Control Interno de las entidades del Estado.
+c) Ley Anual de Presupuesto para el Sector Público vigente.
+d) Ley N° 29733, Ley de protección de datos personales.
+e) Resolución de Contraloría N° 320-2006/CG, "Normas de Control Interno".
+
+Las normas mencionadas incluyen sus normas modificatorias, reglamentarias, complementarias y conexas.
+
+4. DISPOSICIONES GENERALES
+4.1 La OTI puede asignar servicios de correo electrónico y plataforma corporativa, cuando el Usuario trabaja en el MRE, en el marco de las siguientes normativas:
+a) Ley N° 28091, Ley del Servicio Diplomático de la República
+b) Decreto Legislativo N° 276, Ley de Bases de la Carrera Administrativa y de Remuneraciones del Sector Público.
+c) Decreto Legislativo N° 1057, Decreto Legislativo que regula el régimen especial de contratación administrativa de servicios.
+d) Ley N° 29806, Ley que Regula la Contratación de Personal Altamente Calificado en el Sector Público y Dicta Disposiciones.
+e) Decreto Ley N° 25650, Lineamientos para la Administración del Fondo de Apoyo Gerencial al Sector Público – FAG.
+f) Resolución suprema o ministerial, designando como funcionario/servidor para brindar servicios al ministerio.
+
+4.2 La OTI también puede asignar servicios de correo electrónico y plataforma corporativa, cuando el Usuario:
+a) Brinda servicios al MRE mediante orden de servicios.
+b) Es secigristas.
+c) Es practicantes o alumnos de la Academia Diplomática del Perú.
+
+4.3 Del esquema del Servicio de correo electrónico y plataforma colaborativa institucional
+
+5. DISPOSICIONES ESPECÍFICAS
+
+5.1 Del Servicio de correo electrónico
+5.1.1 De la creación de cuenta de correo electrónico
+5.1.1.1 De la solicitud de cuenta de correo electrónico
+El servicio de correo electrónico es solicitado por la unidad de organización, mediante memorándum dirigido a OGI con copia a OTI, describiendo el sustento para asignar una cuenta de correo y adjuntando los siguientes documentos:
+a) Para cuenta de correo electrónico de un Usuario
+a1) Solicitud de Acceso a Servicios, elaborada por OTI y publicada en la sección OGI de la intranet institucional o a través de los medios digitales que la OTI ponga a disposición; debiendo utilizar los conceptos detallados en el Anexo 3 Términos y Definiciones.
+a2) Carta de Compromiso, suscrito por el Usuario; formulario actualizado por OTI y publicado en la sección OGI de la Intranet institucional o a través de los medios digitales que la OTI ponga a disposición.
+
+b) Para buzón compartido (correo electrónico genérico)
+La Unidad de Organización remite memorándum precisando los siguientes datos del buzón compartido:
+b1) Sustento para su creación.
+b2) Datos del Usuario responsable del buzón compartido.
+b3) Período de caducidad.
+b4) Usuarios con acceso.
+b5) Propuesta de nombre de cuenta.
+
+5.1.1.2 De la creación de la cuenta de correo electrónico
+La OGI y OTI se reservan el derecho de proceder con la atención de la solicitud, según la disponibilidad y condiciones del servicio de correo electrónico. De ser improcedente la solicitud, OGI/OTI comunica dicha respuesta a la unidad de organización.
+La OTI crea la cuenta de correo electrónico aplicando las siguientes disposiciones:
+a) Tipos según los siguientes tipos de Usuarios
+a1) Tipo A (Usuario laborando en el MRE, según el numeral 4.1)
+• Letra inicial del primer nombre, seguido del apellido paterno y la primera letra del apellido materno. Ejemplo: "jperezg".
+• Para casos de homonimia, adicionalmente al texto anterior se agrega la segunda letra del apellido materno, ejemplo: "jperezgo"
+• El título descriptivo de la cuenta de red está compuesto por los nombres, seguido del apellido paterno y apellido materno del usuario.
+a2) Tipo B (Personas contratadas con órdenes servicio)
+• El tipo de usuario "B" utiliza la misma nomenclatura que la cuenta de red del usuario tipo "A", seguido de los caracteres "-os", así como, el número y año de la orden de servicio. Ejemplo: "malvarezr-os00012024", "malvarezro-os00012024".
+• El título descriptivo de la cuenta de red está compuesto por los nombres, seguido del apellido paterno y apellido materno del usuario.
+a3) Tipo C (Secigrista) y tipo D (Practicante)
+• Los tipos de usuario "C" (Secigrista) y "D" (Practicante), usan la misma nomenclatura que la cuenta de red del usuario tipo "A", seguido de los caracteres "-sec" y "-pract", respectivamente. Ejemplo tipo C: "dtorresg-sec", "dtorresga-sec"; tipo D: "palvarezb-pract", "palvarezbe-pract".
+• El título descriptivo de la cuenta de red está compuesto por los nombres, seguido del apellido paterno y apellido materno del usuario.
+a4) Tipo E (Cuenta de red genérica)
+La cuenta genérica es definida por la unidad de organización solicitante. La OTI se reserva el derecho de creación de la cuenta genérica, bajo los criterios de disponibilidad de licenciamiento, duplicidad y reserva de nombre por fines de seguridad informática.
+a5) Tipo F (Otros casos)
+De forma excepcional se puede definir otro tipo de cuenta, la cual debe ser debidamente justificada por la Unidad de Organización. Ante esto, la OTI en coordinación con la OGI define el tratamiento, siguiendo como patrón lo señalado anteriormente y, de ser necesario, con apoyo de LEG. La OGI pone estos casos a consideración de la SGG para autorización.
+
+b) Las características del buzón de correo electrónico
+b1) Tamaño de buzón
+El tamaño de buzón es de 50 GB para cada uno de los buzones de correo.
+b2) Tamaño de los mensajes
+El tamaño máximo de los mensajes de correo electrónicos es de 33 MB.
+b3) Cantidad de destinatarios externos
+La cantidad máxima de destinatarios en un mensaje de correo electrónico es de 20.
+b4) Mensaje institucional del correo
+Todos los mensajes de correo electrónico enviados tienen insertado en la parte inferior del cuerpo del mensaje, un mensaje institucional, el cual es indicado en el Anexo 1 "Aviso de confidencialidad de Información y reducción de impacto ambiental" de la presente Directiva, el mismo que se encuentra sujeto a su modificación y actualización de acuerdo con lo dispuesto por la institución.
+
+5.1.2 De la Administración del servicio de correo electrónico
+La OTI está a cargo de la gestión y administración del servicio de correo electrónico y plataforma colaborativa institucional, con el fin de asegurar el cumplimiento de los objetivos institucionales. Asimismo, la OTI:
+a) Se encarga de proveer los mecanismos técnicos para brindar la privacidad y confidencialidad de la información contenida en las cuentas de correo electrónico, mientras el Usuario cumpla estrictamente las disposiciones contenidas en la presente directiva.
+b) Genera copia diaria de respaldo de los correos institucionales y conserva la última copia generada, siempre que se cuente con la capacidad de almacenamiento necesaria y la cantidad suficiente de licencias.
+c) En el marco del Reglamento de la Ley de Transparencia y Acceso a la Información Pública, conserva la información de las cuentas de correo electrónico institucionales asignados a usuarios de la entidad establecidos en la presente directiva siguiendo los lineamientos y directivas que para este efecto dicte la Secretaría de Gobierno y Transformación Digital de la Presidencia del Consejo de Ministros.
+d) En el marco del Reglamento de la Ley de Transparencia y Acceso a la Información Pública, conserva y transfiere la información de las cuentas de correo electrónico institucionales asignadas a exusuarios, siguiendo los lineamientos y directivas que para este efecto dicte el Sistema Nacional de Archivos, en coordinación y opinión favorable de la Secretaría de Gobierno y Transformación Digital de la Presidencia del Consejo de Ministros.
+e) Las copias de respaldo se realizan una vez al día, según los procedimientos internos que gestiona la OTI.
+f) Se encarga de crear, bloquear, deshabilitar y eliminar la cuenta de correo electrónico de acuerdo a lo indicado en la presente directiva y en el marco de la base legal vigente.
+g) Brinda soporte técnico solo a los Usuarios con equipos de cómputo y/o dispositivos móviles asignados por la institución.
+h) Informa los incumplimientos a la presente directiva a la unidad de organización del Usuario con copia a la OGI, quien remite la documentación correspondiente a ORH o LOG, según corresponda, para la aplicación de las acciones correspondientes.
+
+5.1.3 Del uso del servicio de correo electrónico
+a) De la contraseña del correo electrónico
+La composición de la contraseña del correo electrónico se define de acuerdo a la disposición de la directiva sobre Disposiciones del Servicio de Red, Internet Institucional y Red Virtual Privada.
+b) De la firma del Usuario y aviso de confidencialidad de información, en el correo electrónico
+b1) El Usuario debe configurar en su cuenta de correo electrónico, la incorporación automática de su firma, en el cuerpo de los nuevos mensajes.
+b2) El Usuario debe verificar en su firma personal, la existencia de la siguiente información:
+- Nombres y apellidos completos del Usuario;
+- Cargo o, de ser el caso, función desempeñada en el MRE;
+- Nombre y siglas de la unidad orgánica donde desempeña labores;
+- Dirección del local de la entidad donde labora;
+- Número telefónico de celular asignado al Usuario y/o, de ser el caso, teléfono de la central detallando el anexo;
+- Página web de la entidad: https://www.gob.pe/rree.
+b3) La firma personal es facilitada por personal de la Oficina General de Comunicación, para lo cual el Usuario debe comunicarse directamente con dicha unidad de organización.
+b4) La OTI configura al final de cada correo electrónico enviado por el Usuario, el aviso de confidencialidad de la información, según el texto detallado en el Anexo 1 "Aviso de confidencialidad de Información y reducción de impacto ambiental", de la presente directiva.
+c) De la responsabilidad del Usuario
+El Usuario es responsable de cumplir con:
+c1) Usar el servicio de correo electrónico con fines estrictamente laborales y con un criterio racional, para acceder a la información de otras instituciones y en el cumplimiento de sus funciones.
+c2) Gestionar la información recibida y enviada a través de su cuenta de correo electrónico asignada.
+c3) Ser responsable de las actividades realizadas con sus credenciales de acceso y con su buzón de correo electrónico brindado por el MRE.
+c4) Cumplir con la normatividad nacional aplicable al uso del correo electrónico institucional.
+c5) Revisar periódicamente el contenido del buzón de su cuenta de correo electrónico asignada.
+c6) Respaldar la información de su correo electrónico, utilizando los mecanismos que la OTI ponga a disposición.
+c7) Respetar el tamaño de buzón asignado.
+c8) El Usuario comunica inmediatamente a la mesa de ayuda de la OTI, sobre cualquier correo electrónico de procedencia dudosa para la revisión correspondiente.
+c9) Bloquear y eliminar los correos electrónicos y datos recibidos de remitentes desconocidos considerados como spam o malicioso.
+c10) Eliminar los mensajes de correo innecesarios u otros que considere en su bandeja de entrada, enviados y papelera.
+c11) Mantener bloqueado su equipo de cómputo, así como su dispositivo móvil de acceso al correo electrónico con PIN, Patrón, Huella Digital u otro mecanismo de seguridad, cuando no se encuentre cerca de los mismos, a fin de evitar intrusiones o el acceso de otras personas a su cuenta de correo electrónico.
+c12) El usuario acata todas las medidas de seguridad dispuestas por la OTI, con el objetivo de minimizar los riesgos de seguridad digital.
+c13) En vacaciones, licencias, ausencias u otro motivo, debe habilitar la opción de respuesta automática, consignado "Ausente de la oficina", además de la fecha de retorno y el Usuario alterno de contacto, para permitir la comunicación a otras instancias.
+c14) En caso el Usuario asigne una foto a su perfil del correo electrónico, ésta debe ser una fotografía personal y acorde con los fines de la institución.
+c15) Considerando que un mensaje de correo electrónico enviado al interior de la institución no debe exceder los 33 MB, en caso los archivos adjuntos que acompañen el mensaje superen ese tamaño, el Usuario debe generar un link o enlace de acceso al servicio de almacenamiento en nube institucional.
+c16) En caso de desvinculación, tiene la obligación de hacer entrega de la información contenida en la cuenta de correo electrónico institucional asignada, conforme a la normativa institucional que rige la entrega de cargo en la entidad.
+d) Medidas de seguridad
+d1) La OTI atiente la solicitud de acceso, interceptación o intervención de la información de correo electrónico de todo Usuario, conforme al inciso 10 del artículo 2 de la Constitución Política del Perú, así como a lo dispuesto en la normativa vigente sobre la materia.
+d2) La OTI debe aplicar a todas las cuentas de correo electrónico medidas de seguridad de autenticación multifactor, para prevenir riesgos de robos de credenciales a dichas cuentas.
+d3) La OTI aplica los controles según las medidas establecidas por el Oficial de Seguridad y Confianza Digital, manteniendo una postura de seguridad digital ante cualquier evento sospechoso y/o malicioso que atente con los servicios digitales del MRE y toma las acciones necesarias ante un posible incidente de seguridad digital.
+e) Prohibiciones en el uso del correo electrónico
+El Usuario se encuentra prohibido de:
+e1) Compartir su Usuario y contraseña de acceso.
+e2) Acceder de forma no autorizada y utilizar cuentas de otros Usuarios.
+e3) Responder correos o abrir adjuntos de mensajes de correo electrónico de fuentes no confiables.
+e4) Acceder a enlaces desconocidos.
+e5) Remitir mediante el correo electrónico material protegido por leyes de derechos de autor o poner dicho material a disposición de otros para ser copiado.
+e6) Usar el servicio de correo electrónico para difundir, visualizar o almacenar anuncios de interés personal, ajenos a fines laborales.
+e7) Enviar, transmitir o distribuir información que comprometa la seguridad del MRE y/o del Estado.
+e8) Enviar mensajes con publicidad o cualquier otro tipo de correo no solicitado (spam); así como tampoco deben enviar o difundir cadenas de mensajes.
+e9) Difundir mensajes con contenidos inadecuados o lesivos a la moral, como apología del terrorismo, software ilegal, malware y código malicioso en general.
+e10) Enviar o reenviar mensajes, imágenes o videos que incluyan contenidos sexuales u ofensivos en base al género, nacionalidad, orientación sexual, raza, religión, orientación política o discapacidad.
+e11) Hacer uso del servicio de correo electrónico para realizar envío masivo hacia cuentas de correo externas, teniendo en cuenta que el servicio de correo electrónico no es un servicio dedicado de mailing.
+e12) Enviar mensajes que consignen títulos, cargos o funciones no oficiales o falsas.
+e13) Incluir números de tarjetas de crédito, de cuentas corrientes, contraseñas u otra información confidencial y/o sensible.
+e14) El uso del servicio de correo electrónico Institucional para el envío y recepción de archivos adjuntos de tipo multimedia o ejecutable. Los tipos de archivo prohibidos son: (i) VBS, (ii) EXE, (iii) MP3, (iv) WMV, (v) AVI, (vi) MPEG, (vii) MPG, (viii) PPS, entre otros definidos por la OTI y listados en la Intranet Institucional.
+
+5.1.4 De la Baja de la cuenta de correo electrónico
+La OTI cancela la cuenta de correo electrónico en los siguientes casos:
+a) A solicitud de ORH, mediante memorándum dirigido a la OGI, comunicando el retiro de personal por finalización de relación laboral con el MRE o conclusión de prácticas y/o actividades de alumnos de la Academia Diplomática del Perú.
+b) En el caso de personas contratadas con órdenes de servicio, al término del contrato.
+c) Cuando OGI recibe memorándum de la unidad de organización solicitante del alta de: i) personal destacado en el ministerio, ii) secigrista o iii) buzón de correo electrónico, detallando la finalización de actividades/necesidad del servicio de correo electrónico.
+d) Cuando exista evidencia de la vulneración de la seguridad de información comunicada por el Oficial de Seguridad y Confianza Digital y/o quien haga de sus veces, la OTI bloquea o deshabilita la cuenta de correo electrónico de un Usuario.
+e) La unidad de organización donde pertenece el Usuario, puede solicitar a la SGG autorización para extender la vigencia de la cuenta de correo electrónico por un periodo no mayor a treinta (30) días. Si la SGG lo considera conveniente, instruye a la OGI, con copia a OTI, sobre la ampliación por el plazo requerido, para ello la unidad de organización asume la responsabilidad de manera conjunta con el Usuario.
+En todos los casos anteriores, luego de treinta (30) días de cumplida la vigencia de la cuenta de correo electrónico del Usuario, la OTI elimina automáticamente dicha cuenta y los servicios asociados (correo electrónico, almacenamiento en la nube y todos los servicios vinculados a la cuenta del Usuario).
+
+5.2 Servicio de almacenamiento en la nube
+5.2.1 De la habilitación del servicio de almacenamiento en la nube
+La OTI habilita automáticamente para todos los Usuarios del servicio de correo electrónico institucional, el servicio de almacenamiento en la nube.
+
+5.2.2 De la administración del almacenamiento en la nube
+La OTI administra el almacenamiento en la nube aplicando las siguientes disposiciones:
+a) Gestionar y administrar el servicio de almacenamiento en la nube.
+b) Proveer los mecanismos técnicos para brindar la privacidad y confidencialidad de la información contenida en el servicio de almacenamiento, si el Usuario cumple las disposiciones contenidas en la presente directiva.
+c) No realizar ningún respaldo de los archivos o carpetas u otro tipo de información depositada en el servicio de almacenamiento en la nube.
+
+5.2.3 Uso del almacenamiento en la nube
+Durante el uso del almacenamiento en la nube, el Usuario debe cumplir con:
+a) Utilizar el servicio exclusivamente para fines institucionales y por ningún motivo para objetivos particulares.
+b) Ingresar exclusivamente con su credencial de acceso y no compartirla.
+c) Ser el único responsable de la información cargada, eliminada, modificada y/o compartida en el servicio y la compartida mediante un archivo o carpeta con otros Usuarios con derecho de escritura o edición sobre el recurso compartido.
+
+5.2.4 Eliminación del almacenamiento en la nube
+OTI no es responsable de la información contenida en el almacenamiento de la nube, porque la misma es borrada de forma automática al momento de solicitar la eliminación de la cuenta de correo electrónico institucional, luego de treinta (30) días, no existiendo la posibilidad de recuperar dicha información. El usuario es responsable de realizar la copia de respaldo de la información de manera oportuna.
+
+5.3 Servicio de herramienta de colaboración
+5.3.1 Activación de cuenta para acceso a herramienta de colaboración
+a) La OTI habilita automáticamente para todos los Usuarios del servicio de correo electrónico institucional, el servicio de herramienta de colaboración.
+
+b) La unidad de organización a la cual pertenece el Usuario puede solicitar a la OGI con copia a OTI la desactivación y nueva activación del servicio de herramienta de colaboración; debiendo utilizar los conceptos detallados en el Anexo 3 "Términos y Definiciones".
+
+5.3.2 Administración del servicio de la herramienta de colaboración
+La OTI administra el servicio de la herramienta de colaboración. En ese sentido:
+a) Gestiona el servicio de herramientas de colaboración con el fin de asegurar el cumplimiento de los objetivos institucionales.
+b) Provee los mecanismos técnicos para brindar la privacidad y confidencialidad de la información contenida en el servicio de herramienta de colaboración, si el Usuario cumple estrictamente las disposiciones contenidas en la presente directiva.
+c) No realiza ningún respaldo de la información generada en la herramienta de colaboración y a otros servicios de la plataforma colaborativa. El usuario es responsable de realizar la copia de respaldo de la información de manera oportuna.
+
+5.3.3 Uso de la Herramienta de Colaboración
+a) De la estructura de la información
+La unidad de organización debe estructurar su forma de trabajo en la herramienta colaborativa, según su necesidad.
+b) De la creación de nombres
+Para la creación de los nombres de los grupos de chat, grupos o equipos de trabajo, entre otras opciones de las herramientas de colaboración; los Usuarios, en coordinación y bajo responsabilidad de su unidad de organización, definen nombres acordes a la finalidad de las actividades, funciones u objetivos del grupo y nivel institucional.
+c) De la programación de sesiones y/o comunicaciones con personal externo
+Los Usuarios en coordinación con su unidad de organización, programan sus sesiones de trabajo, moderan sus grupos de chat, grupos de trabajo, reuniones digitales (videollamadas) y controlan toda la información almacenada y generada en la plataforma de herramientas de colaboración.
+d) De las grabaciones
+Las reuniones digitales (videollamadas) pueden ser grabadas y son de responsabilidad del Usuario, así como, de su unidad de organización. Antes de iniciar la grabación el Usuario debe informarlo a sus asistentes, tanto internos como externos, y de acuerdo a la aprobación de ellos, pueden iniciar la grabación de la reunión. Estas grabaciones se encuentran en la nube del MRE, pueden ser accedidas y descargadas de acuerdo a los permisos otorgados por el Usuario, considerando que las citadas grabaciones expiran en noventa (90) días calendario, eliminándose en ese momento.
+e) Del soporte técnico
+• Para soporte técnico a las reuniones digitales (videollamadas), el Usuario debe de canalizarlo con 3 días hábiles de anticipación con la mesa de ayuda, a través de los canales de comunicación: correo electrónico, soportetecnico@rree.gob.pe, número de teléfono 01-2042566 o al número de anexo 2566; con la finalidad de asignar a personal técnico para la asistencia solicitada.
+• Los casos con poco tiempo de anticipación son atendidos de acuerdo con la disponibilidad.
+• El soporte técnico después del horario laboral, un sábado, un domingo o un feriado, es solicitado por memorándum a la OTI.
+f) De las herramientas
+El Usuario utiliza las herramientas de colaboración suministradas por el MRE, sobre las cuales se brinda soporte técnico. El uso de otras herramientas de colaboración es de responsabilidad del Usuario y el soporte técnico se brinda de acuerdo a la disponibilidad, capacidad y compatibilidad del mismo.
+El Usuario debe usar la herramienta de colaboración exclusivamente para fines institucionales y no debe ser utilizada con fines particulares.
+
+5.3.4 Desactivación y eliminación de la cuenta para acceso a la Herramienta de Colaboración
+a) La unidad de organización comunica a la OGI, mediante memorándum, la desactivación del acceso a las herramientas de colaboración.
+b) La OGI, mediante proveído, al memorándum de la Unidad de la Organización, instruye a la OTI la ejecución de lo solicitado.
+c) El servicio de herramienta de colaboración se elimina de forma automática al momento de solicitar la eliminación de la cuenta de correo electrónico institucional, luego de treinta (30) días se elimina permanentemente el contenido almacenado en la cuenta del Usuario, sin la posibilidad de recuperar la información eliminada. El usuario es responsable de realizar la copia de respaldo de la información de manera oportuna.
+
+6. DISPOSICIONES COMPLEMENTARIAS
+
+6.1 De la Seguridad de la Información
+La OTI implementa las políticas de seguridad de la información y propone mejoras técnicas, alineadas a los objetivos y controles de seguridad de la información indicados en el Anexo 2 "Objetivos de Control y Controles de Seguridad de la Información" establecidos en la NTP-ISO/IEC 27001:2022 Seguridad de la Información, Ciberseguridad y Protección de la Privacidad. Sistemas de Gestión de Seguridad de la Información. Requisitos.
+
+6.2 Del reporte del Informe de acciones de la OGI
+La OGI remite a la SGG informes trimestrales de las actividades de autorización realizadas e incumplimientos detectados.
+
+6.3 De Otras situaciones no previstas
+Excepcionalmente la SGG puede autorizar la atención de solicitudes para otras situaciones no contempladas en la presente Directiva, previa evaluación técnica favorable de la OGI y de las unidades de organización competentes; así como, del debido sustento de la unidad de organización solicitante.
+
+7. RESPONSABILIDADES
+Son responsables del cumplimiento de los lineamientos establecidos en la presente Directiva, todos los órganos, unidades orgánicas del MRE y todo el personal independientemente de su régimen laboral, modalidad y tipo de contratación, incluyendo a los secigristas y practicantes.
+
+ANEXOS
+
+Anexo 1 Aviso de confidencialidad de Información y reducción de impacto ambiental
+Anexo 2 Objetivos de Control y Controles de Seguridad de la Información.
+Anexo 3 Términos y Definiciones.
+
+ANEXO 1
+AVISO DE CONFIDENCIALIDAD DE INFORMACIÓN Y REDUCCIÓN DE IMPACTO AMBIENTAL
+
+Aviso de Confidencialidad de la Información
+El contenido de este mensaje de correo electrónico en su totalidad (texto y adjuntos) se dirige exclusivamente a su destinatario. Puede contener información privilegiada o confidencial y es para uso exclusivo de la persona/entidad de destino. El Ministerio de Relaciones Exteriores informa que este mensaje contiene información confidencial, cuyo uso, copia, reproducción o distribución está prohibida en virtud de la legislación vigente. Si ha recibido este mensaje por error, le solicitamos comunique al remitente y proceda a su eliminación sin copiar el mensaje o revelar su contenido.
+
+Aviso para reducir el Impacto Ambiental
+Imprima este mensaje y/o sus adjuntos solamente si es necesario hacerlo. Reduzcamos el consumo innecesario de papel. Cuidar el medio ambiente es responsabilidad de todos.
+
+ANEXO 2
+OBJETIVOS DE CONTROL Y CONTROLES DE SEGURIDAD DE LA INFORMACIÓN
+
+Los objetivos de control y controles establecidos en el Anexo A de la NTP-ISO/IEC 27001:2022 Seguridad de la Información, Ciberseguridad y Protección de la Privacidad. Sistemas de Gestión de Seguridad de la Información. Requisitos; están relacionadas a las disposiciones de la presente directiva, como se muestran a continuación:
+
+Dominio A8: Controles Tecnológicos
+1. Control A.8.1: Dispositivos de punto final del usuario
+La información almacenada, procesada o accesible a través de dispositivos terminales de usuario debería protegerse.
+Numerales de Directiva: 4.1.1, 4.2.3, 5.1.2, 5.2.3, 5.3.3
+
+Dominio A6: Controles de Personas
+2. Control A.6.7: Trabajo a distancia
+Se deberían implementar medidas de seguridad cuando el personal trabaja de forma remota para proteger la información accedido, procesado o almacenado fuera de las instalaciones de la organización.
+Numerales de Directiva: 4, 5
+
+Dominio A8: Controles Tecnológicos
+3. Control A.5.10: Uso aceptable de la información y otros activos asociados
+Reglas para el uso aceptable y procedimientos para el manejo de la información y otros activos asociados debería ser identificada, documentada e implementada
+Numerales de Directiva: 4, 5.1.2, 5.2.3, 5.3.3
+
+Dominio A5: Controles Organizacionales
+4. Control A.5.16: Gestión de la identidad
+El ciclo de vida completo de identidades debería gestionarse.
+Numerales de Directiva: 4.1.1, 5.1.1, 5.1.3, 5.2.1, 5.2.2, 5.2.4, 5.3.1, 5.3.2, 5.3.4
+
+5. Control A.5.18: Derechos de Acceso
+Los derechos de acceso a información y otros activos asociados deberían ser aprovisionados, revisados, modificados y removidos en concordancia con la política de tópico específico y las reglas para control de acceso de la organización.
+Numerales de Directiva: 4.1.1, 5.1.1, 5.1.3, 5.2.1, 5.2.2, 5.2.4, 5.3.1, 5.3.2, 5.3.4
+
+6. Control A.5.17: Información de autenticación
+La asignación y gestión de la información de autentificación debería ser controlada por un proceso de gestión, incluyendo el asesoramiento al personal sobre el manejo adecuado de la información de autenticación.
+Numerales de Directiva: 5.1.2, 5.2.3, 5.3.3
+
+7. Control A.5.18: Derechos de Acceso
+Los derechos de acceso a información y otros activos asociados deberían ser aprovisionados, revisados, modificados y removidos en concordancia con la política de tópico específico y las reglas para control de acceso de la organización.
+Numerales de Directiva: 4.1.1, 5.1.1, 5.1.3, 5.2.1, 5.2.2, 5.2.4, 5.3.1, 5.3.2, 5.3.4
+
+Dominio A5: Controles Organizacionales
+8. Control A. 5.17: Información de autenticación.
+La asignación y gestión de la información de autentificación debería ser controlada por un proceso de gestión, incluyendo el asesoramiento al personal sobre el manejo adecuado de la información de autenticación.
+Numerales de Directiva: 4.2.1, 4.2.2, 4.2.3, 5.1.2, 5.2.3, 5.3.3
+
+Dominio A8: Controles Tecnológicos
+9. Control A.8.5: Autenticación Segura
+Se deberían implementar tecnologías y procedimientos de autenticación seguros en función de las restricciones de acceso a la información y la política de tópico específico sobre el acceso.
+Numerales de Directiva: 5.1.2, 5.2.3, 5.3.3
+
+Dominio A5: Controles Organizacionales
+10. Control A. 5.17: Información de autenticación.
+La asignación y gestión de la información de autentificación debería ser controlada por un proceso de gestión, incluyendo el asesoramiento al personal sobre el manejo adecuado de la información de autenticación.
+Numerales de Directiva: 5.1.2, 5.2.3, 5.3.3
+
+Dominio A7: Controles Físicos
+11. Control A.7.9: Seguridad de los activos fuera de las instalaciones
+Los activos fuera del sitio deberían protegerse.
+Numeral de Directiva: 4.2.3
+
+Control A.7.7: Escritorio y pantalla despejados
+Deberían definirse y aplicarse adecuadamente reglas de escritorio limpio de papeles y medios de almacenamiento extraíbles y reglas de pantalla limpia en las instalaciones de procesamiento de información.
+Numeral de Directiva: 4.2.3
+
+Dominio A8: Controles Tecnológicos
+12. Control A.8.1: Dispositivos de punto final de usuario
+La información almacenada, procesada o accesible a través de dispositivos terminales de usuario debería protegerse.
+Numeral de Directiva: 4.2.3
+
+Dominio A5: Controles Organizacionales
+14. Control A.5.14: Transferencia de información
+Deberían existir reglas, procedimientos o acuerdos de transferencia de información para todos los tipos de instalaciones para transferencia, dentro de la organización y entre la organización y otras partes.
+Numerales de Directiva: 4.1.1, 5.1.2, 5.1.3, 5.2.2, 5.2.3, 5.2.4
+
+15. Control A.5.14: Transferencia de Información
+Deberían existir reglas, procedimientos o acuerdos de transferencia de información para todos los tipos de instalaciones para transferencia, dentro de la organización y entre la organización y otras partes.
+Numerales de Directiva: 4, 5
+
+ANEXO 3
+TÉRMINOS Y DEFINICIONES
+
+1. Autenticación
+Actividad para asegurar la identificación del Usuario.
+
+2. Autenticación multifactor (MFA)
+La autenticación multifactor (MFA) agrega una capa de protección al proceso de inicio de sesión. Cuando se accede a una cuenta o aplicación, los usuarios deben pasar por una verificación de identidad adicional; por ejemplo, tienen que escanear su huella digital o especificar un código que reciben en su teléfono.
+
+3. Buzón compartido
+El buzón compartido, tiene un nombre genérico, es usado para recibir y almacenar correos con acceso compartido por dos o más Usuarios.
+
+4. Confidencialidad de la información:
+Característica de la información inaccesible a personas, entidades o procesos no autorizados.
+
+5. Credenciales de acceso:
+Son los datos del "Usuario y contraseña" utilizados para el inicio de sesión en una página, sistema o equipo de cómputo.
+
+6. Cuenta de correo electrónico institucional:
+Cuenta de correo electrónico cuyo dominio pertenece al MRE.
+
+7. Cuenta de correo externa:
+Cuenta de correo electrónico cuyo dominio no pertenece al MRE, como, por ejemplo: (Hotmail, Gmail, Yahoo, Outlook, entre otros).
+
+8. Envío Masivo:
+Remisión de mensaje de correo electrónico dirigido a más de 20 destinatarios.
+
+9. Estación de trabajo:
+Terminal de computadora con la que se puede trabajar conectado a una red o de modo aislado.
+
+10. Mensaje externo/Mensaje interno:
+Un mensaje externo es aquel que tiene como origen el MRE y destino una cuenta de correo de otra institución. (Ej. De user1@rree.gob.pe para user1@hotmail.com). Asimismo, un mensaje interno, es aquel que tiene como origen y destino cuentas del MRE. (Ej. De user1@rree.gob.pe para user2@rree.gob.pe).
+
+11. Disponibilidad de la información:
+Característica de la información de ser accesible y utilizable por una entidad autorizada.
+
+12. Factores de Autenticación
+a) Dato conocido por el Usuario, ejemplo: contraseñas, pines, etcétera.
+b) Objeto poseído por el Usuario, ejemplo: tokens, tarjetas, llaves, u otros.
+c) Dato biométrico del Usuario, ejemplo: como huella digital, iris ocular, voz u otros.
+
+13. Integridad de la Información
+Característica de la información de ser exacta y completa.
+
+14. Nube
+Sistemas, equipos y servicios informáticos en línea.
+
+15. Plataforma colaborativa
+Sistema de información brindado por el MRE como una herramienta compuesta por procedimientos y componentes tecnológicos en la cual se habilita a los Usuarios la capacidad de relacionarse y colaborar en entornos digitales con otros Usuarios, utilizando mensajería instantánea, videoconferencia, llamadas por internet, edición en línea de documentos, compartir archivos, almacenamiento, entre otros, para actividades exclusivamente de uso oficial y para fines estrictamente laborales en la institución.
+
+16. Recurso Compartido
+Archivo o carpeta compartida por un Usuario con otros Usuarios, institucionales o externos.
+
+17. Servicio de Correo Electrónico Institucional
+El servicio de correo electrónico es una herramienta de comunicación, obtención e intercambio de información exclusivamente de uso oficial y para fines estrictamente laborales en la institución.
+
+18. Seguridad de la información
+Preservación de la confidencialidad, integridad y disponibilidad de la información.
+
+19. Spam o correo no deseado
+Correo electrónico comercial no solicitado.
